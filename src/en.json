@@ -756,7 +756,7 @@
     "qr-bill": "QR Bill",
     "transaction-creation-references-hint": "Don't forget to specify your customer references when setting up your transfer to the b-sharpe account.",
     "transaction-success-description": "Upon receipt of your funds, we will transfer the exchanged amount to account you specified.",
-    "transaction-buy-not-realtime-success-description": "Our team will contact you as soon as possible to inform you of the amount to send.",
+    "transaction-buy-not-realtime-success-description": "Our customer service will contact you as soon as possible to inform you of the amount to send.",
     "transaction-success-salary-description": "Upon receipt of your salary, we will transfer the exchanged amount to the account you specified.",
     "Select your beneficiary": "Select your beneficiary",
     "ok": "Ok",
@@ -1515,6 +1515,10 @@
     "intro-screen-3-title": "Our specialists at your disposal",
     "intro-screen-3-description": "We respond to your requests without delay",
     "intro-screen-4-title": "4,8/5 on Trustpilot",
-    "intro-screen-4-description": "Join our community of satisfied customers"
+    "intro-screen-4-description": "Join our community of satisfied customers",
+    "transaction-status-pending": "Pending",
+    "transaction-details-beneficiary-received": "Your beneficiary received",
+    "transaction-details-repeat-operation": "Repeat this operation",
+    "transaction-transaction-main-screen": "Main screen"
   }
 }
