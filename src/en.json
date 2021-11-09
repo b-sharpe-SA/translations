@@ -1519,6 +1519,8 @@
     "transaction-status-pending": "Pending",
     "transaction-details-beneficiary-received": "Your beneficiary received",
     "transaction-details-repeat-operation": "Repeat this operation",
-    "transaction-transaction-main-screen": "Main screen"
+    "transaction-transaction-main-screen": "Main screen",
+    "repeat-operation-message-title": "Did you know?",
+    "repeat-operation-message-description": "You can now repeat an operation! Open any operation and click \"repeat this operation\""
   }
 }
