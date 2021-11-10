@@ -1515,6 +1515,12 @@
     "intro-screen-3-title": "I nostri specialisti a vostra disposizione",
     "intro-screen-3-description": "Un team che risponde alle vostre richieste senza indugio",
     "intro-screen-4-title": "4.8/5 su Trustpilot",
-    "intro-screen-4-description": "Unisciti alla nostra comunità di clienti soddisfatti"
+    "intro-screen-4-description": "Unisciti alla nostra comunità di clienti soddisfatti",
+    "transaction-status-pending": "In attesa",
+    "transaction-details-beneficiary-received": "Il tuo beneficiario ha ricevuto",
+    "transaction-details-repeat-operation": "Ripetere l'operazione",
+    "transaction-transaction-main-screen": "Schermo principale",
+    "repeat-operation-message-title": "Lo sapevi?",
+    "repeat-operation-message-description": "Ora puoi ripetere un'operazione ! Apri qualsiasi operazione e clicca su \"Ripetere l'operazione\"."
   }
 }
