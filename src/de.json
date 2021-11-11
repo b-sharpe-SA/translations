@@ -699,7 +699,7 @@
     "add-alert-success-description": "Sie erhalten eine E-Mail-Benachrichtigung, sobald der Wechselkurs des ausgewählten Währungspaares den gewünschten Kurs erreicht.",
     "Rates and alerts": "Kurse und Benachrichtigungen",
     "is equal to": "ist gleich",
-    "New operation": "neue Transaktion",
+    "New operation": "Neue Transaktion",
     "Accept": "Akzeptieren",
     "You have no transaction yet": "Noch keine Transaktionen vorhanden",
     "transaction-detail-status-tooltip-in-progress": "Die gewünschte Transaktion wird nach Erhalt Ihrer Gelder ausgeführt.\nBitte denken Sie daran, uns die Gelder zeitnah zu überweisen, sollte dies nicht bereits geschehen sein.",
@@ -1515,6 +1515,12 @@
     "intro-screen-3-title": "Unsere Spezialisten zu Ihrer Verfügung",
     "intro-screen-3-description": "Ein Team, das unverzüglich auf Ihre Anfragen antwortet",
     "intro-screen-4-title": "4.8/5 auf Trustpilot",
-    "intro-screen-4-description": "Schließen Sie sich unserer Gemeinschaft zufriedener Kunden an"
+    "intro-screen-4-description": "Schließen Sie sich unserer Gemeinschaft zufriedener Kunden an",
+    "transaction-status-pending": "Anhängig",
+    "transaction-details-beneficiary-received": "Ihr Begünstigter erhielt",
+    "transaction-details-repeat-operation": "Wiederholen Sie diesen Vorgang",
+    "transaction-transaction-main-screen": "Hauptbildschirm",
+    "repeat-operation-message-title": "Wussten Sie das?",
+    "repeat-operation-message-description": "Sie können jetzt einen Vorgang wiederholen ! Öffnen Sie einen beliebigen Vorgang und klicken Sie auf \"Wiederholen Sie diesen Vorgang\"."
   }
 }
