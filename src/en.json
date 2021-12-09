@@ -639,7 +639,7 @@
     "Create my account": "Create my account",
     "password-requirements": "Use a minimum of {{length}} characters (case sensitive) with at least one numeric and special character (@$!%* #?&.,-)",
     "password-min-length-error": "Password must contain at least {{length}} characters",
-    "password-regex-error": "Password must contain at least one numeric and special character",
+    "password-regex-error": "Password must contain at least one numeric and special character (@$!%* #?&.,-)",
     "You agree to our": "You agree to our",
     "registration-manual-address-description": "Use an address for which you can provide supporting documentation (this is mandatory and will be requested later in the registration process).",
     "Post code": "Post code",
