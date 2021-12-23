@@ -750,6 +750,7 @@
     "Create account holder": "Create account holder",
     "Check your sms": "Check your phone for an SMS",
     "check-sms-description": "We've sent an SMS to {{phoneNumber}} containing a 6-digit code. Please enter it below.",
+    "add-beneficiary-success-title": "Request submitted",
     "add-beneficiary-success-description": "We just need to verify the identity of the account holder. We will confirm the beneficiary has been added within 24 hours tops*",
     "b-sharpe document to download": "b-sharpe document for download",
     "empty-beneficiaries": "You have no beneficiaries yet",
