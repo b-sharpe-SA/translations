@@ -1565,6 +1565,10 @@
     "mobile-banner-app": "App",
     "mobile-banner-dialog-title": "All your exchange operations at your fingertips",
     "mobile-banner-dialog-desc": "Scan the code below to download our app",
-    "mobile-banner-dialog-search-in-stores": "Or search for b-sharpe on your app store"
+    "mobile-banner-dialog-search-in-stores": "Or search for b-sharpe on your app store",
+    "mobile-app-modal-title": "Use the app for a better experience",
+    "mobile-app-modal-app-cta": "Continue with the app",
+    "mobile-app-modal-web-button": "Continue on the mobile website",
+    "mobile-app-modal-never-show": "Don’t ask me again"
   }
 }
