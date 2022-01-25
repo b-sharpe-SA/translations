@@ -978,6 +978,7 @@
     "error-biometry-unavailable": "{{sensor}} currently unavailable. Please try again later",
     "error-invalid-phone-number": "Invalid phone number",
     "error-iban-already-exist": "A beneficiary with this IBAN already exists.",
+    "error-biometry-not-enrolled": "You should setup biometrics in your device settings",
     "initial-chose-auth-method": "Select an authentication method.",
     "initial-sign-in-manually": "Password",
     "initial-not-register": "Not registered yet?",
