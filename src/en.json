@@ -1541,6 +1541,8 @@
     "account-add-own-beneficiary-description": "This is where you want us to send the funds. It can be your own account or a person close to you.",
     "account-change-account-action-title": "Change account",
     "account-log-out-action-title": "Log out",
+    "account-ready-item-title": "All set for your first operation!",
+    "account-ready-item-description": "Click on the \"+\" button to get started",
     "tab-simulator": "Simulator",
     "tab-history": "History",
     "tab-operation": "Operation",
