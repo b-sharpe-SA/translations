@@ -858,7 +858,7 @@
     "common-iban": "IBAN",
     "common-currency": "Currency",
     "common-account-currency": "Account currency",
-    "common-account-number": "Account number",
+    "common-account-number": "Customer reference",
     "common-account-name": "Account name",
     "common-save": "Save",
     "common-search": "Search",
