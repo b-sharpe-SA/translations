@@ -1175,7 +1175,7 @@
     "rate-app-modal-feedback-thanks": "Thank you for your feedback!",
     "rate-app-modal-store-rating": "Would you care to give us a 5 star rating on",
     "rate-app-modal-store-rate-submit": "Sure! Rate",
-    "biometry-auth-modal-description": "Use {{biometry}} to login to your b-sharpe account ?",
+    "biometry-auth-modal-description": "Use {{biometry}} to login to your b-sharpe account?",
     "biometry-auth-modal-action-enable": "Use {{biometry}}",
     "biometry-auth-modal-action-disable": "Not now",
     "drawer-home": "Home",

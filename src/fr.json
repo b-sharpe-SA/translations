@@ -1175,7 +1175,7 @@
     "rate-app-modal-feedback-thanks": "Merci pour votre feedback !",
     "rate-app-modal-store-rating": "Vous souhaitez nous donner une note de 5 étoiles sur",
     "rate-app-modal-store-rate-submit": "Laisser un avis",
-    "biometry-auth-modal-description": "Utiliser {{biometry}} Face ID pour vous connecter à votre compte b-sharpe ?",
+    "biometry-auth-modal-description": "Utiliser {{biometry}} Face ID pour vous connecter à votre compte b-sharpe?",
     "biometry-auth-modal-action-enable": "Utiliser {{biometry}}",
     "biometry-auth-modal-action-disable": "Pas maintenant",
     "drawer-home": "Accueil",
