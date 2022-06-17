@@ -1140,6 +1140,8 @@
     "beneficiary-editor-title": "Ajoutez un bénéficiaire",
     "beneficiary-editor-submit": "Ajouter un bénéficiaire",
     "beneficiary-editor-selected-address": "Selected",
+    "beneficiary-waiting-verification-text1": "", 
+    "beneficiary-waiting-verification-text2": "",
     "currency-selector-modal-title": "Sélectionnez une devise",
     "currency-selector-modal-empty": "Aucune devise trouvée",
     "language-selector-modal-title": "Sélectionnez une langue",

@@ -1139,6 +1139,8 @@
     "beneficiary-delete-modal-title": "Sei sicuro/a di voler disattivare questo beneficiario?",
     "beneficiary-editor-title": "Aggiungi un beneficiario",
     "beneficiary-editor-submit": "Aggiungi un beneficiario",
+    "beneficiary-waiting-verification-text1": "", 
+    "beneficiary-waiting-verification-text2": "",
     "beneficiary-editor-selected-address": "Selected",
     "currency-selector-modal-title": "Seleziona valuta",
     "currency-selector-modal-empty": "Nessuna valuta trovata",

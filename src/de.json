@@ -1140,6 +1140,8 @@
     "beneficiary-editor-title": "Zahlungsempfänger hinzufügen",
     "beneficiary-editor-submit": "Zahlungsempfänger hinzufügen",
     "beneficiary-editor-selected-address": "Selected",
+    "beneficiary-waiting-verification-text1": "", 
+    "beneficiary-waiting-verification-text2": "",
     "currency-selector-modal-title": "Wählen Sie die Währung",
     "currency-selector-modal-empty": "Keine Währung gefunden",
     "language-selector-modal-title": "Sprache auswählen",

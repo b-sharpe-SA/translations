@@ -1140,6 +1140,8 @@
     "beneficiary-editor-title": "Add a beneficiary",
     "beneficiary-editor-submit": "Add a beneficiary",
     "beneficiary-editor-selected-address": "Selected",
+    "beneficiary-waiting-verification-text1": "Our team is currently reviewing this beneficiary.", 
+    "beneficiary-waiting-verification-text2": "They should be available very soon.",
     "currency-selector-modal-title": "Select currency",
     "currency-selector-modal-empty": "Nothing to select from",
     "language-selector-modal-title": "Select language",
