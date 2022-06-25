@@ -620,9 +620,9 @@
   "hear-about-us-options": {
     "internet-search": "Internet search",
     "social-networks": "Social networks",
-    "newspaper": "Newspapers",
+    "newspaper": "Medias (Radio, TV, press...)",
     "advertising-display": "Advertising displays",
-    "word-of-mouth": "Word of mouth"
+    "word-of-mouth": "Recommendation"
   },
   "app": {
     "Legal notice": "Legal notice",
@@ -1143,7 +1143,7 @@
     "beneficiary-editor-title": "Add a beneficiary",
     "beneficiary-editor-submit": "Add a beneficiary",
     "beneficiary-editor-selected-address": "Selected",
-    "beneficiary-waiting-verification-text1": "Our team is currently reviewing this beneficiary.", 
+    "beneficiary-waiting-verification-text1": "Our team is currently reviewing this beneficiary.",
     "beneficiary-waiting-verification-text2": "They should be available very soon.",
     "currency-selector-modal-title": "Select currency",
     "currency-selector-modal-empty": "Nothing to select from",
