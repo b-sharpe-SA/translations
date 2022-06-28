@@ -852,6 +852,7 @@
     "common-good": "Buono",
     "common-strong": "Sicuro",
     "common-new-password": "Nuova password",
+    "common-old-password": "",
     "common-confirm-password": "Conferma password",
     "common-calculate": "Calcola",
     "common-edit": "Modifica",
