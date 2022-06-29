@@ -620,9 +620,9 @@
   "hear-about-us-options": {
     "internet-search": "Internet-Suche",
     "social-networks": "Soziale Netzwerke",
-    "newspaper": "Zeitungen",
+    "newspaper": "Media (Radio, Fernsehen, Presse...)",
     "advertising-display": "Werbebanner",
-    "word-of-mouth": "Mundpropaganda"
+    "word-of-mouth": "Empfehlung"
   },
   "app": {
     "Legal notice": "Impressum",
@@ -852,6 +852,7 @@
     "common-good": "Gut",
     "common-strong": "Stark",
     "common-new-password": "Neues Passwort",
+    "common-old-password": "Altes Passwort",
     "common-confirm-password": "Passwort bestätigen",
     "common-calculate": "Berechnen",
     "common-edit": "Bearbeiten",
@@ -932,6 +933,9 @@
     "common-day": "arbeitstag",
     "common-download-again": "Erneut herunterladen",
     "common-add": "Hinzufügen",
+    "common-plus": "Mehr",
+    "common-minus": "Weniger",
+    "common-cookies": "Cookies",
     "error-required": "Pflichtfeld",
     "error-min8Letters": "Mindestlänge: 8 Zeichen",
     "error-matchPassword": "Die Passwörter müssen übereinstimmen",
@@ -1140,8 +1144,8 @@
     "beneficiary-editor-title": "Zahlungsempfänger hinzufügen",
     "beneficiary-editor-submit": "Zahlungsempfänger hinzufügen",
     "beneficiary-editor-selected-address": "Selected",
-    "beneficiary-waiting-verification-text1": "", 
-    "beneficiary-waiting-verification-text2": "",
+    "beneficiary-waiting-verification-text1": "Unser Team prüft derzeit diesen Begünstigten.",
+    "beneficiary-waiting-verification-text2": "Wir werden Sie informieren, sobald Sie diesen verwenden können.",
     "currency-selector-modal-title": "Wählen Sie die Währung",
     "currency-selector-modal-empty": "Keine Währung gefunden",
     "language-selector-modal-title": "Sprache auswählen",
@@ -1246,6 +1250,7 @@
     "select-account-holders-title": "Kontoinhaber",
     "select-account-holders-modal-title": "Select Account holder",
     "select-account-holders-modal-add-button": "Neuen Halter hinzufügen",
+    "select-account-holders-modal-fetch-next": "Mehr Kontoinhaber anzeigen.",
     "reason-salary-conversion": "Wechseln von Gehalt",
     "reason-buying-selling-property": "Immobilien-Transaktion",
     "reason-buying-selling-good": "Kauf/Verkauf von Waren",
@@ -1312,6 +1317,8 @@
     "sign-up-corporate-personal-form-agreement-link-label": "allgemeine Nutzungsbedingungen",
     "sign-up-individual-personal": "Mit der Registrierung beginnen",
     "sign-up-individual-personal-description": "Zunächst einmal benötigen wir einige Informationen.",
+    "sign-up-individual-email-title": "Ihr b-sharpe Konto erstellen",
+    "sign-up-individual-email-description": "Mit dieser E-Mail-Adresse und diesem Passwort können Sie sich bei b-sharpe anmelden.",
     "sign-up-individual-email": "E-Mail-Adresse",
     "sign-up-individual-password": "Passwort einrichten",
     "sign-up-individual-password-subheading": "Mit diesem Passwort können Sie sich bei b-sharpe anmelden",
@@ -1349,6 +1356,7 @@
     "sign-up-individual-owner-options-my": "Mitinhaber des Kontos",
     "sign-up-individual-owner-options-other": "Sonstige",
     "sign-up-individual-joint-account": "Identität des Konto-Mitinhabers",
+    "sign-up-individual-joint-account-email": "E-Mail-Adresse des Mitinhabers des Kontos",
     "sign-up-individual-joint-account-description": "Als Schweizer Finanzintermediär benötigen wir einige zusätzliche Informationen über den Mitinhaber des Kontos.",
     "sign-up-individual-reason": "Was ist der Verwendungszweck für Ihre Transaktionen?",
     "sign-up-individual-reason-manual": "Bitte geben Sie die weiteren Verwendungszwecke für Ihre Transaktionen an",
@@ -1500,12 +1508,14 @@
     "receipt-operation-confirmation-link": "IBAN herunterladen",
     "receipt-operation-confirmation-message-title": "Ihre Referenzen",
     "receipt-operation-confirmation-message-text": "Bitte geben Sie bei der Überweisung auf das b-sharpe-Konto Ihre Kundenreferenzen an.",
-    "receipt-operation-confirmation-description-sell": "Here are the bank details of the b-sharpe account to which you must send us the funds.",
+    "receipt-operation-confirmation-description-sell": "Bitte überweisen Sie uns den zu wechselnden Betrag an die Bankverbindung des folgenden b-sharpe-Kontos.",
     "Key": "DE",
     "RUB": "Russischer Rubel",
     "in-progress": "In Bearbeitung",
     "completed": "Beendet",
     "see-more-operations": "Weitere Transaktionen anzeigen",
+    "see-more-alerts": "Mehr Benachrichtigungen anzeigen",
+    "see-more-beneficiaries": "Mehr Begünstigte anzeigen",
     "choose-reason": "Wähle einen Grund",
     "hear-about-us-internet-search": "Internet-Suche",
     "hear-about-us-social-networks": "Soziale Netzwerke",
@@ -1534,7 +1544,7 @@
     "select-account-currency-placeholder": "Wählen Sie die Währung",
     "account-title": "Konto",
     "account-description-done": "Hallo {{name}}, wie geht es Ihnen heute?",
-    "account-description-start": "Hallo {{name}}, für",
+    "account-description-start": "Hallo {{name}}, für ",
     "account-description-own": "Hallo {{name}}, schließen Sie die Einrichtung Ihres Kontos ab",
     "account-description-bold": "erhalten Sie Ihr Gehalt direkt von Ihrem Arbeitgeber",
     "account-description-end": ", es sind nur noch ein paar Schritte.",
@@ -1584,12 +1594,12 @@
     "mobile-app-modal-web-button": "Fortfahren auf der mobilen Website",
     "mobile-app-modal-never-show": "Fragen Sie mich nicht noch einmal"
   },
-   "onfido-sdk": {
-      "doc_select": {
-         "subtitle": ""
-      },
-      "welcome": {
-         "list_header_webcam": ""
-      }
-   }
+  "onfido-sdk": {
+    "doc_select": {
+      "subtitle": "Wir können keine Bilder von Bildschirmen (Screenshots) und Fotokopien akzeptieren."
+    },
+    "welcome": {
+      "list_header_webcam": "Verwenden Sie Ihr Handy, um ein Bild aufzunehmen von:"
+    }
+  }
 }

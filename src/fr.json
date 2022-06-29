@@ -620,9 +620,9 @@
   "hear-about-us-options": {
     "internet-search": "Recherche internet",
     "social-networks": "Réseaux sociaux",
-    "newspaper": "Journaux",
+    "newspaper": "Médias (Radio, TV, journaux...)",
     "advertising-display": "Affichage publicitaires",
-    "word-of-mouth": "Bouche à oreille"
+    "word-of-mouth": "Recommandation"
   },
   "app": {
     "Legal notice": "Mentions légales",
@@ -852,6 +852,7 @@
     "common-good": "Bon",
     "common-strong": "Sécurisé",
     "common-new-password": "Nouveau mot de passe",
+    "common-old-password": "Ancien mot de passe",
     "common-confirm-password": "Confirmez le mot de passe",
     "common-calculate": "Calculer",
     "common-edit": "Modifier",
@@ -932,6 +933,9 @@
     "common-day": "jour ouvré",
     "common-download-again": "Télécharger à nouveau",
     "common-add": "Ajouter",
+    "common-plus": "Plus",
+    "common-minus": "Moins",
+    "common-cookies": "Cookies",
     "error-required": "Requis",
     "error-min8Letters": "8 caractères minimum",
     "error-matchPassword": "Les mots de passe doivent correspondre",
@@ -1140,8 +1144,8 @@
     "beneficiary-editor-title": "Ajoutez un bénéficiaire",
     "beneficiary-editor-submit": "Ajouter un bénéficiaire",
     "beneficiary-editor-selected-address": "Selected",
-    "beneficiary-waiting-verification-text1": "", 
-    "beneficiary-waiting-verification-text2": "",
+    "beneficiary-waiting-verification-text1": "Notre équipe est en train de valider ce bénéficiaire.",
+    "beneficiary-waiting-verification-text2": "Nous vous informerons dès que vous pourrez l'utiliser.",
     "currency-selector-modal-title": "Sélectionnez une devise",
     "currency-selector-modal-empty": "Aucune devise trouvée",
     "language-selector-modal-title": "Sélectionnez une langue",
@@ -1246,6 +1250,7 @@
     "select-account-holders-title": "Titulaire du compte",
     "select-account-holders-modal-title": "Select Account holder",
     "select-account-holders-modal-add-button": "Ajouter nouveau titulaire",
+    "select-account-holders-modal-fetch-next": "Voir plus de titulaires de compte",
     "reason-salary-conversion": "Changer mon salaire",
     "reason-buying-selling-property": "Une transaction immobilière",
     "reason-buying-selling-good": "Une transaction commerciale",
@@ -1312,6 +1317,8 @@
     "sign-up-corporate-personal-form-agreement-link-label": "conditions générales d'utilisation",
     "sign-up-individual-personal": "Commençons l'inscription",
     "sign-up-individual-personal-description": "Tout d'abord, nous avons besoin de quelques informations sur vous.",
+    "sign-up-individual-email-title": "Créer votre compte b-sharpe",
+    "sign-up-individual-email-description": "Vous utiliserez cette adresse e-mail et mot de passe pour vous connecter à votre compte b-sharpe",
     "sign-up-individual-email": "Adresse e-mail",
     "sign-up-individual-password": "Créez un mot de passe",
     "sign-up-individual-password-subheading": "Vous utiliserez ce mot de passe pour vous connecter à b-sharpe",
@@ -1349,6 +1356,7 @@
     "sign-up-individual-owner-options-my": "Mon co-titulaire de compte",
     "sign-up-individual-owner-options-other": "Autre",
     "sign-up-individual-joint-account": "Identité du co-titulaire du compte",
+    "sign-up-individual-joint-account-email": "E-mail du co-titulaire de compte",
     "sign-up-individual-joint-account-description": "En tant qu'intermédiaire financier suisse, nous avons besoin de quelques informations supplémentaires sur le co-titulaire du compte.",
     "sign-up-individual-reason": "Quelle est la raison de vos opérations ?",
     "sign-up-individual-reason-manual": "Veuillez préciser les autres raisons de vos transactions",
@@ -1506,6 +1514,8 @@
     "in-progress": "En cours",
     "completed": "Terminé",
     "see-more-operations": "Voir plus d'opérations",
+    "see-more-alerts": "Voir plus d'alertes",
+    "see-more-beneficiaries": "Voir plus de bénéficiaires",
     "choose-reason": "Choisir une raison",
     "hear-about-us-internet-search": "Recherche internet",
     "hear-about-us-social-networks": "Réseaux sociaux",
@@ -1534,7 +1544,7 @@
     "select-account-currency-placeholder": "Sélectionnez une devise",
     "account-title": "Compte",
     "account-description-done": "Bonjour {{name}}, comment allez vous aujourd'hui ?",
-    "account-description-start": "Bonjour {{name}}, pour",
+    "account-description-start": "Bonjour {{name}}, pour ",
     "account-description-own": "Bonjour {{name}}, terminer la configuration de votre compte",
     "account-description-bold": "recevoir votre salaire directement depuis votre employeur",
     "account-description-end": ", il ne vous reste plus que quelques étapes",
@@ -1585,11 +1595,11 @@
     "mobile-app-modal-never-show": "Ne plus me demander"
   },
   "onfido-sdk": {
-      "doc_select": {
-         "subtitle": ""
-      },
-      "welcome": {
-         "list_header_webcam": ""
-      }
-   }
+    "doc_select": {
+      "subtitle": "Nous n'acceptons pas les photos d'écran ni de photocopie."
+    },
+    "welcome": {
+      "list_header_webcam": "Utilisez votre téléphone pour prendre une photo de : "
+    }
+  }
 }
