@@ -620,7 +620,7 @@
   "hear-about-us-options": {
     "internet-search": "Ricerca Internet",
     "social-networks": "Social network",
-    "newspaper": "Giornali",
+    "newspaper": "Media (radio, tv, giornali...)",
     "advertising-display": "Manifesti pubblicitari",
     "word-of-mouth": "Passaparola"
   },
@@ -852,7 +852,7 @@
     "common-good": "Buono",
     "common-strong": "Sicuro",
     "common-new-password": "Nuova password",
-    "common-old-password": "",
+    "common-old-password": "Vecchia password ",
     "common-confirm-password": "Conferma password",
     "common-calculate": "Calcola",
     "common-edit": "Modifica",
@@ -933,6 +933,9 @@
     "common-day": "giorno lavorativo",
     "common-download-again": "Scarica di nuovo",
     "common-add": "Aggiungere",
+    "common-plus": "Più",
+    "common-minus": "Meno",
+    "common-cookies": "Cookies",
     "error-required": "Obbligatorio",
     "error-min8Letters": "8 caratteri minimo",
     "error-matchPassword": "Le password devono corrispondere",
@@ -1140,9 +1143,9 @@
     "beneficiary-delete-modal-title": "Sei sicuro/a di voler disattivare questo beneficiario?",
     "beneficiary-editor-title": "Aggiungi un beneficiario",
     "beneficiary-editor-submit": "Aggiungi un beneficiario",
-    "beneficiary-waiting-verification-text1": "", 
-    "beneficiary-waiting-verification-text2": "",
     "beneficiary-editor-selected-address": "Selected",
+    "beneficiary-waiting-verification-text1": "Il nostro team sta attualmente verificando questo beneficiario.",
+    "beneficiary-waiting-verification-text2": "La informeremo quando questo potrà essere utilizzato.",
     "currency-selector-modal-title": "Seleziona valuta",
     "currency-selector-modal-empty": "Nessuna valuta trovata",
     "language-selector-modal-title": "Seleziona lingua",
@@ -1247,6 +1250,7 @@
     "select-account-holders-title": "Titolare del conto",
     "select-account-holders-modal-title": "Select Account holder",
     "select-account-holders-modal-add-button": "Aggiungi un nuovo titolare",
+    "select-account-holders-modal-fetch-next": "Vedi più titolari del conto",
     "reason-salary-conversion": "Cambio valuta stipendio",
     "reason-buying-selling-property": "Transazione immobiliare",
     "reason-buying-selling-good": "Transazione commerciale",
@@ -1313,6 +1317,8 @@
     "sign-up-corporate-personal-form-agreement-link-label": "condizioni generali d'uso",
     "sign-up-individual-personal": "Iniziamo la procedura di iscrizione",
     "sign-up-individual-personal-description": "Innanzitutto, abbiamo bisogno di alcune informazioni su di te.",
+    "sign-up-individual-email-title": "Crea il tuo account b-sharpe",
+    "sign-up-individual-email-description": "Questo indirizzo e-mail e questa password saranno utilizzati per effettuare l'accesso sulle piattaforme b-sharpe",
     "sign-up-individual-email": "Indirizzo e-mail",
     "sign-up-individual-password": "Crea una password",
     "sign-up-individual-password-subheading": "Avrai bisogno di questa password per accedere a b-sharpe",
@@ -1350,6 +1356,7 @@
     "sign-up-individual-owner-options-my": "Contitolare del mio conto",
     "sign-up-individual-owner-options-other": "Altro",
     "sign-up-individual-joint-account": "Identità del contitolare del conto",
+    "sign-up-individual-joint-account-email": "Indirizzo e-mail del contitolare del conto",
     "sign-up-individual-joint-account-description": "In qualità di intermediario finanziario svizzero, abbiamo bisogno di alcune informazioni supplementari in merito al contitolare del conto.",
     "sign-up-individual-reason": "Qual è il motivo della transazione?",
     "sign-up-individual-reason-manual": "Per favore, specifica eventuali altri motivi che rendono necessaria la transazione",
@@ -1501,12 +1508,14 @@
     "receipt-operation-confirmation-link": "Scarica l'IBAN",
     "receipt-operation-confirmation-message-title": "Riferimento da specificare",
     "receipt-operation-confirmation-message-text": "Ricordati di specificare il tuo riferimento cliente nell'effettuare il trasferimento sul conto b-sharpe.",
-    "receipt-operation-confirmation-description-sell": "Here are the bank details of the b-sharpe account to which you must send us the funds.",
+    "receipt-operation-confirmation-description-sell": "Di seguito le coordinate bancarie del conto b-sharpe sul quale dovrai versare i fondi.",
     "Key": "IT",
     "RUB": "Rublo russo",
     "in-progress": "In corso",
     "completed": "Concluso",
     "see-more-operations": "Consulta le altre transazioni",
+    "see-more-alerts": "Vedi più notifiche",
+    "see-more-beneficiaries": "Vedi più beneficiari",
     "choose-reason": "Scegli un motivo",
     "hear-about-us-internet-search": "Ricerca Internet",
     "hear-about-us-social-networks": "Social network",
@@ -1535,7 +1544,7 @@
     "select-account-currency-placeholder": "Seleziona valuta",
     "account-title": "Conto",
     "account-description-done": "Buongiorno {{name}}, come stai?",
-    "account-description-start": "Buongiorno {{name}}, per",
+    "account-description-start": "Buongiorno {{name}}, per ",
     "account-description-own": "Buongiorno {{name}}, completa la configurazione del tuo conto corrente",
     "account-description-bold": "ricevere lo stipendio direttamente dal tuo datore di lavoro",
     "account-description-end": "mancano solo pochi passaggi.",
@@ -1586,11 +1595,11 @@
     "mobile-app-modal-never-show": "Non chiedere più"
   },
   "onfido-sdk": {
-      "doc_select": {
-         "subtitle": ""
-      },
-      "welcome": {
-         "list_header_webcam": ""
-      }
-   }
+    "doc_select": {
+      "subtitle": "Non possiamo accettare foto di schermi (screenshot) e fotocopie."
+    },
+    "welcome": {
+      "list_header_webcam": "Utilizza il telefono per catturare un'immagine di:"
+    }
+  }
 }
