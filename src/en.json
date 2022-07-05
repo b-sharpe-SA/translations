@@ -1600,7 +1600,10 @@
   },
   "onfido-sdk": {
     "doc_select": {
-      "subtitle": "We cannot accept pictures of screens and photocopies."
+      "onfido_doc_select_title":"Choose your document",
+      "subtitle": "We cannot accept pictures of screens and photocopies.",
+      "passport_subtitle": "Photo page",
+      "identity_card_subtitle":"Front and back"      
     },
     "welcome": {
       "list_header_webcam": "Use your phone to take a picture of:"
