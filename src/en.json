@@ -1596,7 +1596,8 @@
     "mobile-app-modal-title": "Use the app for a better experience",
     "mobile-app-modal-app-cta": "Continue with the app",
     "mobile-app-modal-web-button": "Continue on the mobile website",
-    "mobile-app-modal-never-show": "Don’t ask me again"
+    "mobile-app-modal-never-show": "Don’t ask me again",
+    "upload-file-size-limit": "File cannot exceed {{sizeLimit}}. Please select a smaller file."
   },
   "onfido-sdk": {
     "doc_select": {
