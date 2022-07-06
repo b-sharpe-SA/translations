@@ -670,15 +670,15 @@
     "error-missing-zipcode": "Code postal requis",
     "error-missing-city": "Ville requise",
     "error-missing-street": "Rue requise",
-    "resend-esign-otp-code": "Vous n'avez pas reçu le code ?",
+    "resend-esign-otp-code": "Vous n'avez pas reçu le code au {{phoneNumber}} ?",
     "error-have-account-title": "Vous avez déjà un compte ?",
     "error-have-account-description": "Cet e-mail est déjà utilisé. Vous pouvez l'utiliser pour vous connecter pour à votre compte b-sharpe.",
     "Change my email address": "Changer mon adresse e-mail",
     "edit your number": "Modifier mon numéro",
-    "Sign you contract by entering the verification code": "",
+    "Sign you contract by entering the verification code": "Entrez le code de vérification reçu par SMS pour signer votre contrat électroniquement",
     "Resend": "Renvoyer",
-    "Resend code": "",
-    "Incorrect email?": "",
+    "Resend code": "Envoyer un autre code",
+    "Incorrect email?": "E-mail incorrect ?",
     "edit my number": "Modifier mon numéro",
     "Confirmed request": "Demande confirmée",
     "company-registration-success-description": "{{name}}, nous accusons réception de votre inscription.\nVous serez bientôt contacté par notre service client pour finaliser votre inscription.",
@@ -860,7 +860,7 @@
     "common-iban": "IBAN",
     "common-currency": "Devise",
     "common-account-currency": "Account currency",
-    "common-account-number": "Référence client",
+    "common-account-number": "Numéro de compte",
     "common-account-name": "Nom du compte",
     "common-save": "Enregistrer",
     "common-search": "Recherche",
@@ -1387,7 +1387,7 @@
     "sign-up-individual-document-options-id-card-description": "Le recto et le verso sont nécessaires",
     "sign-up-individual-esign": "Signez votre contrat",
     "sign-up-individual-esign-otp": "Entrez le code de vérification pour signer votre contrat électroniquement",
-    "sign-up-individual-esign-code": "Vous n'avez pas reçu votre code ? Renvoyer un code.",
+    "sign-up-individual-esign-code": "Vous n'avez pas reçu votre code au {{phoneNumber}} ? Renvoyer un code.",
     "sign-up-individual-esign-code-tooltip": "Renvoyer le code ou modifier mon numéro",
     "sign-up-individual-proof-address": "Ajoutez un justificatif de domicile",
     "sign-up-individual-proof-address-description": "Pour finaliser votre inscription, veuillez ajouter un justificatif de domicile datant de moins de trois mois (facture d'électricité, d'eau ou de téléphone, facture fiscale ou autre facture officielle)",
@@ -1564,8 +1564,9 @@
     "account-ready-item-description": "Cliquer sur le bouton \"+\" pour commencer",
     "account-ready-item-description-desktop": "Cliquer sur \"Nouvelle Opération\" pour commencer",
     "account-not-ready-item-title": "Tout est prêt pour votre première opération !",
-    "account-not-ready-item-description": "Lorsque vous aurez complété ces deux étapes, vous pourrez créer une nouvelle opération",
+    "account-not-ready-item-description": "Lorsque vous aurez complété ces 2 étapes, vous pourrez créer une nouvelle opération",
     "account-update-information": "Mettre à jour ces informations",
+    "account-reference": "Référence client",
     "tab-simulator": "Simulateur",
     "tab-history": "Historique",
     "tab-operation": "Opérations",
@@ -1595,14 +1596,15 @@
     "mobile-app-modal-title": "Utiliser l'app pour une meilleure expérience",
     "mobile-app-modal-app-cta": "Continuer avec l'app",
     "mobile-app-modal-web-button": "Continuer sur le site mobile",
-    "mobile-app-modal-never-show": "Ne plus me demander"
+    "mobile-app-modal-never-show": "Ne plus me demander",
+    "upload-file-size-limit": "La taille des fichiers ne peut dépasser {{sizeLimit}}. Merci de sélectionner un autre fichier."
   },
   "onfido-sdk": {
     "doc_select": {
       "subtitle": "Nous n'acceptons pas les photos d'écran ni de photocopie.",
-      "title": "",
-      "button_passport_detail": "",
-      "button_id_detail": ""      
+      "title": "Choisissez le document que vous souhaitez utiliser pour vérifier votre identité",
+      "button_passport_detail": "Page avec photo",
+      "button_id_detail":"Recto et verso"      
     },
     "welcome": {
       "list_header_webcam": "Utilisez votre téléphone pour prendre une photo de : "
