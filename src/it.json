@@ -670,15 +670,15 @@
     "error-missing-zipcode": "Codice postale obbligatorio",
     "error-missing-city": "Città obbligatoria",
     "error-missing-street": "Strada obbligatoria",
-    "resend-esign-otp-code": "Non hai ricevuto il codice?",
+    "resend-esign-otp-code": "Non hai ricevuto il codice al {{phoneNumber}} ?",
     "error-have-account-title": "Hai già un account?",
     "error-have-account-description": "Questo indirizzo e-mail è già in uso. Puoi utilizzarlo per accedere al tuo account b-sharpe.",
     "Change my email address": "Cambiare indirizzo e-mail",
     "edit your number": "Modificare il mio numero",
-    "Sign you contract by entering the verification code": "",
+    "Sign you contract by entering the verification code": "Inserisci il codice di verifica ricevuto via SMS per firmare elettronicamente il tuo contratto",
     "Resend": "Invia di nuovo",
-    "Resend code": "",
-    "Incorrect email?": "",
+    "Resend code": "Invia di nuovo il codice",
+    "Incorrect email?": "E-mail errata?",
     "edit my number": "Modificare il mio numero",
     "Confirmed request": "Richiesta confermata",
     "company-registration-success-description": "{{name}}, abbiamo ricevuto la tua richiesta di iscrizione.\nIl nostro servizio clienti ti contatterà non appena possibile per finalizzare l'iscrizione.",
@@ -860,7 +860,7 @@
     "common-iban": "IBAN",
     "common-currency": "Valuta",
     "common-account-currency": "Account currency",
-    "common-account-number": "Riferimento cliente",
+    "common-account-number": "Numero del conto",
     "common-account-name": "Nome Account",
     "common-save": "Salva",
     "common-search": "Ricerca",
@@ -1387,7 +1387,7 @@
     "sign-up-individual-document-options-id-card-description": "Sono necessari entrambi i lati (anteriore e posteriore)",
     "sign-up-individual-esign": "Firma il contratto",
     "sign-up-individual-esign-otp": "Inserisci il codice di verifica per firmare il contratto elettronicamente",
-    "sign-up-individual-esign-code": "Non hai ricevuto il codice? Invia di nuovo il codice.",
+    "sign-up-individual-esign-code": "Non hai ricevuto il codice al {{phoneNumber}}? Invia di nuovo il codice.",
     "sign-up-individual-esign-code-tooltip": "Invia di nuovo il codice o modifica il mio numero.",
     "sign-up-individual-proof-address": "Aggiungi un giustificativo di domicilio",
     "sign-up-individual-proof-address-description": "Per completare l'iscrizione, scarica un giustificativo di domicilio datato non più di tre mesi (bolletta della luce, gas, acqua o contratto di affitto).",
@@ -1566,6 +1566,7 @@
     "account-not-ready-item-title": "È tutto pronto per la tua prima operazione!",
     "account-not-ready-item-description": "Una volta completati questi 2 passaggi, è possibile creare una nuova operazione",
     "account-update-information": "Aggiorna le informazioni",
+    "account-reference": "Riferimento cliente",
     "tab-simulator": "Simulatore",
     "tab-history": "Storico",
     "tab-operation": "Operazione",
@@ -1595,14 +1596,15 @@
     "mobile-app-modal-title": "Usa l'app per un'esperienza migliore",
     "mobile-app-modal-app-cta": "Continua sull'app",
     "mobile-app-modal-web-button": "Continua sul sito Internet per dispositivi mobili",
-    "mobile-app-modal-never-show": "Non chiedere più"
+    "mobile-app-modal-never-show": "Non chiedere più",
+    "upload-file-size-limit": "Il file non può superare il {{sizeLimit}}. Seleziona un file più piccolo."
   },
   "onfido-sdk": {
     "doc_select": {
       "subtitle": "Non possiamo accettare foto di schermi (screenshot) e fotocopie.",
-      "title": "",
-      "button_passport_detail": "",
-      "button_id_detail": ""
+      "title": "Scegliere il documento che si desidera utilizzare per verificare la propria identità",
+      "button_passport_detail": "Pagina con foto",
+      "button_id_detail":"Davanti e dietro"      
     },
     "welcome": {
       "list_header_webcam": "Utilizza il telefono per catturare un'immagine di:"
