@@ -1599,7 +1599,10 @@
   },
   "onfido-sdk": {
     "doc_select": {
-      "subtitle": "Nous n'acceptons pas les photos d'écran ni de photocopie."
+      "subtitle": "Nous n'acceptons pas les photos d'écran ni de photocopie.",
+      "title": "",
+      "button_passport_detail": "",
+      "button_id_detail": ""      
     },
     "welcome": {
       "list_header_webcam": "Utilisez votre téléphone pour prendre une photo de : "

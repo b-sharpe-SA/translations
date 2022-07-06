@@ -1599,7 +1599,10 @@
   },
   "onfido-sdk": {
     "doc_select": {
-      "subtitle": "Non possiamo accettare foto di schermi (screenshot) e fotocopie."
+      "subtitle": "Non possiamo accettare foto di schermi (screenshot) e fotocopie.",
+      "title": "",
+      "button_passport_detail": "",
+      "button_id_detail": ""
     },
     "welcome": {
       "list_header_webcam": "Utilizza il telefono per catturare un'immagine di:"

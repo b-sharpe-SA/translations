@@ -1601,10 +1601,10 @@
   },
   "onfido-sdk": {
     "doc_select": {
-      "onfido_doc_select_title":"Choose your document",
       "subtitle": "We cannot accept pictures of screens and photocopies.",
-      "passport_subtitle": "Photo page",
-      "identity_card_subtitle":"Front and back"      
+      "title": "Choose the document you want to use to verify your identiy",
+      "button_passport_detail": "Photo page",
+      "button_id_detail":"Front and back"      
     },
     "welcome": {
       "list_header_webcam": "Use your phone to take a picture of:"
