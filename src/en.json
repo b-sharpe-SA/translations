@@ -1602,7 +1602,7 @@
   "onfido-sdk": {
     "doc_select": {
       "subtitle": "We cannot accept pictures of screens and photocopies.",
-      "title": "Choose the document you want to use to verify your identiy",
+      "title": "Choose the document you want to use to verify your identity",
       "button_passport_detail": "Photo page",
       "button_id_detail":"Front and back"      
     },
