@@ -835,7 +835,7 @@
     "user-account-greeting": "Buongiorno {{name}}, come stai?",
     "user-account-send-from-salary-account": "Non hai un conto corrente svizzero oppure vuoi che il tuo stipendio passi direttamente attraverso b-sharpe.",
     "user-account-download-iban-desc": "È il conto corrente al quale dovrai inviare i fondi da convertire",
-    "user-account-add-bank-account-iban-desc": "Riceverete i fondi lì dopo la conversione. Devi essere un proprietario o un titolare.",
+    "user-account-add-bank-account-iban-desc": "Riceverete i fondi lì dopo la conversione. Deve essere il vostro conto personale.",
     "sign-up-proof-of-address-document-requirements": "Formati file supportati: PDF, JPEG, JPG, PNG\nDimensioni max file: 10 MB",
 
     "common-continue": "Continua",
