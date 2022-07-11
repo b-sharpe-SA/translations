@@ -835,7 +835,7 @@
     "user-account-greeting": "Hi {{name}}, how are you doing today?",
     "user-account-send-from-salary-account": "You want b-sharpe to receive your salary directly from your employer",
     "user-account-download-iban-desc": "This is the account where you will send the money that will be exchanged",
-    "user-account-add-bank-account-iban-desc": "This is where you want us to send the funds. It can be your own account or a person close to you. ",
+    "user-account-add-bank-account-iban-desc": "This is where you want us to send the funds. It must be your own account.",
     "sign-up-proof-of-address-document-requirements": "Supported file format : PDF, JPEG, JPG, PNG. Max file size : 10 Mb",
 
     "common-continue": "Continue",
