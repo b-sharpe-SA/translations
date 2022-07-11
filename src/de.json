@@ -835,7 +835,7 @@
     "user-account-greeting": "Hallo {{name}}, wie geht es Ihnen heute?",
     "user-account-send-from-salary-account": "Sie möchten, dass b-sharpe Ihr Gehalt direkt von Ihrem Arbeitgeber erhält.",
     "user-account-download-iban-desc": "Dies ist das Konto, auf das Sie das Geld senden, das umgetauscht wird",
-    "user-account-add-bank-account-iban-desc": "Dies ist das Konto, auf das Sie die geänderten Mittel erhalten möchten. Es muss sich um Ihr eigenes Konto oder das einer Ihnen nahestehenden Person handeln.",
+    "user-account-add-bank-account-iban-desc": "Dies ist das Konto, auf das Sie die geänderten Mittel erhalten möchten. Es muss sich um Ihr eigenes Konto handeln.",
     "sign-up-proof-of-address-document-requirements": "Unterstützte Dateiformate: PDF, JPEG, JPG, PNG\nMaximale Dateigröße: 10 MB",
 
     "common-continue": "Weiter",
