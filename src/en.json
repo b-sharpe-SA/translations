@@ -1601,19 +1601,15 @@
     "upload-file-size-limit": "File cannot exceed {{sizeLimit}}. Please select a smaller file."
   },
   "new-operation": {
-    "title": "New operation",
+    "title": "Exchange money",
     "alert-flow-changed": "Your operation flow has changed ! We hope you will enjoy it !",
     "btn-send-money-label": "Send money to exchange",
     "btn-send-money-description": "Transfer money from your bank",
     "btn-receive-money-label": "Receive money from a third party",
     "btn-receive-money-description": "Get your salary or other payments",
-    "send-money-title": "Send money",
     "send-money-subtitle": "Enter the amount you want to exchange or the amount your beneficiary must receive.",
     "btn-select-beneficiary-label": "Select a beneficiary",
-    "stepper-select-amount": "Select the amount",
-    "stepper-select-beneficiary": "Select your beneficiary",
-    "stepper-review-validate": "Review and validate",
-    "stepper-send-funds": "Send the funds",
+    "beneficiary-step-subtitle": "Select the bank account where the money will go",
     "receive-money-title": "Receive money",
     "receive-money-subtitle": "Tell us more about the money you’re expecting",
     "receive-money-info": "How does it work ? You want to receive money from a third party in a specific currency but do not have any bank account. We can receive it, exchange it and make the transfer to you. If you expect your salary, please provide provide this document to your employer first.",
@@ -1652,7 +1648,7 @@
     "lock-rate-modal-no-locking": "Continue without locking",
     "send-funds-title": "Send us the funds",
     "disclaimer-send-funds": "b-sharpe won’t take the money from your bank account.",
-    "make-transfer": "Open your e-banking and make a bank transfer of <strong>{{amount}} {{currency}}</strong> to b-sharpe {{currency}} account below before the <strong>{{date}}</strong>.",
+    "make-transfer": "Open your e-banking and make a bank transfer of <strong>exactly {{amount}} {{currency}}</strong> to b-sharpe {{currency}} account below before the <strong>{{date}}</strong>.",
     "no-forget-reference": "Don’t forget to include your reference as \"Reason for payment\"/\"Message for the beneficiary\". Not including those will cause important delays.",
     "btn-sent-funds-label": "I’ve sent the funds",
     "btn-do-later-label": "I’ll do it later",
@@ -1663,6 +1659,10 @@
   },
   "common": {
     "beneficiaries": "Beneficiaries",
+    "beneficiary": "Beneficiary",
+    "review": "Review",
+    "request": "Request",
+    "send": "Send",
     "add": "Add",
     "confirm": "Confirm",
     "details": "Details",
@@ -1674,7 +1674,9 @@
     "done": "Done",
     "download-iban": "Download IBAN",
     "ok": "OK",
-    "from": "From"
+    "from": "From",
+    "amount": "Amount",
+    "info-copied": "Information copied"
   },
   "onfido-sdk": {
     "doc_select": {

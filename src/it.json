@@ -1607,13 +1607,9 @@
     "btn-send-money-description": "",
     "btn-receive-money-label": "",
     "btn-receive-money-description": "",
-    "send-money-title": "",
     "send-money-subtitle": "",
     "btn-select-beneficiary-label": "",
-    "stepper-select-amount": "",
-    "stepper-select-beneficiary": "",
-    "stepper-review-validate": "",
-    "stepper-send-funds": "",
+    "beneficiary-step-subtitle": "",
     "receive-money-title": "",
     "receive-money-subtitle": "",
     "receive-money-info": "",
@@ -1663,6 +1659,10 @@
   },
   "common": {
     "beneficiaries": "",
+    "beneficiary": "",
+    "review": "",
+    "request": "",
+    "send": "",
     "add": "",
     "confirm": "",
     "details": "",
@@ -1674,7 +1674,9 @@
     "done": "",
     "download-iban": "",
     "ok": "",
-    "from": ""
+    "from": "",
+    "amount": "",
+    "info-copied": ""
   },
   "onfido-sdk": {
     "doc_select": {
