@@ -1658,6 +1658,13 @@
     "thank-modal-subtitle-later": "",
     "thank-modal-info": ""
   },
+  "account": {
+    "info-modification": "",
+    "btn-delete-account-label": "",
+    "title": "",
+    "delete-account-message": "",
+    "delete-account-success-message": ""
+  },
   "common": {
     "beneficiaries": "",
     "beneficiary": "",
@@ -1671,14 +1678,22 @@
     "iban": "",
     "swift": "",
     "address": "",
+    "phone-number": "",
     "reference": "",
+    "customer-reference": "",
     "done": "",
     "download-iban": "",
     "employer-document": "",
     "ok": "",
     "from": "",
     "amount": "",
-    "info-copied": ""
+    "info-copied": "",
+    "change-password": "",
+    "log-out": "",
+    "terms-conditions": "",
+    "switch-account": "",
+    "no": "",
+    "yes": ""
   },
   "onfido-sdk": {
     "doc_select": {

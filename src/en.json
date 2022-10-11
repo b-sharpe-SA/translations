@@ -1658,6 +1658,13 @@
     "thank-modal-subtitle-later": "Don't forget!",
     "thank-modal-info": "At reception, we will exchange your funds and transfer the money toyour beneficiary account within 24 working hours."
   },
+  "account": {
+    "info-modification": "For any modification, plase contact our customer service by clicking on question mark located on the top-right corner.",
+    "btn-delete-account-label": "Delete my account",
+    "title": "Account and settings",
+    "delete-account-message": "Do you really want to delete your account ? You won't be able to use b-sharpe after that.",
+    "delete-account-success-message": "Your request has been taken into account. We will inform you as soon as your account is closed. It may take up to 7 working days."
+  },
   "common": {
     "beneficiaries": "Beneficiaries",
     "beneficiary": "Beneficiary",
@@ -1671,14 +1678,22 @@
     "iban": "iban",
     "swift": "swift",
     "address": "Address",
+    "phone-number": "Phone number",
     "reference": "Reference",
+    "customer-reference": "Customer reference",
     "done": "Done",
     "download-iban": "Download IBAN",
     "employer-document": "Employer document",
     "ok": "OK",
     "from": "From",
     "amount": "Amount",
-    "info-copied": "Information copied"
+    "info-copied": "Information copied",
+    "change-password": "Change password",
+    "log-out": "Log out",
+    "terms-conditions": "Terms and conditions",
+    "switch-account": "Change account",
+    "no": "No",
+    "yes": "Yes"
   },
   "onfido-sdk": {
     "doc_select": {
