@@ -1649,6 +1649,7 @@
     "disclaimer-send-funds": "",
     "disclaimer-ask-funds": "",
     "make-transfer": "",
+    "within-48-hours": "",
     "ask-transfer": "",
     "no-forget-reference": "",
     "btn-sent-funds-label": "",
@@ -1656,7 +1657,9 @@
     "thank-modal-title": "",
     "thank-modal-subtitle-success": "",
     "thank-modal-subtitle-later": "",
-    "thank-modal-info": ""
+    "thank-modal-info": "",
+    "thank-modal-subtitle-later-rate-locked": "",
+    "thank-modal-receive-title": ""
   },
   "account": {
     "info-modification": "",
@@ -1693,7 +1696,14 @@
     "terms-conditions": "",
     "switch-account": "",
     "no": "",
-    "yes": ""
+    "yes": "",
+    "simulator": "",
+    "history": "",
+    "alerts": "",
+    "more": "",
+    "iban-documents": "",
+    "new-operation": "",
+    "my-account": ""
   },
   "onfido-sdk": {
     "doc_select": {

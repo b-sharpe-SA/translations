@@ -1625,8 +1625,8 @@
     "input-source-funds-ref-placeholder-employer": "Employer name",
     "input-source-funds-ref-placeholder": "Reference",
     "input-amount-receive-label": "Exact amount",
-    "btn-review-label": "Review your operation",
-    "btn-confirm-label": "Confirm your operation",
+    "btn-review-label": "Review",
+    "btn-confirm-label": "Confirm",
     "you-send": "You send us",
     "you-receive": "You receive",
     "you-should-receive": "You should receive",
@@ -1648,15 +1648,17 @@
     "lock-rate-modal-no-locking": "Continue without locking",
     "disclaimer-send-funds": "b-sharpe won’t take the money from your bank account.",
     "disclaimer-ask-funds": "Don’t forget to ask your {{sourceFunds}} to add your reference as \"Reason for payment\"/\"Message for the beneficiary\". Not including those will cause important delays.",
-    "make-transfer": "Open your e-banking and make a bank transfer of <strong>exactly {{amount}} {{currency}}</strong> to b-sharpe {{currency}} account within 48 hours.",
+    "make-transfer": "Open your e-banking and make a bank transfer of <strong>exactly {{amount}} {{currency}}</strong> to b-sharpe {{currency}} account",
+    "within-48-hours": "within 48 working hours.",
     "ask-transfer": "Ask your {{sourceFunds}} to transfer the <strong>{{amount}} {{currency}}</strong> on b-sharpe {{currency}} account below.",
     "no-forget-reference": "Don’t forget to include your reference as \"Reason for payment\"/\"Message for the beneficiary\". Not including those will cause important delays.",
-    "btn-sent-funds-label": "I’ve sent the funds",
+    "btn-sent-funds-label": "I’ve sent the money",
     "btn-do-later-label": "I’ll do it later",
     "thank-modal-title": "Thank you for using b-sharpe",
-    "thank-modal-subtitle-success": "All good!",
-    "thank-modal-subtitle-later": "Don't forget!",
-    "thank-modal-info": "At reception, we will exchange your funds and transfer the money toyour beneficiary account within 24 working hours."
+    "thank-modal-subtitle-success": "Your money is on its way!💸",
+    "thank-modal-subtitle-later": "Don't forget to send us your money!",
+    "thank-modal-subtitle-later-rate-locked": "Don't forget to send us your money within 48 hours!",
+    "thank-modal-receive-title": "We are waiting for your money!"
   },
   "account": {
     "info-modification": "For any modification, plase contact our customer service by clicking on question mark located on the top-right corner.",
@@ -1693,7 +1695,14 @@
     "terms-conditions": "Terms and conditions",
     "switch-account": "Change account",
     "no": "No",
-    "yes": "Yes"
+    "yes": "Yes",
+    "simulator": "Simulator",
+    "history": "History",
+    "alerts": "Alerts",
+    "more": "More",
+    "iban-documents": "IBAN and Documents",
+    "new-operation": "New operation",
+    "my-account": "My account"
   },
   "onfido-sdk": {
     "doc_select": {
