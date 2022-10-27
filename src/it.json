@@ -1668,6 +1668,10 @@
     "delete-account-message": "",
     "delete-account-success-message": ""
   },
+  "simulator": {
+    "title": "",
+    "subtitle": ""
+  },
   "common": {
     "beneficiaries": "",
     "beneficiary": "",

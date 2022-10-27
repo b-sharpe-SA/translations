@@ -1667,6 +1667,10 @@
     "delete-account-message": "Do you really want to delete your account ? You won't be able to use b-sharpe after that.",
     "delete-account-success-message": "Your request has been taken into account. We will inform you as soon as your account is closed. It may take up to 7 working days."
   },
+  "simulator": {
+    "title": "Foreign currency exchange calculator",
+    "subtitle": "Get a preview of how much you or your recipients will receive"
+  },
   "common": {
     "beneficiaries": "Beneficiaries",
     "beneficiary": "Beneficiary",
