@@ -1679,7 +1679,12 @@
     "btn-feedback-label": "",
     "feedback": "",
     "no-answer": "",
-    "share-feedback": ""
+    "share-feedback": "",
+    "call-modal-title": "",
+    "call-modal-subtitle": "",
+    "feedback-form-subject-label": "",
+    "feedback-form-body-label": "",
+    "feedback-form-submit-btn": ""
   },
   "common": {
     "beneficiaries": "",

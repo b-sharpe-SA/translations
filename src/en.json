@@ -1679,7 +1679,12 @@
     "btn-feedback-label": "📝 Feedback",
     "feedback": "Feedback",
     "no-answer": "Couldn’t find the answer ?",
-    "share-feedback": "📝 share your feedback and help us improve"
+    "share-feedback": "📝 share your feedback and help us improve",
+    "call-modal-title": "Call us",
+    "call-modal-subtitle": "You can join us on the <strong>{{phone}}</strong> from Monday to Friday, 8AM to 6PM.",
+    "feedback-form-subject-label": "Subject",
+    "feedback-form-body-label": "Body",
+    "feedback-form-submit-btn": "Send your feedback"
   },
   "common": {
     "beneficiaries": "Beneficiaries",
@@ -1716,7 +1721,8 @@
     "more": "More",
     "iban-documents": "IBAN and Documents",
     "new-operation": "New operation",
-    "my-account": "My account"
+    "my-account": "My account",
+    "close": "Close"
   },
   "onfido-sdk": {
     "doc_select": {
