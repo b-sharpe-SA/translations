@@ -1659,7 +1659,9 @@
     "thank-modal-subtitle-later": "",
     "thank-modal-info": "",
     "thank-modal-subtitle-later-rate-locked": "",
-    "thank-modal-receive-title": ""
+    "thank-modal-receive-title": "",
+    "no-beneficiaries-match-currency": "",
+    "no-beneficiaries-match-search": ""
   },
   "account": {
     "info-modification": "",
@@ -1722,7 +1724,10 @@
     "more": "",
     "iban-documents": "",
     "new-operation": "",
-    "my-account": ""
+    "my-account": "",
+    "close": "",
+    "message": "",
+    "search": ""
   },
   "onfido-sdk": {
     "doc_select": {
