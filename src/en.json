@@ -1602,7 +1602,7 @@
   },
   "new-operation": {
     "title": "Exchange money",
-    "alert-flow-changed": "Your operation flow has changed ! We hope you will enjoy it !",
+    "alert-flow-changed": "Your operation flow has changed! We hope you will enjoy it!",
     "btn-send-money-label": "Send money to exchange",
     "btn-send-money-description": "Transfer money from your bank",
     "btn-receive-money-label": "Receive money from a third party",
@@ -1658,7 +1658,8 @@
     "thank-modal-subtitle-success": "Your money is on its way!💸",
     "thank-modal-subtitle-later": "Don't forget to send us your money!",
     "thank-modal-subtitle-later-rate-locked": "Don't forget to send us your money within 48 hours!",
-    "thank-modal-receive-title": "We are waiting for your money!"
+    "thank-modal-receive-title": "We are waiting for your money!",
+    "no-beneficiaries-match-currency": "No beneficiary for currency {{currency}}"
   },
   "account": {
     "info-modification": "For any modification, plase contact our customer service by clicking on question mark located on the top-right corner.",
@@ -1722,7 +1723,9 @@
     "iban-documents": "IBAN and Documents",
     "new-operation": "New operation",
     "my-account": "My account",
-    "close": "Close"
+    "close": "Close",
+    "message": "Message",
+    "search": "Search"
   },
   "onfido-sdk": {
     "doc_select": {

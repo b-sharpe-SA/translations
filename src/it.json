@@ -1722,7 +1722,10 @@
     "more": "",
     "iban-documents": "",
     "new-operation": "",
-    "my-account": ""
+    "my-account": "",
+    "close": "",
+    "message": "",
+    "search": ""
   },
   "onfido-sdk": {
     "doc_select": {
