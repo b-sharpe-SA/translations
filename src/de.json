@@ -1428,6 +1428,7 @@
     "lock-current-rate": "Lock current rate",
     "lock-current-rate-not-available": "Locking rate not available",
     "disclaimer-current-rate-not-lock": "*These are indicative values. Upon receipt of your funds, we will notify you of the exchange rate applied as well as the amount you will receive.",
+    "disclaimer-current-rate-not-lock-buy": "",
     "tooltip-lock-rate": "During our working hours and for most currencies, we are able to lock this rate for you, whatever happens on the market.",
     "lock-rate-modal-available-info": "We guarantee the exact rate displayed now. On your side, you have the obligation to send the funds within 48 working hours.",
     "lock-rate-modal-unavailable-info": "Current rate is available from 9am to 6pm, Monday-Friday except swiss bank holidays.",
@@ -1447,6 +1448,7 @@
     "thank-modal-subtitle-later": "Don't forget to send us your money!",
     "thank-modal-subtitle-later-rate-locked": "Don't forget to send us your money within 48 hours!",
     "thank-modal-receive-title": "We are waiting for your money!",
+    "thank-modal-buy-rate-no-lock": "",
     "no-beneficiaries-match-currency": "No beneficiary for currency {{currency}}",
     "no-beneficiaries-match-search": "No beneficiary match your search"
   },

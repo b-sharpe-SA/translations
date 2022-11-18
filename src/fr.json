@@ -1428,6 +1428,7 @@
     "lock-current-rate": "Bloquer le taux actuel",
     "lock-current-rate-not-available": "Blocage du taux indisponible",
     "disclaimer-current-rate-not-lock": "*Ces valeurs sont fournies à titre indicatif. A réception des fonds, nous vous informerons du taux de change appliqué ainsi que du montant que vous recevrez.",
+    "disclaimer-current-rate-not-lock-buy": "",
     "tooltip-lock-rate": "Pendant nos heures d'ouverture et pour certaines devises, nous pouvons vous bloquer le taux actuel, peu importe l'évolution du marché.",
     "lock-rate-modal-available-info": "Nous vous garantissons le taux actuel. De votre coté, vous vous engagez à nous envoyer les fonds sous 48 heures ouvrées.",
     "lock-rate-modal-unavailable-info": "Le blocage du taux est disponible du lundi au vendredi de 9h à 18h à l'exception des jours fériés suisses.",
@@ -1447,6 +1448,7 @@
     "thank-modal-subtitle-later": "N'oubliez pas de nous envoyer l'argent !",
     "thank-modal-subtitle-later-rate-locked": "N'oubliez pas de nous envoyer l'argent sous 48 heures !",
     "thank-modal-receive-title": "Nous attendons votre argent !",
+    "thank-modal-buy-rate-no-lock": "",
     "no-beneficiaries-match-currency": "Pas de bénéficiaire {{currency}}",
     "no-beneficiaries-match-search": "Pas de bénéficiaire correspondant"
   },

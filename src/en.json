@@ -1428,14 +1428,15 @@
     "lock-current-rate": "Lock current rate",
     "lock-current-rate-not-available": "Locking rate not available",
     "disclaimer-current-rate-not-lock": "*These are indicative values. Upon receipt of your funds, we will notify you of the exchange rate applied as well as the amount you will receive.",
+    "disclaimer-current-rate-not-lock-buy": "*There are indicative values. We will notify you of the exchange rate applied as well as the amount you must send as soon as possible.",
     "tooltip-lock-rate": "During our working hours and for most currencies, we are able to lock this rate for you, whatever happens on the market.",
     "lock-rate-modal-available-info": "We guarantee the exact rate displayed now. On your side, you have the obligation to send the funds within 48 working hours.",
-    "lock-rate-modal-unavailable-info": "Current rate is available from 9am to 6pm, Monday-Friday except swiss bank holidays.",
+    "lock-rate-modal-unavailable-info": "Locking the rate is available from 9 am to 6pm, Monday-Friday except swiss bank holidays.",
     "lock-rate-modal-confirm": "I confirm",
     "lock-rate-modal-ok": "Got it!",
     "lock-rate-modal-no-locking": "Continue without locking",
     "disclaimer-send-funds": "b-sharpe won’t take the money from your bank account.",
-    "disclaimer-ask-funds": "Don’t forget to ask your {{sourceFunds}} to add your reference as \"Reason for payment\"/\"Message for the beneficiary\". Not including those will cause important delays.",
+    "disclaimer-ask-funds": "Don’t forget to ask your {{sourceFunds}} to add your reference as \"Reason for payment\"/\"Message for the beneficiary\". Not including it will cause important delays.",
     "make-transfer": "Open your e-banking and make a bank transfer of <strong>exactly {{amount}} {{currency}}</strong> to b-sharpe {{currency}} account",
     "within-48-hours": "within 48 working hours.",
     "ask-transfer": "Ask your {{sourceFunds}} to transfer the <strong>{{amount}} {{currency}}</strong> on b-sharpe {{currency}} account below.",
@@ -1447,19 +1448,22 @@
     "thank-modal-subtitle-later": "Don't forget to send us your money!",
     "thank-modal-subtitle-later-rate-locked": "Don't forget to send us your money within 48 hours!",
     "thank-modal-receive-title": "We are waiting for your money!",
+    "thank-modal-buy-rate-no-lock": "We will inform you ASAP of the amount to send.",
     "no-beneficiaries-match-currency": "No beneficiary for currency {{currency}}",
-    "no-beneficiaries-match-search": "No beneficiary match your search"
+    "no-beneficiaries-match-search": "No beneficiary match your search",
+    "modal-confirm-buy-no-real-rate-title": "Confirm operation",
+    "modal-confirm-buy-no-real-rate-content": "We cannot provide a rate for this operation right now. If you confirm anyway, it means that you accept the rate that we will give you. Otherwise, you can contact our trading team to lock the rate."
   },
   "account": {
-    "info-modification": "For any modification, plase contact our customer service by clicking on question mark located on the top-right corner.",
+    "info-modification": "For any modification, please contact our customer service by clicking on question mark located on the top-right corner.",
     "btn-delete-account-label": "Delete my account",
     "title": "Account and settings",
     "delete-account-message": "Do you really want to delete your account ? You won't be able to use b-sharpe after that.",
     "delete-account-success-message": "Your request has been taken into account. We will inform you as soon as your account is closed. It may take up to 7 working days."
   },
   "simulator": {
-    "title": "Foreign currency exchange calculator",
-    "subtitle": "Get a preview of how much you or your recipients will receive"
+    "title": "Simulator",
+    "subtitle": "Get a preview of how much you or your beneficiary will receive"
   },
   "help": {
     "title": "Help",
@@ -1471,9 +1475,9 @@
     "no-answer": "Couldn’t find the answer ?",
     "share-feedback": "📝 share your feedback and help us improve",
     "call-modal-title": "Call us",
-    "call-modal-subtitle": "You can join us on the <strong>{{phone}}</strong> from Monday to Friday, 8AM to 6PM.",
+    "call-modal-subtitle": "You can join us on the {{phone}} from Monday to Friday, 9 am to 6pm.",
     "feedback-form-subject-label": "Subject",
-    "feedback-form-body-label": "Body",
+    "feedback-form-body-label": "Description",
     "feedback-form-submit-btn": "Send your feedback"
   },
   "common": {
@@ -1486,8 +1490,8 @@
     "confirm": "Confirm",
     "details": "Details",
     "account": "Account",
-    "iban": "iban",
-    "swift": "swift",
+    "iban": "IBAN",
+    "swift": "SWIFT",
     "address": "Address",
     "phone-number": "Phone number",
     "reference": "Reference",
