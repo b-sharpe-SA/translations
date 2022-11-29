@@ -1428,7 +1428,7 @@
     "lock-current-rate": "Bloquer le taux actuel",
     "lock-current-rate-not-available": "Blocage du taux indisponible",
     "disclaimer-current-rate-not-lock": "*Ces valeurs sont fournies à titre indicatif. A réception des fonds, nous vous informerons du taux de change appliqué ainsi que du montant que vous recevrez.",
-    "disclaimer-current-rate-not-lock-buy": "",
+    "disclaimer-current-rate-not-lock-buy": "*Ces valeurs sont fournies à titre indicatif. Nous vous informerons du taux de change appliqué ainsi que du montant à envoyer dès que possible.",
     "tooltip-lock-rate": "Pendant nos heures d'ouverture et pour certaines devises, nous pouvons vous bloquer le taux actuel, peu importe l'évolution du marché.",
     "lock-rate-modal-available-info": "Nous vous garantissons le taux actuel. De votre coté, vous vous engagez à nous envoyer les fonds sous 48 heures ouvrées.",
     "lock-rate-modal-unavailable-info": "Le blocage du taux est disponible du lundi au vendredi de 9h à 18h à l'exception des jours fériés suisses.",
@@ -1448,12 +1448,14 @@
     "thank-modal-subtitle-later": "N'oubliez pas de nous envoyer l'argent !",
     "thank-modal-subtitle-later-rate-locked": "N'oubliez pas de nous envoyer l'argent sous 48 heures !",
     "thank-modal-receive-title": "Nous attendons votre argent !",
-    "thank-modal-buy-rate-no-lock": "",
+    "thank-modal-buy-rate-no-lock": "Nous vous informerons dès que possible du montant à envoyer.",
     "no-beneficiaries-match-currency": "Pas de bénéficiaire {{currency}}",
-    "no-beneficiaries-match-search": "Pas de bénéficiaire correspondant"
+    "no-beneficiaries-match-search": "Pas de bénéficiaire correspondant",
+    "modal-confirm-buy-no-real-rate-title": "Confirmer l'opération",
+    "modal-confirm-buy-no-real-rate-content": "Nous ne pouvons vous fournir un taux pour cette opération pour le moment. Si vous confirmez quand même, cela signifie que vous acceptez le taux que nous vous donnerons. Sinon, vous pouvez contacter notre équipe trading pour bloquer le taux."
   },
   "account": {
-    "info-modification": "Pour n'importe quelle modification, merci de contacter notre service client en cliquant sur le bouton d'aide situé en haut à droite de l'écran.",
+    "info-modification": "Pour toute modification, merci de contacter notre service client en cliquant sur le bouton d'aide situé en haut à droite de l'écran.",
     "btn-delete-account-label": "Supprimer mon compte",
     "title": "Compte et paramètres",
     "delete-account-message": "Voulez vous vraiment supprimer votre compte ? Vous ne pourrez plus utiliser les services de b-sharpe après cela.",
