@@ -1457,7 +1457,19 @@
     "btn-delete-account-label": "Mein Konto löschen",
     "title": "Account and settings",
     "delete-account-message": "Wollen Sie Ihr Konto wirklich löschen? Danach können Sie b-sharpe nicht mehr verwenden.",
-    "delete-account-success-message": "Wir haben Ihren Antrag berücksichtigt. Wir werden Sie informieren, sobald Ihr Konto geschlossen ist. Dies kann bis zu 7 Arbeitstage dauern."
+    "delete-account-success-message": "Wir haben Ihren Antrag berücksichtigt. Wir werden Sie informieren, sobald Ihr Konto geschlossen ist. Dies kann bis zu 7 Arbeitstage dauern.",
+    "how-receive-salary": "Hallo {{firstname}}, nur noch zwei Schritte, damit b-sharpe Ihr Gehalt direkt von Ihrem Arbeitgeber erhalten kann.",
+    "own-link": "Sie überweisen uns das Geld von Ihrem eigenen Bankkonto",
+    "download-salary-document-title": "Das Arbeitgeberdokument herunterladen",
+    "download-salary-document-description": "Dieses Dokument müssen Sie Ihrem Arbeitgeber vorlegen. Es enthält alle notwendigen Informationen, um Ihr Gehalt an uns zu zahlen.",
+    "add-salary-beneficiary-title": "Fügen Sie Ihr Bankkonto als Zahlungsempfänger hinzu",
+    "add-salary-beneficiary-description": "Dort möchten Sie Ihr Gehalt erhalten, sobald es geändert worden ist. Sie müssen der Kontoinhaber sein.",
+    "salary-link": "Sie möchten, dass b-sharpe Ihr Gehalt direkt von Ihrem Arbeitgeber erhält.",
+    "download-own-document-title": "Fügen Sie die b-sharpe IBAN zu Ihrem gewohnten Online Banking hinzu",
+    "download-own-document-description": "Das ist das Konto, auf das Sie uns den zu wechselnden Betrag überweisen müssen",
+    "add-own-beneficiary-title": "Fügen Sie Ihr Bankkonto als Zahlungsempfänger hinzu",
+    "add-own-beneficiary-description": "Dies ist das Konto, auf das Sie die geänderten Mittel erhalten möchten. Es muss sich um Ihr eigenes Konto oder das einer Ihnen nahestehenden Person handeln.",
+    "account-ready": "🎉 Klicken Sie auf den \"Neue Transaktion\" Button, um loszulegen"
   },
   "simulator": {
     "title": "Foreign currency exchange calculator",

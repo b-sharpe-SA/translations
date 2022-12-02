@@ -1459,7 +1459,19 @@
     "btn-delete-account-label": "Delete my account",
     "title": "Account and settings",
     "delete-account-message": "Do you really want to delete your account ? You won't be able to use b-sharpe after that.",
-    "delete-account-success-message": "Your request has been taken into account. We will inform you as soon as your account is closed. It may take up to 7 working days."
+    "delete-account-success-message": "Your request has been taken into account. We will inform you as soon as your account is closed. It may take up to 7 working days.",
+    "how-receive-salary": "Hi {{firstname}}, to receive your salary directly from your employer, follow the 2 steps below.",
+    "own-link": "You send the funds from your own bank account",
+    "download-salary-document-title": "Download the employer document",
+    "download-salary-document-description": "You need to provide this document to your employer. It contains all the information for them to transfer us your salary.",
+    "add-salary-beneficiary-title": "Add your bank account as a beneficiary",
+    "add-salary-beneficiary-description": "This is where you want us to send your salary. You need to be the account holder.",
+    "salary-link": "You want b-sharpe to receive your salary directly from your employer.",
+    "download-own-document-title": "Add b-sharpe IBAN to your usual e-banking account",
+    "download-own-document-description": "This is the account where you will send the money that will be changed",
+    "add-own-beneficiary-title": "Add your bank account as a beneficiary",
+    "add-own-beneficiary-description": "This is where you want us to send the funds. It can be your own account or a person close to you.",
+    "account-ready": "🎉 Ready to click on “New operation” and get started"
   },
   "simulator": {
     "title": "Simulator",

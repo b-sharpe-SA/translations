@@ -1457,7 +1457,19 @@
     "btn-delete-account-label": "Cancellare il mio account",
     "title": "Account and settings",
     "delete-account-message": "Vuoi davvero cancellare il tuo account? Non potrai più usare b-sharpe.",
-    "delete-account-success-message": "La sua richiesta è stata presa in considerazione. Vi informeremo non appena il vostro conto verrà chiuso. Potrebbero essere necessari fino a 7 giorni lavorativi."
+    "delete-account-success-message": "La sua richiesta è stata presa in considerazione. Vi informeremo non appena il vostro conto verrà chiuso. Potrebbero essere necessari fino a 7 giorni lavorativi.",
+    "how-receive-salary": "Ciao {{firstname}}, restano solo due passaggi per ricevere il tuo stipendio direttamente dal tuo datore di lavoro.",
+    "own-link": "Inviaci i fondi dal tuo conto corrente bancario",
+    "download-salary-document-title": "Scarica il documento per il datore di lavoro",
+    "download-salary-document-description": "Consegnalo al tuo datore di lavoro. Contiene tutte le informazioni necessarie per versare il tuo stipendio sul nostro conto.",
+    "add-salary-beneficiary-title": "Inserisci come beneficiario il tuo conto corrente",
+    "add-salary-beneficiary-description": "Riceverai lì lo stipendio dopo la conversione. Devi essere intestatario o intestataria.",
+    "salary-link": "Vuoi che il tuo stipendio passi direttamente attraverso b-sharpe.",
+    "download-own-document-title": "Aggiungi l’IBAN b-sharpe alla rubrica del tuo Home Banking",
+    "download-own-document-description": "È il conto corrente al quale dovrai inviare i fondi da convertire",
+    "add-own-beneficiary-title": "Inserisci come beneficiario il tuo conto corrente",
+    "add-own-beneficiary-description": "Riceverete i fondi lì dopo la conversione. Devi essere un proprietario o un titolare.",
+    "account-ready": "🎉 Clicca sul pulsante \"Nuova transazione\" per iniziare"
   },
   "simulator": {
     "title": "Foreign currency exchange calculator",
