@@ -1428,7 +1428,7 @@
     "lock-current-rate": "Bloquer le taux actuel",
     "lock-current-rate-not-available": "Blocage du taux indisponible",
     "disclaimer-current-rate-not-lock": "*Ces valeurs sont fournies à titre indicatif. A réception des fonds, nous vous informerons du taux de change appliqué ainsi que du montant que vous recevrez.",
-    "disclaimer-current-rate-not-lock-buy": "",
+    "disclaimer-current-rate-not-lock-buy": "*Ces valeurs sont fournies à titre indicatif. Nous vous informerons du taux de change appliqué ainsi que du montant à envoyer dès que possible.",
     "tooltip-lock-rate": "Pendant nos heures d'ouverture et pour certaines devises, nous pouvons vous bloquer le taux actuel, peu importe l'évolution du marché.",
     "lock-rate-modal-available-info": "Nous vous garantissons le taux actuel. De votre coté, vous vous engagez à nous envoyer les fonds sous 48 heures ouvrées.",
     "lock-rate-modal-unavailable-info": "Le blocage du taux est disponible du lundi au vendredi de 9h à 18h à l'exception des jours fériés suisses.",
@@ -1448,18 +1448,20 @@
     "thank-modal-subtitle-later": "N'oubliez pas de nous envoyer l'argent !",
     "thank-modal-subtitle-later-rate-locked": "N'oubliez pas de nous envoyer l'argent sous 48 heures !",
     "thank-modal-receive-title": "Nous attendons votre argent !",
-    "thank-modal-buy-rate-no-lock": "",
+    "thank-modal-buy-rate-no-lock": "Nous vous informerons dès que possible du montant à envoyer.",
     "no-beneficiaries-match-currency": "Pas de bénéficiaire {{currency}}",
-    "no-beneficiaries-match-search": "Pas de bénéficiaire correspondant"
+    "no-beneficiaries-match-search": "Pas de bénéficiaire correspondant",
+    "modal-confirm-buy-no-real-rate-title": "Confirmer l'opération",
+    "modal-confirm-buy-no-real-rate-content": "Nous ne pouvons vous fournir un taux pour cette opération pour le moment. Si vous confirmez quand même, cela signifie que vous acceptez le taux que nous vous donnerons. Sinon, vous pouvez contacter notre équipe trading pour bloquer le taux."
   },
   "account": {
-    "info-modification": "Pour n'importe quelle modification, merci de contacter notre service client en cliquant sur le bouton d'aide situé en haut à droite de l'écran.",
+    "info-modification": "Pour toute modification, merci de contacter notre service client en cliquant sur le bouton d'aide situé en haut à droite de l'écran.",
     "btn-delete-account-label": "Supprimer mon compte",
     "title": "Compte et paramètres",
     "delete-account-message": "Voulez vous vraiment supprimer votre compte ? Vous ne pourrez plus utiliser les services de b-sharpe après cela.",
     "delete-account-success-message": "Votre demande a bien été prise en compte. Nous vous informerons dès que votre compte est supprimé. Cela peut prendre jusqu'à 7 jours ouvrés.",
     "how-receive-salary": "Bonjour {{firstname}}, plus que deux étapes pour que b-sharpe puisse recevoir votre salaire directement de votre employeur.",
-    "how-receive-own": "Bonjour {{firstname}}, terminer la configuration de votre compte",
+    "how-receive-own": "Bonjour {{name}}, terminer la configuration de votre compte pour pouvoir faire votre première opération",
     "own-link": "Vous envoyez le fonds depuis votre propre compte bancaire",
     "download-salary-document-title": "Télécharger le document employeur",
     "download-salary-document-description": "Vous devez fournir ce document à votre employeur. Il contient toutes les informations nécessaires pour le versement de votre salaire.",
@@ -1470,7 +1472,7 @@
     "download-own-document-description": "C'est le compte sur lequel nous vous enverrons les fonds changés",
     "add-own-beneficiary-title": "Ajoutez votre compte bancaire en tant que bénéficiaire",
     "add-own-beneficiary-description": "C'est le compte sur lequel vous souhaitez recevoir les fonds changés. Cela doit être votre propre compte ou celui d'une personne qui vous est proche.",
-    "account-ready": "🎉 Cliquer sur \"Nouvelle Opération\" pour commencer"
+    "account-ready": "🎉 Cliquer sur \"Nouvelle opération\" pour créer votre première opération"
   },
   "simulator": {
     "title": "Simulateur",
