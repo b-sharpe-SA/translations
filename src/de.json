@@ -1529,7 +1529,8 @@
     "my-account": "My account",
     "close": "Schliessen",
     "message": "Nachricht",
-    "search": "Suchen"
+    "search": "Suchen",
+    "qr-bill": "QR-Rechnung"
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/de/allgemeine-geschaftsbedingungen/"

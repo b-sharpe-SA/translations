@@ -1531,7 +1531,8 @@
     "my-account": "My account",
     "close": "Close",
     "message": "Message",
-    "search": "Search"
+    "search": "Search",
+    "qr-bill": "QR Bill"
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/en/general-terms-and-conditions/"

@@ -1529,7 +1529,8 @@
     "my-account": "My account",
     "close": "Chiudi",
     "message": "Messaggio",
-    "search": "Ricerca"
+    "search": "Ricerca",
+    "qr-bill": "QR Fattura"
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/it/termini-e-condizioni/"
