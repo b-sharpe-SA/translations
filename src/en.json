@@ -1493,6 +1493,25 @@
     "feedback-form-body-label": "Description",
     "feedback-form-submit-btn": "Send your feedback"
   },
+  "history": {
+    "title": "Operations",
+    "no-operations": "You have no operation yet.\n Click on “+ New operation” to get started",
+    "transaction-details": "Transaction details",
+    "state": "state",
+    "trade-date": "Trade date",
+    "sent-us": "You sent us",
+    "received": "You received",
+    "in-account": "In the account",
+    "repeat-operation-btn-label": "Repeat this operation",
+    "cancel-operation-btn-label": "Cancel this operation",
+    "repeat-operation-info-text": "Use “repeat this operation” if you need to create the exact same operation another time.",
+    "customer-service-info-text": "*Our customer service will contact you as soon as posible to inform you the amount to send. Once done, you will have to make the transfer to b-sharpe. Here is our IBAN",
+    "cancel-operation-modal-title": "Cancel this operation?",
+    "cancel-operation-modal-info": "Are you sure you want to cancel this operation?\nIf you have already sent the funds, please contact the trading team at fx@b-sharpe.com",
+    "keep-btn-label": "Keep operation",
+    "cancel-btn-label": "Cancel it",
+    "operation-canceled-toast-notification": "Your operartion has been cancelled"
+  },
   "common": {
     "beneficiaries": "Beneficiaries",
     "beneficiary": "Beneficiary",
@@ -1510,6 +1529,7 @@
     "reference": "Reference",
     "customer-reference": "Customer reference",
     "done": "Done",
+    "pending": "Pending",
     "download-iban": "Download IBAN",
     "employer-document": "Employer document",
     "ok": "OK",

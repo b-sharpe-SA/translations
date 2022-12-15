@@ -1491,6 +1491,25 @@
     "feedback-form-body-label": "Description",
     "feedback-form-submit-btn": "Envoyez votre feedback"
   },
+  "history": {
+    "title": "",
+    "no-operations": "",
+    "transaction-details": "",
+    "state": "",
+    "trade-date": "",
+    "sent-us": "",
+    "received": "",
+    "in-account": "",
+    "repeat-operation-btn-label": "",
+    "cancel-operation-btn-label": "",
+    "repeat-operation-info-text": "",
+    "customer-service-info-text": "",
+    "cancel-operation-modal-title": "",
+    "cancel-operation-modal-info": "",
+    "keep-btn-label": "",
+    "cancel-btn-label": "",
+    "operation-canceled-toast-notification": ""
+  },
   "common": {
     "beneficiaries": "Bénéficiaires",
     "beneficiary": "Bénéficiaire",
@@ -1508,6 +1527,7 @@
     "reference": "Référence",
     "customer-reference": "Référence client",
     "done": "Terminé",
+    "pending": "",
     "download-iban": "Télécharger l'IBAN",
     "employer-document": "Document employeur",
     "ok": "OK",
