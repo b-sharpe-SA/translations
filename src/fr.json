@@ -1510,6 +1510,21 @@
     "cancel-btn-label": "",
     "operation-canceled-toast-notification": ""
   },
+  "documents": {
+    "title": "",
+    "subtitle": "",
+    "b-sharpe-iban": "",
+    "b-sharpe-iban-description": "",
+    "employer-document": "",
+    "employer-document-description": "",
+    "iban-currency-question": "",
+    "employer-currency-question": "",
+    "employer-document-info": "",
+    "btn-download-employer-document-label": "",
+    "qr-bill-credit-suisse-customer-info": "",
+    "account-payable-by": "",
+    "account-payable-to": ""
+  },
   "common": {
     "beneficiaries": "Bénéficiaires",
     "beneficiary": "Bénéficiaire",
@@ -1520,8 +1535,11 @@
     "confirm": "Confirmer",
     "details": "Détails",
     "account": "Compte",
+    "account-holder": "",
+    "reference-to-use": "",
     "iban": "IBAN",
     "swift": "SWIFT",
+    "clearing": "",
     "address": "Adresse",
     "phone-number": "Numéro de téléphone",
     "reference": "Référence",

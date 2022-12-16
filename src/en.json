@@ -1512,6 +1512,21 @@
     "cancel-btn-label": "Cancel it",
     "operation-canceled-toast-notification": "Your operartion has been cancelled"
   },
+  "documents": {
+    "title": "IBAN and Documents",
+    "subtitle": "What kind of document are you looking for?",
+    "b-sharpe-iban": "b-sharpe IBAN",
+    "b-sharpe-iban-description": "To send us the money to be exchanged",
+    "employer-document": "Employer document",
+    "employer-document-description": "Getting paid in another currency? We can automate your salary exchange.",
+    "iban-currency-question": "Which currency are you or your sending us?",
+    "employer-currency-question": "What’s your salary currency?",
+    "employer-document-info": "To receive your salary directly from your employer, please download the employer document bellow. You will have to provide it to your employer, and they will send your salary directly to us.\nWe will then make the exchange and transfer it to your bank account.",
+    "btn-download-employer-document-label": "Download the employer document",
+    "qr-bill-credit-suisse-customer-info": "If you are a Credit Suisse customer, don't forget to uncheck the box 'I am paying on behalf of someone else'",
+    "account-payable-by": "Payable by",
+    "account-payable-to": "Account / payable to"
+  },
   "common": {
     "beneficiaries": "Beneficiaries",
     "beneficiary": "Beneficiary",
@@ -1522,8 +1537,11 @@
     "confirm": "Confirm",
     "details": "Details",
     "account": "Account",
+    "account-holder": "Account holder",
+    "reference-to-use": "Reference to use",
     "iban": "IBAN",
     "swift": "SWIFT",
+    "clearing": "Clearing",
     "address": "Address",
     "phone-number": "Phone number",
     "reference": "Reference",
