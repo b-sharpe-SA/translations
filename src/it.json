@@ -1561,6 +1561,9 @@
     "change-password": "Cambia password",
     "log-out": "Logout",
     "terms-conditions": "Condizioni Generali",
+    "amla-protection": "Dispositivo LBA",
+    "data-protection": "Informativa sulla privacy",
+    "legal-notice": "Note legali",
     "switch-account": "Cambiare il conto",
     "no": "No",
     "yes": "Yes",
@@ -1577,7 +1580,10 @@
     "qr-bill": "QR Fattura"
   },
   "links": {
-    "terms-conditions": "https://www.b-sharpe.com/it/termini-e-condizioni/"
+    "terms-conditions": "https://www.b-sharpe.com/it/termini-e-condizioni/",
+    "amla-protection": "https://www.b-sharpe.com/it/lege-lrd/",
+    "data-protection": "https://www.b-sharpe.com/it/protezione-dei-dati/",
+    "legal-notice": "https://www.b-sharpe.com/it/note-legali/"
   },
   "onfido-sdk": {
     "doc_select": {

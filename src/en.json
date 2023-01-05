@@ -1563,6 +1563,9 @@
     "change-password": "Change password",
     "log-out": "Log out",
     "terms-conditions": "Terms and conditions",
+    "amla-protection": "AMLA provisions",
+    "data-protection": "Data protection",
+    "legal-notice": "Legal notice",
     "switch-account": "Change account",
     "no": "No",
     "yes": "Yes",
@@ -1579,7 +1582,10 @@
     "qr-bill": "QR Bill"
   },
   "links": {
-    "terms-conditions": "https://www.b-sharpe.com/en/general-terms-and-conditions/"
+    "terms-conditions": "https://www.b-sharpe.com/en/general-terms-and-conditions/",
+    "amla-protection": "https://www.b-sharpe.com/en/amla-provisions/",
+    "data-protection": "https://www.b-sharpe.com/en/data-protection-and-confidentiality/",
+    "legal-notice": "https://www.b-sharpe.com/en/legal-notice/"
   },
   "onfido-sdk": {
     "doc_select": {
