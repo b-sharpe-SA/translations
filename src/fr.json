@@ -1413,7 +1413,7 @@
     "input-source-funds-ref-placeholder-employer": "Nom de l'employeur",
     "input-source-funds-ref-placeholder": "Référence",
     "input-amount-receive-label": "Montant exact",
-    "input-origin-country-label": "",
+    "input-origin-country-label": "Pays d'où proviennent les fonds",
     "btn-review-label": "Vérifier",
     "btn-confirm-label": "Confirmer",
     "you-send": "Vous nous envoyez",
@@ -1437,7 +1437,7 @@
     "lock-rate-modal-confirm": "Je confirme",
     "lock-rate-modal-ok": "J'ai compris!",
     "lock-rate-modal-no-locking": "Continuer sans bloquer le taux",
-    "disclaimer-send-funds": "b-sharpe ne prendra pas l'argent sur votre compte.",
+    "disclaimer-send-funds": "b-sharpe ne prélèvera pas l'argent sur votre compte.",
     "disclaimer-ask-funds": "N'oubliez pas de demander à votre {{sourceFunds}} d'ajouter votre référence en tant que \"Raison du paiement\"/\"Message pour le bénéficiaire\". Dans le cas contraire, cela peut entraîner des retards de traitement importants.",
     "make-transfer": "Ouvrez votre e-banking et faites un virement d'<strong>exactement {{amount}} {{currency}}</strong> vers le compte {{currency}} de b-sharpe",
     "within-48-hours": "sous 48 heures ouvrées.",
@@ -1582,7 +1582,7 @@
     "message": "Message",
     "search": "Recherche",
     "qr-bill": "QR Facture",
-    "step": "Étape"
+    "step": "Etape"
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/conditions-generales/",
