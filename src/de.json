@@ -495,7 +495,7 @@
     "I'll do it later": "Später",
     "Yes, I have it": "OK",
     "See you soon": "Bis bald!",
-    "Submit an invoice (telephone, electricity, bank statement dated three months ago)": "Bitte übermitteln Sie uns eine Strom-, Wasser- oder Telefonrechnung, eine Steuerrechnung oder eine andere offizielle Rechnung aus den letzten drei Monaten.",
+    "Submit an invoice (telephone, electricity, bank statement dated three months ago)": "Bitte übermitteln Sie uns eine Strom-, Wasser- oder Telefonrechnung, eine Steuerrechnung oder eine andere offizielle Rechnung aus den letzten sechs Monaten.",
     "It can be his ID, passport, work permit or resident permit.": "Zugelassene Dokumente sind: Nationaler Personalausweis oder Reisepass",
     "docs-review-waiting-title": "Herzlichen Glückwunsch, {{name}}!",
     "docs-review-waiting-description": "Wir prüfen Ihre Datei! Wir bestätigen die Aktivierung Ihres Kontos per E-Mail innerhalb von 24 Arbeitsstunden",
@@ -1413,11 +1413,13 @@
     "input-source-funds-ref-placeholder-employer": "Name des Arbeitgebers",
     "input-source-funds-ref-placeholder": "Referenzen",
     "input-amount-receive-label": "Genauer Betrag",
+    "input-origin-country-label": "",
     "btn-review-label": "Überprüfen",
     "btn-confirm-label": "Bestätigen",
     "you-send": "Sie senden uns",
     "you-receive": "Sie erhalten",
     "you-should-receive": "Sie sollten erhalten",
+    "you-should-send": "",
     "you-expect": "Sie erwarten",
     "btn-change-amount-label": "Betrag ändern",
     "btn-change-recipient-label": "Empfänger bearbeiten",
@@ -1579,7 +1581,8 @@
     "close": "Schliessen",
     "message": "Nachricht",
     "search": "Suchen",
-    "qr-bill": "QR-Rechnung"
+    "qr-bill": "QR-Rechnung",
+    "step": "Schritt"
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/de/allgemeine-geschaftsbedingungen/",

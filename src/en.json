@@ -495,7 +495,7 @@
     "I'll do it later": "I'll do it later",
     "Yes, I have it": "OK, I've got it",
     "See you soon": "See you soon!",
-    "Submit an invoice (telephone, electricity, bank statement dated three months ago)": "Submit an invoice (telephone, electricity, bank statement dated less than three months ago)",
+    "Submit an invoice (telephone, electricity, bank statement dated three months ago)": "Submit an invoice (telephone, electricity, bank statement dated less than six months ago)",
     "It can be his ID, passport, work permit or resident permit.": "It can be an ID card, passport, work permit or resident permit.",
     "docs-review-waiting-title": "Good job {{name}}!",
     "docs-review-waiting-description": "We’re checking your file!\nWe’ll confirm your account has been activated by e-mail within 24 working hours",
@@ -1413,11 +1413,13 @@
     "input-source-funds-ref-placeholder-employer": "Employer name",
     "input-source-funds-ref-placeholder": "Reference",
     "input-amount-receive-label": "Exact amount",
+    "input-origin-country-label": "Country where the funds come from",
     "btn-review-label": "Review",
     "btn-confirm-label": "Confirm",
     "you-send": "You send us",
     "you-receive": "You receive",
     "you-should-receive": "You should receive",
+    "you-should-send": "You should send",
     "you-expect": "You expect",
     "btn-change-amount-label": "Change the amount",
     "btn-change-recipient-label": "Edit beneficiary",
@@ -1579,7 +1581,8 @@
     "close": "Close",
     "message": "Message",
     "search": "Search",
-    "qr-bill": "QR Bill"
+    "qr-bill": "QR Bill",
+    "step": "Step"
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/en/general-terms-and-conditions/",

@@ -495,7 +495,7 @@
     "I'll do it later": "Plus tard",
     "Yes, I have it": "Ok",
     "See you soon": "À bientôt.",
-    "Submit an invoice (telephone, electricity, bank statement dated three months ago)": "Ajouter une facture d'électricité, d'eau ou de téléphone, facture fiscale ou autre facture officielle datant de moins de trois mois.",
+    "Submit an invoice (telephone, electricity, bank statement dated three months ago)": "Ajouter une facture d'électricité, d'eau ou de téléphone, facture fiscale ou autre facture officielle datant de moins de six mois.",
     "It can be his ID, passport, work permit or resident permit.": "Les pièces autorisées sont : carte nationale d'identité ou passeport",
     "docs-review-waiting-title": "Bravo {{name}}!",
     "docs-review-waiting-description": "Nous vérifions votre dossier ! \nNous vous confirmerons l'activation de votre compte par e-mail sous 24h ouvrées.",
@@ -1413,11 +1413,13 @@
     "input-source-funds-ref-placeholder-employer": "Nom de l'employeur",
     "input-source-funds-ref-placeholder": "Référence",
     "input-amount-receive-label": "Montant exact",
+    "input-origin-country-label": "",
     "btn-review-label": "Vérifier",
     "btn-confirm-label": "Confirmer",
     "you-send": "Vous nous envoyez",
     "you-receive": "Vous recevez",
     "you-should-receive": "Vous devriez recevoir",
+    "you-should-send": "Vous devriez envoyer",
     "you-expect": "Vous attendez",
     "btn-change-amount-label": "Modifier le montant",
     "btn-change-recipient-label": "Modifier le bénéficiaire",
@@ -1579,7 +1581,8 @@
     "close": "Fermer",
     "message": "Message",
     "search": "Recherche",
-    "qr-bill": "QR Facture"
+    "qr-bill": "QR Facture",
+    "step": "Étape"
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/conditions-generales/",
