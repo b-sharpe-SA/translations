@@ -1498,7 +1498,7 @@
   "history": {
     "title": "Operations",
     "no-operations": "You have no operation yet.\n Click on “+ New operation” to get started",
-    "transaction-details": "Transaction details",
+    "transaction-details": "Operation details",
     "state": "state",
     "trade-date": "Trade date",
     "sent-us": "You sent us",
