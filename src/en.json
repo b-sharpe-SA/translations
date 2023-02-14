@@ -1584,13 +1584,38 @@
     "message": "Message",
     "search": "Search",
     "qr-bill": "QR Bill",
-    "step": "Step"
+    "step": "Step",
+    "services": "Services",
+    "pricing": "Pricing",
+    "about-us": "About us",
+    "sign-in": "Sign in",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email-address": "E-mail address"
+  },
+  "referral": {
+    "friend-offer-amount": "Your friend Manon offered you {{amount}}",
+    "coupon-explanation": "After CHF 4’000 in money exchange with b-sharpe, you will <strong>get a coupon</strong> to benefit from a <strong>{{amount}} discount</strong> on your next transaction.",
+    "form-title": "Create your account and start saving on your money exchange",
+    "form-btn-label": "Join b-sharpe today",
+    "start-save-money": "Start saving money now",
+    "start-save-money-description": "b-sharpe is an easy way to change your money in more than 20 currencies. Our low-fee service will help you save on your transfers, that’s why <strong>{{name}}</strong> recommends us.",
+    "easy-process": "Easy process",
+    "easy-process-description": "b-sharpe is very easy. You send us your funds to be exchanged, we do the rest and send it back to you in the right currency. Easy peasy.",
+    "you": "You",
+    "happy-you": "Happy you",
+    "our-word": "Don’t take our word for it",
+    "our-word-description": "We’ve already helped tons of happy customers! Here are a few numbers"
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/en/general-terms-and-conditions/",
     "amla-protection": "https://www.b-sharpe.com/en/amla-provisions/",
     "data-protection": "https://www.b-sharpe.com/en/data-protection-and-confidentiality/",
-    "legal-notice": "https://www.b-sharpe.com/en/legal-notice/"
+    "legal-notice": "https://www.b-sharpe.com/en/legal-notice/",
+    "customer-service": "https://www.b-sharpe.com/en/customer-service/",
+    "services": "https://www.b-sharpe.com/en/how-it-works/",
+    "pricing": "https://www.b-sharpe.com/en/pricing/",
+    "about-us": "https://www.b-sharpe.com/en/about-us/"
   },
   "onfido-sdk": {
     "doc_select": {

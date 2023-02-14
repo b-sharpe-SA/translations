@@ -1584,13 +1584,38 @@
     "message": "Messaggio",
     "search": "Ricerca",
     "qr-bill": "QR Fattura",
-    "step": "Passo"
+    "step": "Passo",
+    "services": "",
+    "pricing": "",
+    "about-us": "",
+    "sign-in": "",
+    "firstName": "",
+    "lastName": "",
+    "email-address": ""
+  },
+  "referral": {
+    "friend-offer-amount": "",
+    "coupon-explanation": "",
+    "form-title": "",
+    "form-btn-label": "",
+    "start-save-money": "",
+    "start-save-money-description": "",
+    "easy-process": "",
+    "easy-process-description": "",
+    "you": "",
+    "happy-you": "",
+    "our-word": "",
+    "our-word-description": ""
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/it/termini-e-condizioni/",
     "amla-protection": "https://www.b-sharpe.com/it/lege-lrd/",
     "data-protection": "https://www.b-sharpe.com/it/protezione-dei-dati/",
-    "legal-notice": "https://www.b-sharpe.com/it/note-legali/"
+    "legal-notice": "https://www.b-sharpe.com/it/note-legali/",
+    "customer-service": "https://www.b-sharpe.com/it/contatti/",
+    "services": "https://www.b-sharpe.com/it/come-funziona/",
+    "pricing": "https://www.b-sharpe.com/it/spese-di-cambio/",
+    "about-us": "https://www.b-sharpe.com/it/chi-siamo/"
   },
   "onfido-sdk": {
     "doc_select": {
