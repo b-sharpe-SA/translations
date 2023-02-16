@@ -1591,7 +1591,8 @@
     "sign-in": "Sign in",
     "firstName": "First name",
     "lastName": "Last name",
-    "email-address": "E-mail address"
+    "email-address": "E-mail address",
+    "or": "or"
   },
   "referral": {
     "friend-offer-amount": "Your friend Manon offered you {{amount}}",
@@ -1605,7 +1606,17 @@
     "you": "You",
     "happy-you": "Happy you",
     "our-word": "Don’t take our word for it",
-    "our-word-description": "We’ve already helped tons of happy customers! Here are a few numbers"
+    "our-word-description": "We’ve already helped tons of happy customers! Here are a few numbers",
+    "modal-first-screen-text": "You get a 30 CHF coupon every time they make 4000+ CHF operation.",
+    "modal-first-screen-cta": "How does it work?",
+    "modal-second-screen-cta": "Start now",
+    "modal-second-screen-small-title": "You share, you save",
+    "modal-second-screen-text": "When your friends reach a total of 4’000 CHF in change, they get 20 CHF and you get 30 CHF to redeem on your next operation.",
+    "modal-second-screen-text-mobile": "Share your link to your friends\nThey create they b-sharpe account\nThey make 4’000 CHF in operation(s)\nYou get 30 CHF credit*\nThey get 20 CHF credit*\n\n*On next operation",
+    "modal-last-screen-title": "Start inviting",
+    "modal-last-screen-subtitle": "There are a few options for you to refer a friend",
+    "modal-scan-qr-code": "Scan this QR code",
+    "modal-send-invite": "Send an invite"
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/en/general-terms-and-conditions/",

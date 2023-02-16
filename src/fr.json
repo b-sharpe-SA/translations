@@ -1591,7 +1591,8 @@
     "sign-in": "",
     "firstName": "",
     "lastName": "",
-    "email-address": ""
+    "email-address": "",
+    "or": ""
   },
   "referral": {
     "friend-offer-amount": "",
@@ -1605,7 +1606,17 @@
     "you": "",
     "happy-you": "",
     "our-word": "",
-    "our-word-description": ""
+    "our-word-description": "",
+    "modal-first-screen-text": "",
+    "modal-first-screen-cta": "",
+    "modal-second-screen-cta": "",
+    "modal-second-screen-small-title": "",
+    "modal-second-screen-text": "",
+    "modal-second-screen-text-mobile": "",
+    "modal-last-screen-title": "",
+    "modal-last-screen-subtitle": "",
+    "modal-scan-qr-code": "",
+    "modal-send-invite": ""
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/conditions-generales/",
