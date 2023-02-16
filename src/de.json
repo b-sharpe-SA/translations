@@ -1616,7 +1616,20 @@
     "modal-last-screen-title": "",
     "modal-last-screen-subtitle": "",
     "modal-scan-qr-code": "",
-    "modal-send-invite": ""
+    "modal-send-invite": "",
+    "invite-friends": "",
+    "invite-other-friend": "",
+    "no-friends-message": "",
+    "my-wallet": "",
+    "my-pending-invites": "",
+    "my-pending-invites-info": "",
+    "see-history": "",
+    "referral-history": "",
+    "referral-history-info": "",
+    "credited-the": "",
+    "started-registration": "",
+    "completed-registration": "",
+    "changed-equivalent-of": ""
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/de/allgemeine-geschaftsbedingungen/",

@@ -1616,7 +1616,20 @@
     "modal-last-screen-title": "Start inviting",
     "modal-last-screen-subtitle": "There are a few options for you to refer a friend",
     "modal-scan-qr-code": "Scan this QR code",
-    "modal-send-invite": "Send an invite"
+    "modal-send-invite": "Send an invite",
+    "invite-friends": "Invite friends",
+    "invite-other-friend": "Invite another friend",
+    "no-friends-message": "After your first friend will register, they will appear here and you will be able to follow up on your gains",
+    "my-wallet": "My wallet",
+    "my-pending-invites": "My pending invites",
+    "my-pending-invites-info": "Waiting for your friends to complete all the steps to credit your wallet",
+    "see-history": "See history",
+    "referral-history": "Referrals history",
+    "referral-history-info": "All your validated friends appear here",
+    "credited-the": "Credited the {{date}}",
+    "started-registration": "Started their registration",
+    "completed-registration": "Completed their registration",
+    "changed-equivalent-of": "Changed the equivalent of 5’000+ CHF"
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/en/general-terms-and-conditions/",
