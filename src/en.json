@@ -1595,8 +1595,8 @@
     "or": "or"
   },
   "referral": {
-    "friend-offer-amount": "Your friend Manon offered you {{amount}}",
-    "coupon-explanation": "After CHF 4’000 in money exchange with b-sharpe, you will <strong>get a coupon</strong> to benefit from a <strong>{{amount}} discount</strong> on your next transaction.",
+    "friend-offer-amount": "Your friend {{firstName}} offered you {{amount}}",
+    "coupon-explanation": "After CHF 4’000 in money exchange with b-sharpe, you will <strong>get a coupon</strong> to benefit from a CHF <strong>{{amount}} discount</strong> on your next transaction.",
     "form-title": "Create your account and start saving on your money exchange",
     "form-btn-label": "Join b-sharpe today",
     "start-save-money": "Start saving money now",
