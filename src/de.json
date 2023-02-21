@@ -1660,6 +1660,7 @@
     "consent-modal-content":"",
     "consent-modal-disagree":"",
     "consent-modal-tell-me-more":"",
-    "consent-modal-agree":""
+    "consent-modal-agree":"",
+    "consent-modal-url":""
   }
 }
