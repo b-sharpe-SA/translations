@@ -1654,5 +1654,12 @@
     "welcome": {
       "list_header_webcam": "Utilisez votre téléphone pour prendre une photo de : "
     }
+  },
+  "mobile":{
+    "consent-modal-title":"",
+    "consent-modal-content":"",
+    "consent-modal-disagree":"",
+    "consent-modal-tell-me-more":"",
+    "consent-modal-agree":""
   }
 }
