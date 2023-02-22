@@ -1654,5 +1654,13 @@
     "welcome": {
       "list_header_webcam": "Use your phone to take a picture of:"
     }
+  },
+  "mobile":{
+    "consent-modal-title":"We take your privacy seriously",
+    "consent-modal-content":"To provide the best experience using our app, we need to collect some navigation information.",
+    "consent-modal-disagree":"I disagree",
+    "consent-modal-tell-me-more":"Tell me more",
+    "consent-modal-agree":"Okay !",
+    "consent-modal-url":"https://www.b-sharpe.com/en/data-protection-and-confidentiality/"
   }
 }

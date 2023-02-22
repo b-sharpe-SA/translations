@@ -1654,5 +1654,13 @@
     "welcome": {
       "list_header_webcam": "Verwenden Sie Ihr Handy, um ein Bild aufzunehmen von:"
     }
+  },
+  "mobile":{
+    "consent-modal-title":"",
+    "consent-modal-content":"",
+    "consent-modal-disagree":"",
+    "consent-modal-tell-me-more":"",
+    "consent-modal-agree":"",
+    "consent-modal-url":""
   }
 }
