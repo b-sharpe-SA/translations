@@ -1499,7 +1499,7 @@
     "feedback-form-submit-btn": "Envoyez votre feedback"
   },
   "history": {
-    "title": "Opérations",
+    "title": "Historique des opérations",
     "no-operations": "Vous n'avez pas d'opération pour le moment. \nCliquez sur \"Nouvelle opération\" pour en créer une",
     "transaction-details": "Détails de votre opération",
     "state": "Etat",

@@ -1499,7 +1499,7 @@
     "feedback-form-submit-btn": "Send your feedback"
   },
   "history": {
-    "title": "Operations",
+    "title": "Operations history",
     "no-operations": "You have no operation yet.\n Click on “+ New operation” to get started",
     "transaction-details": "Operation details",
     "state": "state",
