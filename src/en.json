@@ -1634,6 +1634,15 @@
     "completed-registration": "Completed their registration",
     "changed-equivalent-of": "Changed the equivalent of 5’000+ CHF"
   },
+  "beneficiaries": {
+    "title": "Beneficiaries",
+    "add-btn": "Add beneficiary",
+    "no-data": "You don’t have any beneficiary at the moment.\nAdd your first clicking on “Add beneficiary” on top right",
+    "tooltip-pending": "This bank account is in review",
+    "add-beneficiary-success-message": "Your beneficiary has been added. We will validate it as soon as possible",
+    "details-modal-title": "Beneficiary details",
+    "delete-beneficiary-btn": "Remove this beneficiary"
+  },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/en/general-terms-and-conditions/",
     "amla-protection": "https://www.b-sharpe.com/en/amla-provisions/",

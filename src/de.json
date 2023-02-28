@@ -1634,6 +1634,15 @@
     "completed-registration": "",
     "changed-equivalent-of": ""
   },
+  "beneficiaries": {
+    "title": "",
+    "add-btn": "",
+    "no-data": "",
+    "tooltip-pending": "",
+    "add-beneficiary-success-message": "",
+    "details-modal-title": "",
+    "delete-beneficiary-btn": ""
+  },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/de/allgemeine-geschaftsbedingungen/",
     "amla-protection": "https://www.b-sharpe.com/de/geldwaschereibekampfung/",
