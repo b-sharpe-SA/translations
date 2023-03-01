@@ -1595,7 +1595,8 @@
     "firstName": "First name",
     "lastName": "Last name",
     "email-address": "E-mail address",
-    "or": "or"
+    "or": "or",
+    "account-number": "Account number"
   },
   "referral": {
     "friend-offer-amount": "Your friend {{firstName}} offered you {{amount}} CHF",
