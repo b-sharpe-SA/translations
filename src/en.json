@@ -1633,7 +1633,14 @@
     "credited-the": "Credited the {{date}}",
     "started-registration": "Started their registration",
     "completed-registration": "Completed their registration",
-    "changed-equivalent-of": "Changed the equivalent of 5’000+ CHF"
+    "changed-equivalent-of": "Changed the equivalent of 5’000+ CHF",
+    "most-of": "Most of",
+    "billions": "Billions",
+    "millions": "Millions",
+    "saved-by-clients": "Saved by our clients",
+    "total-chf": "A total of CHF",
+    "exchanged": "exchanged",
+    "client-satisfied": "Clients satisfied"
   },
   "beneficiaries": {
     "title": "Beneficiaries",
