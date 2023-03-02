@@ -1601,8 +1601,10 @@
   "rewards": {
     "rewards-details": "Rewards details",
     "you-got-rewards": "🎉 You’ve got rewards!",
-    "initial-amount": "Initial amount to receive",
+    "initial-amount-receive": "Initial amount to receive",
+    "initial-amount-send": "Initial amount to send",
     "amount-to-receive": "Amount to receive",
+    "amount-to-send": "Amount to send",
     "your-reward": "Your reward",
     "referral": "Referral",
     "rate-referral": "Discount on rate",

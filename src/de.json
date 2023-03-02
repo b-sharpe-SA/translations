@@ -1601,8 +1601,10 @@
   "rewards": {
     "rewards-details": "",
     "you-got-rewards": "",
-    "initial-amount": "",
+    "initial-amount-receive": "",
+    "initial-amount-send": "",
     "amount-to-receive": "",
+    "amount-to-send": "",
     "your-reward": "",
     "referral": "",
     "rate-referral": "",
