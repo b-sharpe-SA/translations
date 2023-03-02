@@ -1603,8 +1603,8 @@
     "you-got-rewards": "🎉 You’ve got rewards!",
     "initial-amount": "Initial amount to receive",
     "your-reward": "Your reward",
-    "person-referral": "{{name}}’s referral",
-    "rate-referral": "Discount on rate ({{rate}}%)",
+    "referral": "Referral",
+    "rate-referral": "Discount on rate",
     "referral-details-1": "🎉 Thanks to your reward, you will receive {{amount}} more on your account.",
     "referral-details-2": "🏦 Between those and our low fee, we estimate that you are saving {{amount}} compared to a traditional bank."
   },
