@@ -1598,6 +1598,16 @@
     "or": "",
     "account-number": ""
   },
+  "rewards": {
+    "rewards-details": "",
+    "you-got-rewards": "",
+    "initial-amount": "",
+    "your-reward": "",
+    "person-referral": "",
+    "rate-referral": "",
+    "referral-details-1": "",
+    "referral-details-2": ""
+  },
   "referral": {
     "friend-offer-amount": "",
     "coupon-explanation": "",

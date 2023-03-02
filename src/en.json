@@ -1598,6 +1598,16 @@
     "or": "or",
     "account-number": "Account number"
   },
+  "rewards": {
+    "rewards-details": "Rewards details",
+    "you-got-rewards": "🎉 You’ve got rewards!",
+    "initial-amount": "Initial amount to receive",
+    "your-reward": "Your reward",
+    "person-referral": "{{name}}’s referral",
+    "rate-referral": "Discount on rate ({{rate}}%)",
+    "referral-details-1": "🎉 Thanks to your reward, you will receive {{amount}} more on your account.",
+    "referral-details-2": "🏦 Between those and our low fee, we estimate that you are saving {{amount}} compared to a traditional bank."
+  },
   "referral": {
     "friend-offer-amount": "Your friend {{firstName}} offered you {{amount}} CHF",
     "coupon-explanation": "After CHF 4’000 in money exchange with b-sharpe, you will <strong>get a coupon</strong> to benefit from a <strong>CHF {{amount}} discount</strong> on your next transaction.",
