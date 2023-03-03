@@ -1608,7 +1608,8 @@
     "your-reward": "",
     "referral": "",
     "rate-referral": "",
-    "referral-details-1": "",
+    "referral-details-receive": "",
+    "referral-details-send": "",
     "referral-details-2": ""
   },
   "referral": {

@@ -1608,7 +1608,8 @@
     "your-reward": "Your reward",
     "referral": "Referral",
     "rate-referral": "Discount on rate",
-    "referral-details-1": "🎉 Thanks to your reward, <strong>you will receive {{amount}} CHF more<strong> on your account.",
+    "referral-details-receive": "🎉 Thanks to your reward, <strong>you will receive {{amount}} CHF more<strong> on your account.",
+    "referral-details-send": "🎉 Thanks to your reward, <strong>you will save {{amount}} CHF more<strong> on your account.",
     "referral-details-2": "🏦 Between those and our low fee, we estimate that you are saving {{amount}} compared to a traditional bank."
   },
   "referral": {
