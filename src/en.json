@@ -1609,6 +1609,7 @@
     "your-reward": "Your reward",
     "referral": "Referral",
     "rate-referral": "Discount on rate",
+    "complimentary-fees":"Complimentary fees",
     "referral-details-receive": "🎉 Thanks to your reward, <strong>you will receive {{amount}} more<strong> on your account.",
     "referral-details-send": "🎉 Thanks to your reward, <strong>you will send {{amount}} less<strong> from your account.",
     "referral-details-2": "🏦 Between those and our low fee, we estimate that you are saving {{amount}} compared to a traditional bank."
@@ -1655,7 +1656,9 @@
     "saved-by-clients": "Saved by our clients",
     "total-chf": "A total of CHF",
     "exchanged": "exchanged",
-    "client-satisfied": "Clients satisfied"
+    "client-satisfied": "Clients satisfied",
+    "share-title": "{{name}} recommends b-sharpe for your currency exchange operations!",
+    "share-message": "Hi!\nI use b-sharpe to save money on my currency exchanges operations. They offer competitive exchange rates and lower fees than traditional banks.\nIf you sign up using my referral link {{url}}, you'll receive 20 CHF off on your first transaction.\nCheers,\n{{name}}"
   },
   "beneficiaries": {
     "title": "Beneficiaries",

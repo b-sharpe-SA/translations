@@ -1655,7 +1655,9 @@
     "saved-by-clients": "",
     "total-chf": "",
     "exchanged": "",
-    "client-satisfied": ""
+    "client-satisfied": "",
+    "share-title": "{{name}} empfiehlt b-sharpe für Ihre Währungsumtauschoperationen!",
+    "share-message": "Hallo!\n Ich nutze b-sharpe, um bei meinen Währungsumtauschoperationen Geld zu sparen. Sie bieten wettbewerbsfähige Wechselkurse und niedrigere Gebühren als traditionelle Banken.\nWenn Sie sich über meinen Empfehlungslink {{url}} anmelden, erhalten Sie 20 CHF Rabatt auf Ihre erste Transaktion.\n Mit freundlichen Grüßen,\n{{name}}"
   },
   "beneficiaries": {
     "title": "",

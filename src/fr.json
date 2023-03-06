@@ -1655,7 +1655,10 @@
     "saved-by-clients": "",
     "total-chf": "",
     "exchanged": "",
-    "client-satisfied": ""
+    "client-satisfied": "",
+    "share-title": "{{name}} recommande b-sharpe pour vos opérations de change de devises !",
+    "share-message": "Bonjour !\n J'utilise b-sharpe pour économiser sur mes opérations de change de devises. Ils offrent des taux de change compétitifs et des frais plus bas que les banques traditionnelles.\nSi vous vous inscrivez en utilisant mon lien de parrainage {{url}}, vous recevrez une remise de 20 CHF sur votre première transaction.\n Cordialement,\n{{name}}"
+  
   },
   "beneficiaries": {
     "title": "",
