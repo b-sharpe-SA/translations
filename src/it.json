@@ -1670,6 +1670,9 @@
     "details-modal-title": "",
     "delete-beneficiary-btn": ""
   },
+  "rate-alert": {
+    "currency-pair-unavailable": ""
+  },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/it/termini-e-condizioni/",
     "amla-protection": "https://www.b-sharpe.com/it/lege-lrd/",

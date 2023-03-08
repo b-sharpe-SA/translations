@@ -1670,6 +1670,9 @@
     "details-modal-title": "Beneficiary details",
     "delete-beneficiary-btn": "Remove this beneficiary"
   },
+  "rate-alert": {
+    "currency-pair-unavailable": "Rate not available for this currency pair"
+  },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/en/general-terms-and-conditions/",
     "amla-protection": "https://www.b-sharpe.com/en/amla-provisions/",
