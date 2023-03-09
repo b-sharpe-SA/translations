@@ -1659,7 +1659,9 @@
     "exchanged": "exchanged",
     "client-satisfied": "Clients satisfied",
     "share-title": "{{name}} recommends b-sharpe for your currency exchange operations!",
-    "share-message": "Hi!\nI use b-sharpe to save money on my currency exchanges operations. They offer competitive exchange rates and lower fees than traditional banks.\nIf you sign up using my referral link, you'll receive 20 CHF off on your first transaction :\n{{url}}\nCheers,\n{{name}}"
+    "share-message": "Hi!\nI use b-sharpe to save money on my currency exchanges operations. They offer competitive exchange rates and lower fees than traditional banks.\nIf you sign up using my referral link, you'll receive 20 CHF off on your first transaction :\n{{url}}\nCheers,\n{{name}}",
+    "get-rewards": "Get {{amount}} {{currency}}",
+    "for-each-referral": "For each referral"
   },
   "beneficiaries": {
     "title": "Beneficiaries",
