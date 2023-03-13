@@ -1670,7 +1670,12 @@
     "tooltip-pending": "",
     "add-beneficiary-success-message": "",
     "details-modal-title": "",
-    "delete-beneficiary-btn": ""
+    "delete-beneficiary-btn": "",
+    "pending-tooltip": "",
+    "keep-account-btn": "",
+    "remove-definitely-btn": "",
+    "see-disabled-btn": "",
+    "hide-disabled-btn": ""
   },
   "rate-alert": {
     "currency-pair-unavailable": ""

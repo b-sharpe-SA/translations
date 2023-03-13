@@ -1670,7 +1670,12 @@
     "tooltip-pending": "This bank account is in review",
     "add-beneficiary-success-message": "Your beneficiary has been added. We will validate it as soon as possible",
     "details-modal-title": "Beneficiary details",
-    "delete-beneficiary-btn": "Remove this beneficiary"
+    "delete-beneficiary-btn": "Remove this beneficiary",
+    "pending-tooltip": "This beneficiary is pending. We will approve it as soon as we can.",
+    "keep-account-btn": "Keep this account",
+    "remove-definitely-btn": "Remove definitely",
+    "see-disabled-btn": "See disabled beneficiaries",
+    "hide-disabled-btn": "Hide disabled beneficiaries"
   },
   "rate-alert": {
     "currency-pair-unavailable": "Rate not available for this currency pair"
