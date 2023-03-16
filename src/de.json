@@ -1675,7 +1675,8 @@
     "keep-account-btn": "",
     "remove-definitely-btn": "",
     "see-disabled-btn": "",
-    "hide-disabled-btn": ""
+    "hide-disabled-btn": "",
+    "delete-are-you-sure": ""
   },
   "rate-alert": {
     "currency-pair-unavailable": ""
