@@ -1661,7 +1661,8 @@
     "share-title": "{{name}} ti consiglia b-sharpe per le tue operazioni di cambio valuta!",
     "share-message": "Ciao!\n Io uso b-sharpe per risparmiare sui miei cambi valutari. Offrono tassi di cambio competitivi e commissioni più basse rispetto alle banche tradizionali.\nSe ti registri utilizzando il mio link di riferimento, riceverai uno sconto di 20 CHF sulla tua prima transazione :\n{{url}}\n Saluti,\n{{name}}",
     "get-rewards": "",
-    "for-each-referral": ""
+    "for-each-referral": "",
+    "invitation-link": ""
   },
   "beneficiaries": {
     "title": "",
