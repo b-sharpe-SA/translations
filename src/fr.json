@@ -1597,7 +1597,9 @@
     "email-address": "",
     "or": "",
     "account-number": "",
-    "new": ""
+    "new": "",
+    "or-search-for-address": "Ou rechercher une adresse",
+    "or-enter-manually": "Ou la saisir manuellement"
   },
   "rewards": {
     "rewards-details": "",

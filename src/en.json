@@ -1597,7 +1597,9 @@
     "email-address": "E-mail address",
     "or": "or",
     "account-number": "Account number",
-    "new": "NEW"
+    "new": "NEW",
+    "or-search-for-address": "Or search for an address",
+    "or-enter-manually": "Or enter manually"
   },
   "rewards": {
     "rewards-details": "Rewards details",
