@@ -888,7 +888,7 @@
     "simulator-operation-fees-currency": "Transfer fees",
     "simulator-time-to-receive": "Expected receipt of funds",
     "simulator-time-to-receive-value": "working day",
-    "simulator-savings-vs-banks": "🎉 Savings vs banks",
+    "simulator-savings-vs-banks": "🏦 Savings versus bank",
     "simulator-action": "Make this operation",
     "simulator-tooltip-rate": "Exchange rate might change depending on the market conditions.",
     "simulator-tooltip-rate-date": "Rate at {{time}} the {{date}}",

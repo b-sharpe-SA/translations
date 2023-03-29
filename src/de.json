@@ -888,7 +888,7 @@
     "simulator-operation-fees-currency": "Überweisungsgebühren",
     "simulator-time-to-receive": "Datum des Geldeingangs",
     "simulator-time-to-receive-value": "arbeitstag",
-    "simulator-savings-vs-banks": "🎉 Einsparungen im Vergleich zu einer Bank",
+    "simulator-savings-vs-banks": "🏦 Einsparungen im Vergleich zu einer Bank",
     "simulator-action": "Führen Sie diese Transaktion durch",
     "simulator-tooltip-rate": "Der Wechselkurs unterliegt den Schwankungen und Bedingungen des Marktes.",
     "simulator-tooltip-rate-date": "Kurs von {{date}} bis {{time}}",
