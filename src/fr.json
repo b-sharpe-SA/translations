@@ -1598,8 +1598,15 @@
     "or": "Ou",
     "account-number": "Numéro de compte",
     "new": "NOUVEAU",
-    "or-search-for-address": "Ou rechercher une adresse",
-    "or-enter-manually": "Ou la saisir manuellement"
+    "street": "Rue",
+    "post-code": "Code postal",
+    "city": "Ville",
+    "country": "Pays"
+  },
+  "search-address-field": {
+    "search-btn": "Ou rechercher une adresse",
+    "manually-btn": "Ou la saisir manuellement",
+    "search-placeholder": "Rechercher une adresse"
   },
   "rewards": {
     "rewards-details": "Détails de vos rewards",

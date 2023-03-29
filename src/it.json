@@ -1598,8 +1598,15 @@
     "or": "",
     "account-number": "",
     "new": "",
-    "or-search-for-address": "o cerca un indirizzo",
-    "or-enter-manually": "oppure inseriscilo manualmente"
+    "street": "Via",
+    "post-code": "Codice postale",
+    "city": "Città",
+    "country": "Nazione"
+  },
+  "search-address-field": {
+    "search-btn": "o cerca un indirizzo",
+    "manually-btn": "oppure inseriscilo manualmente",
+    "search-placeholder": "Cerca un indirizzo"
   },
   "rewards": {
     "rewards-details": "",

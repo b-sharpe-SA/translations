@@ -1598,8 +1598,15 @@
     "or": "oder",
     "account-number": "Kontonummer",
     "new": "NEU",
-    "or-search-for-address": "Nach einer Adresse suchen",
-    "or-enter-manually": "Manuelle Eingabe"
+    "street": "Strasse",
+    "post-code": "Postleitzahl",
+    "city": "Stadt",
+    "country": "Land"
+  },
+  "search-address-field": {
+    "search-btn": "Nach einer Adresse suchen",
+    "manually-btn": "Manuelle Eingabe",
+    "search-placeholder": "Adresse suchen"
   },
   "rewards": {
     "rewards-details": "Détails der Belohnungen",

@@ -1598,8 +1598,15 @@
     "or": "or",
     "account-number": "Account number",
     "new": "NEW",
-    "or-search-for-address": "Or search for an address",
-    "or-enter-manually": "Or enter manually"
+    "street": "Street",
+    "post-code": "Post code",
+    "city": "City",
+    "country": "Country"
+  },
+  "search-address-field": {
+    "search-btn": "Or search for an address",
+    "manually-btn": "Or enter manually",
+    "search-placeholder": "Search for an address"
   },
   "rewards": {
     "rewards-details": "Rewards details",
