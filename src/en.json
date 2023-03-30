@@ -1679,6 +1679,7 @@
     "no-data": "You don’t have any beneficiary at the moment.\nAdd your first clicking on “Add beneficiary” on top right.",
     "tooltip-pending": "This beneficiary is in review. We will inform you as soon as it is ready to use.",
     "add-beneficiary-success-message": "Your beneficiary has been added. You can use it right now.",
+    "add-beneficiary-not-myself-success-message": "Your beneficiary has been added but needs to be reviewed. We will inform you when you can use it.",
     "details-modal-title": "Beneficiary details",
     "delete-beneficiary-btn": "Remove this beneficiary",
     "pending-tooltip": "This beneficiary is in review. We will inform you as soon as it is ready to use.",

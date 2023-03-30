@@ -1679,6 +1679,7 @@
     "no-data": "Vous n'avez aucun bénéficiaire pour le moment. \nAjoutez votre premier bénéficiaire en cliquant sur \"Ajouter un bénéficiaire\" en haut à droite.",
     "tooltip-pending": "Ce bénéficiaire est en cours de validation. Nous vous informerons dès que vous pourrez l'utiliser.",
     "add-beneficiary-success-message": "Votre bénéficiaire a bien été ajouté. Vous pouvez l'ajouter dès maintenant.",
+    "add-beneficiary-not-myself-success-message": "",
     "details-modal-title": "Détails du bénéficiaire",
     "delete-beneficiary-btn": "Supprimer ce bénéficiaire",
     "pending-tooltip": "Ce bénéficiaire est en cours de validation. Nous vous informerons dès que vous pourrez l'utiliser.",

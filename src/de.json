@@ -1679,6 +1679,7 @@
     "no-data": "Sie haben noch kein Bankkonto in der gewünschten Zielwährung. Bitte fügen Sie ein Konto in dieser Währung hinzu, um Ihre Devisentransaktionen durchführen zu können.",
     "tooltip-pending": "Dieser Begünstigte wird überprüft. Wir werden Sie informieren, sobald er einsatzbereit ist.",
     "add-beneficiary-success-message": "Ihr Begünstigter wurde hinzugefügt. Sie können ihn jetzt verwenden.",
+    "add-beneficiary-not-myself-success-message": "",
     "details-modal-title": "Details des Begünstigten",
     "delete-beneficiary-btn": "Diesen Begünstigten entfernen",
     "pending-tooltip": "Dieser Begünstigte wird überprüft. Wir werden Sie informieren, sobald er einsatzbereit ist.",

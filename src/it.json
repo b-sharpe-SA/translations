@@ -1679,6 +1679,7 @@
     "no-data": "",
     "tooltip-pending": "",
     "add-beneficiary-success-message": "",
+    "add-beneficiary-not-myself-success-message": "",
     "details-modal-title": "",
     "delete-beneficiary-btn": "",
     "pending-tooltip": "",
