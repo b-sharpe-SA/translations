@@ -1601,7 +1601,8 @@
     "street": "Street",
     "post-code": "Post code",
     "city": "City",
-    "country": "Country"
+    "country": "Country",
+    "error-occured": "An error occurred, please contact us"
   },
   "search-address-field": {
     "search-btn": "Or search for an address",

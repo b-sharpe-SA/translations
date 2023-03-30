@@ -1601,7 +1601,8 @@
     "street": "Via",
     "post-code": "Codice postale",
     "city": "Città",
-    "country": "Nazione"
+    "country": "Nazione",
+    "error-occured": "Si è verificato un errore, contattaci"
   },
   "search-address-field": {
     "search-btn": "o cerca un indirizzo",
