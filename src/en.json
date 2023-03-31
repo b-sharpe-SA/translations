@@ -1693,7 +1693,7 @@
   "new-beneficiary": {
     "title": "New beneficiary",
     "myself": "Myself",
-    "send-money-your-account": "Send money to your account",
+    "send-money-your-account": "To send money to your own account",
     "company": "A company",
     "pay-invoice": "To pay an invoice",
     "family-member": "A family member",
