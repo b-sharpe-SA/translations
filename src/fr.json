@@ -1673,7 +1673,8 @@
     "get-rewards": "Recevez {{amount}} {{currency}}",
     "for-each-referral": "Pour chaque parrainage",
     "invitation-link": "Lien d'invitation",
-    "invite-your-friends": "",
+    "invite-your": "",
+    "friends": "",
     "and-earn": "Et économisez !"
   },
   "beneficiaries": {

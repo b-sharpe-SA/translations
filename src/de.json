@@ -1673,7 +1673,8 @@
     "get-rewards": "Holen Sie sich {{amount}} {{currency}}",
     "for-each-referral": "Für jede Empfehlung",
     "invitation-link": "Einladungslink",
-    "invite-your-friends": "",
+    "invite-your": "",
+    "friends": "",
     "and-earn": "Und verdienen!"
   },
   "beneficiaries": {

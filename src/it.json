@@ -1673,7 +1673,8 @@
     "get-rewards": "Ottieni {{amount}} {{currency}}",
     "for-each-referral": "Per ogni referral",
     "invitation-link": "Link di invito",
-    "invite-your-friends": "",
+    "invite-your": "",
+    "friends": "",
     "and-earn": "E guadagnare!"
   },
   "beneficiaries": {
