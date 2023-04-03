@@ -1719,7 +1719,8 @@
     "family-member-document": "Please upload your family record book or marriage certificate.",
     "company-document": "Please upload an invoice or a contract of the company you are willing to pay",
     "family-member-document-btn": "Add my document",
-    "company-document-btn": "Add my payslip or contract"
+    "company-document-btn": "Add my payslip or contract",
+    "account-holder-autocomplete-label": "Add {{name}} as new account holder"
   },
   "rate-alert": {
     "currency-pair-unavailable": "Rate not available for this currency pair"

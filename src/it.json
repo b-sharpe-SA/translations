@@ -1719,7 +1719,8 @@
     "family-member-document": "Carica il tuo libretto di famiglia o certificato di matrimonio.",
     "company-document": "Carica una fattura o un contratto dell'azienda che desideri pagare",
     "family-member-document-btn": "Aggiungi il mio documento",
-    "company-document-btn": "Aggiungi la mia busta paga o il mio contratto"
+    "company-document-btn": "Aggiungi la mia busta paga o il mio contratto",
+    "account-holder-autocomplete-label": ""
   },
   "rate-alert": {
     "currency-pair-unavailable": "Tasso non disponibile per questa coppia di valute"

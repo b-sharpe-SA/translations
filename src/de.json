@@ -1719,7 +1719,8 @@
     "family-member-document": "Bitte laden Sie Ihr Familienstammbuch oder Ihre Heiratsurkunde hoch.",
     "company-document": "Bitte laden Sie eine Rechnung oder einen Vertrag des Unternehmens hoch, das Sie bezahlen möchten.",
     "family-member-document-btn": "Mein Dokument hinzufügen",
-    "company-document-btn": "Mein Gehaltszettel oder Vertrag hinzufügen"
+    "company-document-btn": "Mein Gehaltszettel oder Vertrag hinzufügen",
+    "account-holder-autocomplete-label": ""
   },
   "rate-alert": {
     "currency-pair-unavailable": "Rate für dieses Währungspaar nicht verfügbar"

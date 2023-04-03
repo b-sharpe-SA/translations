@@ -1719,7 +1719,8 @@
     "family-member-document": "Merci de fournir votre livret de famille ou certificat de mariage.",
     "company-document": "Merci de fournir une facture ou un contrat de l'entreprise que vous souhaitez payer",
     "family-member-document-btn": "Ajouter mon document",
-    "company-document-btn": "Ajouter ma fiche de paie ou contrat"
+    "company-document-btn": "Ajouter ma fiche de paie ou contrat",
+    "account-holder-autocomplete-label": ""
   },
   "rate-alert": {
     "currency-pair-unavailable": "Taux non disponible pour cette paire de devises"
