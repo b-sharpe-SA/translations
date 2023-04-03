@@ -1627,7 +1627,7 @@
   },
   "referral": {
     "friend-offer-amount": "Your friend {{firstName}} offered you {{amount}} CHF",
-    "coupon-explanation": "After CHF {{total}} in money exchange with b-sharpe, you will <strong>get a coupon</strong> to benefit from a <strong>CHF {{amount}} discount</strong> on your next transaction.",
+    "coupon-explanation": "After {{total}} CHF in money exchange with b-sharpe, you will <strong>get a coupon</strong> to benefit from a <strong>{{amount}} CHF discount</strong> on your next transaction.",
     "form-title": "Create your account and start saving on your money exchange",
     "form-btn-label": "Join b-sharpe today",
     "start-save-money": "Start saving money now",
@@ -1660,7 +1660,7 @@
     "credited-the": "Credited the {{date}}",
     "started-registration": "Started their registration",
     "completed-registration": "Completed their registration",
-    "changed-equivalent-of": "Changed the equivalent of 4’000+ CHF",
+    "changed-equivalent-of": "Exchanged 4000 CHF or the equivalent.",
     "most-of": "More than",
     "billions": "Billions",
     "millions": "Millions",
@@ -1672,7 +1672,9 @@
     "share-message": "Hi!\nI use b-sharpe to save money on my currency exchanges operations. They offer competitive exchange rates and lower fees than traditional banks.\nIf you sign up using my referral link, you'll receive 20 CHF off on your first transaction :\n{{url}}\nCheers,\n{{name}}",
     "get-rewards": "Get {{amount}} {{currency}}",
     "for-each-referral": "For each referral",
-    "invitation-link": "Invitation link"
+    "invitation-link": "Invitation link",
+    "invite-your-friends": "Invite your FRIENDS",
+    "and-earn": "And earn!"
   },
   "beneficiaries": {
     "title": "Beneficiaries",

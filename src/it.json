@@ -1627,7 +1627,7 @@
   },
   "referral": {
     "friend-offer-amount": " Il tuo amico {{firstName}} ti ha offerto {{amount}} CHF",
-    "coupon-explanation": "Dopo aver scambiato CHF {{total}} con b-sharpe, <strong>riceverai un coupon</strong> per usufruire di uno sconto di CHF {{amount}} sulla tua prossima transazione.",
+    "coupon-explanation": "Dopo aver scambiato {{total}} CHF con b-sharpe, <strong>riceverai un coupon</strong> per usufruire di uno sconto di {{amount}} CHF sulla tua prossima transazione.",
     "form-title": "Crea il tuo account e inizia a risparmiare sul cambio valuta",
     "form-btn-label": "Unisciti a b-sharpe oggi",
     "start-save-money": "Comincia a risparmiare denaro ora",
@@ -1660,7 +1660,7 @@
     "credited-the": "Accreditato il {{date}}",
     "started-registration": "Hanno iniziato la loro registrazione",
     "completed-registration": "Hanno completato la loro registrazione",
-    "changed-equivalent-of": "Hanno cambiato l'equivalente di 4'000+ CHF",
+    "changed-equivalent-of": "Ha cambiato 4000 CHF o l'equivalente.",
     "most-of": "Più di",
     "billions": "Miliardi",
     "millions": "Milioni",
@@ -1672,7 +1672,9 @@
     "share-message": "Ciao!\nIo uso b-sharpe per risparmiare denaro sulle mie operazioni di cambio valuta. Offrono tassi di cambio competitivi e commissioni più basse rispetto alle banche tradizionali.\nSe ti registri usando il mio link di riferimento, riceverai uno sconto di 20 CHF sulla tua prima transazione:\n{{url}}\nSaluti,\n{{name}}",
     "get-rewards": "Ottieni {{amount}} {{currency}}",
     "for-each-referral": "Per ogni referral",
-    "invitation-link": "Link di invito"
+    "invitation-link": "Link di invito",
+    "invite-your-friends": "",
+    "and-earn": "E guadagnare!"
   },
   "beneficiaries": {
     "title": "Beneficiari",
