@@ -1627,7 +1627,7 @@
   },
   "referral": {
     "friend-offer-amount": "Ihr Freund {{firstName}} hat Ihnen {{amount}} CHF angeboten",
-    "coupon-explanation": "Nach {{total}} CHF im Geldwechsel mit b-sharpe erhalten Sie einen <strong>Coupon</strong>, mit dem Sie bei Ihrer nächsten Transaktion einen Rabatt von <strong>{{amount}} CHF</strong> erhalten.",
+    "coupon-explanation": "Nach {{Gesamtbetrag}} CHF im Geldwechsel mit b-sharpe, erhalten Sie einen Coupon, mit dem Sie einen {{Betrag}} CHF Rabatt bei Ihrer nächsten Transaktion.",
     "form-title": "Erstellen Sie Ihr Konto und beginnen Sie mit dem Sparen beim Geldumtausch",
     "form-btn-label": "Heute bei b-sharpe anmelden",
     "start-save-money": "Jetzt Geld sparen",
@@ -1660,7 +1660,7 @@
     "credited-the": "Gutschrift vom {{date}}",
     "started-registration": "haben ihre Registrierung gestartet",
     "completed-registration": "Registrierung abgeschlossen",
-    "changed-equivalent-of": "Hat 4000 CHF oder den entsprechenden Betrag umgetauscht.",
+    "changed-equivalent-of": "Umgetauscht werden 4000 CHF oder der Gegenwert.",
     "most-of": "mehr als",
     "billions": "Billionen",
     "millions": "Millionen",
@@ -1673,8 +1673,8 @@
     "get-rewards": "Holen Sie sich {{amount}} {{currency}}",
     "for-each-referral": "Für jede Empfehlung",
     "invitation-link": "Einladungslink",
-    "invite-your": "",
-    "friends": "",
+    "invite-your": "Laden Sie Ihre",
+    "friends": "FREUNDE",
     "and-earn": "Und verdienen!"
   },
   "beneficiaries": {
@@ -1696,7 +1696,7 @@
   "new-beneficiary": {
     "title": "Neuer Begünstigter",
     "myself": "Mich selbst",
-    "send-money-your-account": "Überweisen Sie Geld auf Ihr Konto",
+    "send-money-your-account": "So senden Sie Geld auf Ihr eigenes Konto",
     "company": "ein Unternehmen",
     "pay-invoice": "Um eine Rechnung zu bezahlen",
     "family-member": "Ein Familienmitglied",
@@ -1723,7 +1723,7 @@
     "company-document": "Bitte laden Sie eine Rechnung oder einen Vertrag des Unternehmens hoch, das Sie bezahlen möchten.",
     "family-member-document-btn": "Mein Dokument hinzufügen",
     "company-document-btn": "Mein Gehaltszettel oder Vertrag hinzufügen",
-    "account-holder-autocomplete-label": ""
+    "account-holder-autocomplete-label": "Hinzufügen von \"{{Name}}\" als neuer Kontoinhaber"
   },
   "rate-alert": {
     "currency-pair-unavailable": "Rate für dieses Währungspaar nicht verfügbar"
