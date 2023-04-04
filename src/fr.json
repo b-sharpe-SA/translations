@@ -1627,7 +1627,7 @@
   },
   "referral": {
     "friend-offer-amount": "Votre ami {{firstName}} vous offre {{amount}} CHF",
-    "coupon-explanation": "Après {{total}} CHF de change cumulé avec b-sharpe, vous <strong>recevrez un coupon</strong> pour bénéficier d'une réduction d'un montant de <strong>{{amount}} CHF</strong> sur ta prochaine transaction.",
+    "coupon-explanation": "Après CHF {{total}} de change cumulé avec b-sharpe, vous <strong>recevrez un coupon</strong> pour bénéficier d'une réduction d'un montant de <strong>CHF {{amount}} </strong> sur votre prochaine transaction.",
     "form-title": "Créez votre compte et commencez à économiser sur votre change de devise.",
     "form-btn-label": "Créer un compte b-sharpe maintenant",
     "start-save-money": "Commencez à économiser de l'argent dès maintenant",
@@ -1660,7 +1660,7 @@
     "credited-the": "Crédité le {{date}}",
     "started-registration": "A commencé son inscription",
     "completed-registration": "A terminé son inscription",
-    "changed-equivalent-of": "A échangé 4'000 CHF ou équivalent.",
+    "changed-equivalent-of": "A changé 4'000 CHF ou équivalent.",
     "most-of": "Plus de",
     "billions": "Milliards",
     "millions": "Millions",
@@ -1673,9 +1673,9 @@
     "get-rewards": "Recevez {{amount}} {{currency}}",
     "for-each-referral": "Pour chaque parrainage",
     "invitation-link": "Lien d'invitation",
-    "invite-your": "",
-    "friends": "",
-    "and-earn": "Et économisez !"
+    "invite-your": "Invitez vos",
+    "friends": "AMIS",
+    "and-earn": "Et gagnez !"
   },
   "beneficiaries": {
     "title": "Bénéficiaires",
@@ -1696,7 +1696,7 @@
   "new-beneficiary": {
     "title": "Nouveau bénéficiaire",
     "myself": "Moi-même",
-    "send-money-your-account": "Envoyer de l'argent vers votre compte",
+    "send-money-your-account": "Pour envoyer de l'argent sur votre propre compte",
     "company": "Une entreprise",
     "pay-invoice": "Pour payer une facture",
     "family-member": "Un membre de votre famille",
@@ -1723,7 +1723,7 @@
     "company-document": "Merci de fournir une facture ou un contrat de l'entreprise que vous souhaitez payer",
     "family-member-document-btn": "Ajouter mon document",
     "company-document-btn": "Ajouter ma fiche de paie ou contrat",
-    "account-holder-autocomplete-label": ""
+    "account-holder-autocomplete-label": "Ajouter \"{{name}}\" comme nouveau titulaire de compte"
   },
   "rate-alert": {
     "currency-pair-unavailable": "Taux non disponible pour cette paire de devises"
