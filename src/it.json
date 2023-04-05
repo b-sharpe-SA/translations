@@ -1627,7 +1627,7 @@
   },
   "referral": {
     "friend-offer-amount": " Il tuo amico {{firstName}} ti ha offerto {{amount}} CHF",
-    "coupon-explanation": "Dopo aver scambiato {{total}} CHF con b-sharpe, <strong>riceverai un coupon</strong> per usufruire di uno sconto di {{amount}} CHF sulla tua prossima transazione.",
+    "coupon-explanation": "Dopo {{totale}} CHF in cambio di denaro con b-sharpe, <strong>riceverete un coupon</strong> per beneficiare di uno sconto di <strong>{{importo}} CHF</strong> sulla prossima transazione.",
     "form-title": "Crea il tuo account e inizia a risparmiare sul cambio valuta",
     "form-btn-label": "Unisciti a b-sharpe oggi",
     "start-save-money": "Comincia a risparmiare denaro ora",
@@ -1660,7 +1660,7 @@
     "credited-the": "Accreditato il {{date}}",
     "started-registration": "Hanno iniziato la loro registrazione",
     "completed-registration": "Hanno completato la loro registrazione",
-    "changed-equivalent-of": "Ha cambiato 4000 CHF o l'equivalente.",
+    "changed-equivalent-of": "Scambiato 4000 CHF o l'equivalente.",
     "most-of": "Più di",
     "billions": "Miliardi",
     "millions": "Milioni",
@@ -1673,8 +1673,8 @@
     "get-rewards": "Ottieni {{amount}} {{currency}}",
     "for-each-referral": "Per ogni referral",
     "invitation-link": "Link di invito",
-    "invite-your": "",
-    "friends": "",
+    "invite-your": "Invita il tuo",
+    "friends": "AMICI",
     "and-earn": "E guadagnare!"
   },
   "beneficiaries": {
@@ -1696,7 +1696,7 @@
   "new-beneficiary": {
     "title": "Nuovo beneficiario",
     "myself": "Me stesso",
-    "send-money-your-account": "Invia denaro al mio account",
+    "send-money-your-account": "Per inviare denaro al proprio conto",
     "company": "Un'azienda",
     "pay-invoice": "Pagare una fattura",
     "family-member": "Un familiare",
@@ -1723,7 +1723,7 @@
     "company-document": "Carica una fattura o un contratto dell'azienda che desideri pagare",
     "family-member-document-btn": "Aggiungi il mio documento",
     "company-document-btn": "Aggiungi la mia busta paga o il mio contratto",
-    "account-holder-autocomplete-label": ""
+    "account-holder-autocomplete-label": "Aggiungere \"{{nome}}\" come nuovo titolare del conto"
   },
   "rate-alert": {
     "currency-pair-unavailable": "Tasso non disponibile per questa coppia di valute"
