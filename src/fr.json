@@ -1709,6 +1709,8 @@
     "add-your-account": "Ajouter votre compte",
     "company-account": "Le compte de {{company}}",
     "submit-beneficiary-btn": "Ajouter ce bénéficiaire",
+    "submit-company-btn": "Ajouter cette entreprise",
+    "submit-person-btn": "Ajouter cette personne",
     "bank-account": "Compte bancaire",
     "disclaimer-family-member": "Seulement votre famille proche : Conjoint, enfants, parents, frères ou sœurs.",
     "account-holder-form-label": "Nom du titulaire du compte",
@@ -1722,8 +1724,11 @@
     "family-member-document": "Merci de fournir votre livret de famille ou certificat de mariage.",
     "company-document": "Merci de fournir une facture ou un contrat de l'entreprise que vous souhaitez payer",
     "family-member-document-btn": "Ajouter mon document",
-    "company-document-btn": "Ajouter ma fiche de paie ou contrat",
-    "account-holder-autocomplete-label": "Ajouter \"{{name}}\" comme nouveau titulaire de compte"
+    "company-document-btn": "Ajouter ma facture ou mon contrat",
+    "account-holder-autocomplete-label": "Ajouter \"{{name}}\" comme nouveau titulaire de compte",
+    "new-person-details-message": "Veuillez indiquer les coordonnées de la personne à qui vous souhaitez envoyer de l'argent",
+    "new-company-details-message": "Veuillez indiquer les coordonnées de l'entreprise à laquelle vous souhaitez envoyer de l'argent",
+    "new-beneficiary-bank-account-details": "Saisissez les coordonnées bancaires de votre bénéficiaire"
   },
   "rate-alert": {
     "currency-pair-unavailable": "Taux non disponible pour cette paire de devises"

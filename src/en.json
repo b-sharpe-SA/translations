@@ -1709,6 +1709,8 @@
     "add-your-account": "Add your account",
     "company-account": "{{company}}’s account",
     "submit-beneficiary-btn": "Add this beneficiary",
+    "submit-company-btn": "Add this company",
+    "submit-person-btn": "Add this person",
     "bank-account": "Bank account",
     "disclaimer-family-member": "Only persons from your close family: Partner, child, parent or sibling.",
     "account-holder-form-label": "Account holder’s name",
@@ -1722,8 +1724,11 @@
     "family-member-document": "Please upload your family record book or marriage certificate.",
     "company-document": "Please upload an invoice or a contract of the company you are willing to pay",
     "family-member-document-btn": "Add my document",
-    "company-document-btn": "Add my payslip or contract",
-    "account-holder-autocomplete-label": "Add \"{{name}}\" as new account holder"
+    "company-document-btn": "Add my invoice or contract",
+    "account-holder-autocomplete-label": "Add \"{{name}}\" as new account holder",
+    "new-person-details-message": "Please provide the details of the person you want to send money to",
+    "new-company-details-message": "Please provide the details of the company you want to send money to",
+    "new-beneficiary-bank-account-details": "Enter your beneficiary's bank account details"
   },
   "rate-alert": {
     "currency-pair-unavailable": "Rate not available for this currency pair"

@@ -1709,6 +1709,8 @@
     "add-your-account": "Fügen Sie Ihr Konto hinzu",
     "company-account": "Das Konto von {{company}}",
     "submit-beneficiary-btn": "Diesen Begünstigten hinzufügen",
+    "submit-company-btn": "Dieses Unternehmen hinzufügen",
+    "submit-person-btn": "Diese Person hinzufügen",
     "bank-account": "Bankkonto",
     "disclaimer-family-member": "Nur Personen aus Ihrem engen Familienkreis: Partner, Kind, Eltern oder Geschwister.",
     "account-holder-form-label": "Kontoinhaber",
@@ -1722,8 +1724,11 @@
     "family-member-document": "Bitte laden Sie Ihr Familienstammbuch oder Ihre Heiratsurkunde hoch.",
     "company-document": "Bitte laden Sie eine Rechnung oder einen Vertrag des Unternehmens hoch, das Sie bezahlen möchten.",
     "family-member-document-btn": "Mein Dokument hinzufügen",
-    "company-document-btn": "Mein Gehaltszettel oder Vertrag hinzufügen",
-    "account-holder-autocomplete-label": "Hinzufügen von \"{{Name}}\" als neuer Kontoinhaber"
+    "company-document-btn": "Meine Rechnung oder meinen Vertrag hinzufügen",
+    "account-holder-autocomplete-label": "Hinzufügen von \"{{Name}}\" als neuer Kontoinhaber",
+    "new-person-details-message": "Bitte geben Sie die Details der Person an, der Sie Geld senden möchten",
+    "new-company-details-message": "Bitte geben Sie die Details des Unternehmens an, an das Sie Geld senden möchten",
+    "new-beneficiary-bank-account-details": "Geben Sie die Bankverbindung des Begünstigten ein"
   },
   "rate-alert": {
     "currency-pair-unavailable": "Rate für dieses Währungspaar nicht verfügbar"
