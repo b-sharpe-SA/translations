@@ -1728,7 +1728,10 @@
     "account-holder-autocomplete-label": "Aggiungere \"{{nome}}\" come nuovo titolare del conto",
     "new-person-details-message": "Si prega di fornire i dati della persona a cui si desidera inviare il denaro",
     "new-company-details-message": "Si prega di fornire i dettagli dell'azienda a cui si desidera inviare il denaro",
-    "new-beneficiary-bank-account-details": "Inserite le coordinate bancarie del vostro beneficiario"
+    "new-beneficiary-bank-account-details": "Inserite le coordinate bancarie del vostro beneficiario",
+    "document": "",
+    "document-legal-reason": "",
+    "document-btn": ""
   },
   "rate-alert": {
     "currency-pair-unavailable": "Tasso non disponibile per questa coppia di valute"

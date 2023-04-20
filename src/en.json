@@ -1454,7 +1454,10 @@
     "no-beneficiaries-match-currency": "No beneficiary for currency {{currency}}",
     "no-beneficiaries-match-search": "No beneficiary match your search",
     "modal-confirm-buy-no-real-rate-title": "Confirm operation",
-    "modal-confirm-buy-no-real-rate-content": "We cannot provide a rate for this operation right now. If you confirm anyway, it means that you accept the rate that we will give you. Otherwise, you can contact our trading team to lock the rate."
+    "modal-confirm-buy-no-real-rate-content": "We cannot provide a rate for this operation right now. If you confirm anyway, it means that you accept the rate that we will give you. Otherwise, you can contact our trading team to lock the rate.",
+    "document": "Document",
+    "document-legal-reason": "For legal reasons, we need a document explaining the reason of this operation. It can be an invoice or a contract.",
+    "document-btn": "Add my document"
   },
   "account": {
     "info-modification": "For any modification, please contact our customer service by clicking on question mark located on the top-right corner.",
