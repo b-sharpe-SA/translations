@@ -1738,6 +1738,7 @@
   },
   "login": {
     "welcome-txt": "Welcome to b-sharpe",
+    "welcome-txt-mobile": "Hello!",
     "signin-or-create": "Sign in or create an account",
     "email-label": "Your email address",
     "password-label": "Password",
