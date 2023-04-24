@@ -1743,7 +1743,8 @@
     "password-label": "Password",
     "forgot-password-link": "Forgot my password",
     "signin-btn": "Sign in",
-    "create-account-btn": "Create an account"
+    "create-account-btn": "Create an account",
+    "email-incorrect": "Incorrect e-mail"
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/en/general-terms-and-conditions/",

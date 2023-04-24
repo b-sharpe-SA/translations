@@ -1743,7 +1743,8 @@
     "password-label": "",
     "forgot-password-link": "",
     "signin-btn": "",
-    "create-account-btn": ""
+    "create-account-btn": "",
+    "email-incorrect": "E-Mail-Adresse ungültig"
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/de/allgemeine-geschaftsbedingungen/",
