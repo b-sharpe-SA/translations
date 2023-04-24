@@ -1736,6 +1736,15 @@
   "rate-alert": {
     "currency-pair-unavailable": "Taux non disponible pour cette paire de devises"
   },
+  "login": {
+    "welcome-txt": "",
+    "signin-or-create": "",
+    "email-label": "",
+    "password-label": "",
+    "forgot-password-link": "",
+    "signin-btn": "",
+    "create-account-btn": ""
+  },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/conditions-generales/",
     "amla-protection": "https://www.b-sharpe.com/fr/amla-provisions/",

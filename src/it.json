@@ -1736,6 +1736,15 @@
   "rate-alert": {
     "currency-pair-unavailable": "Tasso non disponibile per questa coppia di valute"
   },
+  "login": {
+    "welcome-txt": "",
+    "signin-or-create": "",
+    "email-label": "",
+    "password-label": "",
+    "forgot-password-link": "",
+    "signin-btn": "",
+    "create-account-btn": ""
+  },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/it/termini-e-condizioni/",
     "amla-protection": "https://www.b-sharpe.com/it/lege-lrd/",

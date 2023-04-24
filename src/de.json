@@ -1736,6 +1736,15 @@
   "rate-alert": {
     "currency-pair-unavailable": "Rate für dieses Währungspaar nicht verfügbar"
   },
+  "login": {
+    "welcome-txt": "",
+    "signin-or-create": "",
+    "email-label": "",
+    "password-label": "",
+    "forgot-password-link": "",
+    "signin-btn": "",
+    "create-account-btn": ""
+  },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/de/allgemeine-geschaftsbedingungen/",
     "amla-protection": "https://www.b-sharpe.com/de/geldwaschereibekampfung/",
