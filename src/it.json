@@ -1744,7 +1744,8 @@
     "forgot-password-link": "",
     "signin-btn": "",
     "create-account-btn": "",
-    "email-incorrect": "E-mail non valida"
+    "email-incorrect": "E-mail non valida",
+    "error-bad-credentials": "Nome utente sconosciuto o password non corretta."
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/it/termini-e-condizioni/",

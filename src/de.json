@@ -1744,7 +1744,8 @@
     "forgot-password-link": "",
     "signin-btn": "",
     "create-account-btn": "",
-    "email-incorrect": "E-Mail-Adresse ungültig"
+    "email-incorrect": "E-Mail-Adresse ungültig",
+    "error-bad-credentials": "Benutzername nicht gefunden oder Passwort ungültig."
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/de/allgemeine-geschaftsbedingungen/",

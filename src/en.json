@@ -1744,7 +1744,8 @@
     "forgot-password-link": "Forgot my password",
     "signin-btn": "Sign in",
     "create-account-btn": "Create an account",
-    "email-incorrect": "Incorrect e-mail"
+    "email-incorrect": "Incorrect e-mail",
+    "error-bad-credentials": "Username not found or password didn't match."
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/en/general-terms-and-conditions/",
