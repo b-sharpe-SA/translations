@@ -1748,6 +1748,13 @@
     "email-incorrect": "E-mail non valida",
     "error-bad-credentials": "Nome utente sconosciuto o password non corretta."
   },
+  "registration": {
+    "create-account": "",
+    "what-type-account": "",
+    "personal-account": "",
+    "company-account": "",
+    "download-mobile-app": ""
+  },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/it/termini-e-condizioni/",
     "amla-protection": "https://www.b-sharpe.com/it/lege-lrd/",

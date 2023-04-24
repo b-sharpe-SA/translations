@@ -1748,6 +1748,13 @@
     "email-incorrect": "E-mail incorrect",
     "error-bad-credentials": "Le nom d'utilisateur est inconnu ou le mot de passe est incorrect."
   },
+  "registration": {
+    "create-account": "",
+    "what-type-account": "",
+    "personal-account": "",
+    "company-account": "",
+    "download-mobile-app": ""
+  },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/conditions-generales/",
     "amla-protection": "https://www.b-sharpe.com/fr/amla-provisions/",

@@ -1748,6 +1748,13 @@
     "email-incorrect": "Incorrect e-mail",
     "error-bad-credentials": "Username not found or password didn't match."
   },
+  "registration": {
+    "create-account": "Create an account",
+    "what-type-account": "What type of account do you want to open?",
+    "personal-account": "Personal account",
+    "company-account": "Company account",
+    "download-mobile-app": "For a better experience, you can also download the mobile app"
+  },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/en/general-terms-and-conditions/",
     "amla-protection": "https://www.b-sharpe.com/en/amla-provisions/",

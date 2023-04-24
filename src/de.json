@@ -1748,6 +1748,13 @@
     "email-incorrect": "E-Mail-Adresse ungültig",
     "error-bad-credentials": "Benutzername nicht gefunden oder Passwort ungültig."
   },
+  "registration": {
+    "create-account": "",
+    "what-type-account": "",
+    "personal-account": "",
+    "company-account": "",
+    "download-mobile-app": ""
+  },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/de/allgemeine-geschaftsbedingungen/",
     "amla-protection": "https://www.b-sharpe.com/de/geldwaschereibekampfung/",
