@@ -1611,7 +1611,8 @@
     "post-code": "Codice postale",
     "city": "Città",
     "country": "Nazione",
-    "error-occured": "Si è verificato un errore, contattaci"
+    "error-occured": "Si è verificato un errore, contattaci",
+    "continue": ""
   },
   "search-address-field": {
     "search-btn": "o cerca un indirizzo",
@@ -1756,6 +1757,13 @@
     "create-account-btn": "",
     "email-incorrect": "E-mail non valida",
     "error-bad-credentials": "Nome utente sconosciuto o password non corretta."
+  },
+  "reset-password": {
+    "email-step-title": "",
+    "email-step-description": "",
+    "otp-step-title": "",
+    "otp-step-description": "",
+    "resend-email-btn": ""
   },
   "registration": {
     "create-account": "",

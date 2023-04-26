@@ -1611,7 +1611,8 @@
     "post-code": "Postleitzahl",
     "city": "Stadt",
     "country": "Land",
-    "error-occured": "Es ist ein Fehler aufgetreten, bitte kontaktieren Sie uns."
+    "error-occured": "Es ist ein Fehler aufgetreten, bitte kontaktieren Sie uns.",
+    "continue": ""
   },
   "search-address-field": {
     "search-btn": "Nach einer Adresse suchen",
@@ -1756,6 +1757,13 @@
     "create-account-btn": "",
     "email-incorrect": "E-Mail-Adresse ungültig",
     "error-bad-credentials": "Benutzername nicht gefunden oder Passwort ungültig."
+  },
+  "reset-password": {
+    "email-step-title": "",
+    "email-step-description": "",
+    "otp-step-title": "",
+    "otp-step-description": "",
+    "resend-email-btn": ""
   },
   "registration": {
     "create-account": "",

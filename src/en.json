@@ -1614,7 +1614,8 @@
     "post-code": "Post code",
     "city": "City",
     "country": "Country",
-    "error-occured": "An error occurred, please contact us"
+    "error-occured": "An error occurred, please contact us",
+    "continue": "Continue"
   },
   "search-address-field": {
     "search-btn": "Or search for an address",
@@ -1756,6 +1757,13 @@
     "create-account-btn": "Create an account",
     "email-incorrect": "Incorrect e-mail",
     "error-bad-credentials": "Username not found or password didn't match."
+  },
+  "reset-password": {
+    "email-step-title": "Reset password",
+    "email-step-description": "Enter your e-mail address below and we'll send instructions on how to reset your password.",
+    "otp-step-title": "Check your e-mail inbox",
+    "otp-step-description": "Enter the 6 digit code you received at {{email}} to confirm your e-mail address.",
+    "resend-email-btn": "You didn't get the email? Resend a new one."
   },
   "registration": {
     "create-account": "Create an account",
