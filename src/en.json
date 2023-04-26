@@ -1615,7 +1615,8 @@
     "city": "City",
     "country": "Country",
     "error-occured": "An error occurred, please contact us",
-    "continue": "Continue"
+    "continue": "Continue",
+    "new-password": "New password"
   },
   "search-address-field": {
     "search-btn": "Or search for an address",
@@ -1763,7 +1764,11 @@
     "email-step-description": "Enter your e-mail address below and we'll send instructions on how to reset your password.",
     "otp-step-title": "Check your e-mail inbox",
     "otp-step-description": "Enter the 6 digit code you received at {{email}} to confirm your e-mail address.",
-    "resend-email-btn": "You didn't get the email? Resend a new one."
+    "resend-email-btn": "You didn't get the email? Resend a new one.",
+    "password-step-title": "Set up a new password",
+    "password-step-description": "You'll use this password from now on to log in to b-sharpe.",
+    "password-requirements": "Use a minimum of 8 characters (case sensitive) with at least one numeric and special character (@$!%* #?&.,-)",
+    "password-step-btn": "Set new password"
   },
   "registration": {
     "create-account": "Create an account",

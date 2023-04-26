@@ -1612,7 +1612,8 @@
     "city": "Stadt",
     "country": "Land",
     "error-occured": "Es ist ein Fehler aufgetreten, bitte kontaktieren Sie uns.",
-    "continue": ""
+    "continue": "",
+    "new-password": ""
   },
   "search-address-field": {
     "search-btn": "Nach einer Adresse suchen",
@@ -1763,7 +1764,11 @@
     "email-step-description": "",
     "otp-step-title": "",
     "otp-step-description": "",
-    "resend-email-btn": ""
+    "resend-email-btn": "",
+    "password-step-title": "",
+    "password-step-description": "",
+    "password-requirements": "",
+    "password-step-btn": ""
   },
   "registration": {
     "create-account": "",
