@@ -1745,7 +1745,16 @@
     "new-beneficiary-bank-account-details": "Enter your beneficiary's bank account details"
   },
   "rate-alert": {
-    "currency-pair-unavailable": "Rate not available for this currency pair"
+    "currency-pair-unavailable": "Rate not available for this currency pair",
+    "title": "Rates and alerts",
+    "my-currencies": "My currencies",
+    "disclaimer-interbank-rate": "The rate displayed is the interbank rate, it doesn't include b-sharpe's margin.",
+    "alert-info": "Alerts will notify you when your goal is reached so that you can make your operation at the best rate.",
+    "add-rate-alert-btn": "Add a rate alert",
+    "save-rate-alert-btn": "Save this alert",
+    "current-rate": "Current rate",
+    "alert-me-when": "Alert me when",
+    "empty-message": "You have no currency pair at the moment.\nAdd your first clicking on “Add”"
   },
   "login": {
     "welcome-txt": "Welcome to b-sharpe",

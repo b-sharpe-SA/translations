@@ -1745,7 +1745,16 @@
     "document-btn": ""
   },
   "rate-alert": {
-    "currency-pair-unavailable": "Rate für dieses Währungspaar nicht verfügbar"
+    "currency-pair-unavailable": "Rate für dieses Währungspaar nicht verfügbar",
+    "title": "",
+    "my-currencies": "",
+    "disclaimer-interbank-rate": "",
+    "alert-info": "",
+    "add-rate-alert-btn": "",
+    "save-rate-alert-btn": "",
+    "current-rate": "",
+    "alert-me-when": "",
+    "empty-message": ""
   },
   "login": {
     "welcome-txt": "",

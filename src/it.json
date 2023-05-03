@@ -1745,7 +1745,16 @@
     "document-btn": ""
   },
   "rate-alert": {
-    "currency-pair-unavailable": "Tasso non disponibile per questa coppia di valute"
+    "currency-pair-unavailable": "Tasso non disponibile per questa coppia di valute",
+    "title": "",
+    "my-currencies": "",
+    "disclaimer-interbank-rate": "",
+    "alert-info": "",
+    "add-rate-alert-btn": "",
+    "save-rate-alert-btn": "",
+    "current-rate": "",
+    "alert-me-when": "",
+    "empty-message": ""
   },
   "login": {
     "welcome-txt": "",
