@@ -1781,7 +1781,7 @@
   },
   "registration": {
     "create-account": "Create an account",
-    "what-type-account": "What type of account do you want to open?",
+    "what-type-account": "What type of account do you want?",
     "personal-account": "Personal account",
     "company-account": "Company account",
     "download-mobile-app": "For a better experience, you can also download the mobile app"
