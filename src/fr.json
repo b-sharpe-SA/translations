@@ -1331,7 +1331,7 @@
     "account-title": "Compte",
     "account-description-done": "Bonjour {{name}}, comment allez vous aujourd'hui ?",
     "account-description-start": "Bonjour {{name}}, pour ",
-    "account-description-own": "Bonjour {{name}}, terminer la configuration de votre compte",
+    "account-description-own": "Bonjour {{name}}, terminez la configuration de votre compte",
     "account-description-bold": "recevoir votre salaire directement depuis votre employeur",
     "account-description-end": ", il ne vous reste plus que quelques étapes",
     "account-own-link": "Vous envoyez le fonds depuis votre propre compte bancaire",
