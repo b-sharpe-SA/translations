@@ -1469,7 +1469,7 @@
     "delete-account-type-input-label": "Taper ici",
     "delete-account-type-input-error": "Merci de taper DELETE",
     "how-receive-salary": "Bonjour {{firstname}}, plus que deux étapes pour que b-sharpe puisse recevoir votre salaire directement de votre employeur.",
-    "how-receive-own": "Bonjour {{name}}, terminer la configuration de votre compte pour pouvoir faire votre première opération",
+    "how-receive-own": "Bonjour {{firstname}}, terminer la configuration de votre compte pour pouvoir faire votre première opération",
     "own-link": "Vous envoyez le fonds depuis votre propre compte bancaire",
     "download-salary-document-title": "Télécharger le document employeur",
     "download-salary-document-description": "Vous devez fournir ce document à votre employeur. Il contient toutes les informations nécessaires pour le versement de votre salaire.",
