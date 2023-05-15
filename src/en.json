@@ -1616,7 +1616,11 @@
     "country": "Country",
     "error-occured": "An error occurred, please contact us",
     "continue": "Continue",
-    "new-password": "New password"
+    "new-password": "New password",
+    "french": "French",
+    "italian": "Italian",
+    "english": "English",
+    "german": "German"
   },
   "search-address-field": {
     "search-btn": "Or search for an address",
