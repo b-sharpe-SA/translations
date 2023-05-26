@@ -1746,7 +1746,16 @@
     "account-holder-autocomplete-label": "Add \"{{name}}\" as new account holder",
     "new-person-details-message": "Please provide the details of the person you want to send money to",
     "new-company-details-message": "Please provide the details of the company you want to send money to",
-    "new-beneficiary-bank-account-details": "Enter your beneficiary's bank account details"
+    "new-beneficiary-bank-account-details": "Enter your beneficiary's bank account details",
+    "bank-details-title": "Add bank details",
+    "bank-details-description": "How do you want to provide the bank details?",
+    "bank-details-source-iban-title": "Type the IBAN",
+    "bank-details-source-iban-description": "Type the IBAN on your keyboard",
+    "bank-details-source-scan-title": "Scan an IBAN",
+    "bank-details-source-scan-description": "Use the camera of your smartphone",
+    "bank-details-source-file-title": "Upload a file",
+    "bank-details-source-file-description": "If you have your IBAN in a file"
+
   },
   "rate-alert": {
     "currency-pair-unavailable": "Rate not available for this currency pair",

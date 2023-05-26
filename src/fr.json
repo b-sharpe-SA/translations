@@ -1746,7 +1746,15 @@
     "account-holder-autocomplete-label": "Ajouter \"{{name}}\" comme nouveau titulaire de compte",
     "new-person-details-message": "Merci de fournir les détails de la personne à qui vous voulez envoyer de l'argent",
     "new-company-details-message": "Merci de fournir les détails de l'entreprise à qui vous voulez envoyer de l'argent",
-    "new-beneficiary-bank-account-details": "Entrez les coordonnées bancaires de votre bénéficiaire"
+    "new-beneficiary-bank-account-details": "Entrez les coordonnées bancaires de votre bénéficiaire",
+    "bank-details-title": "",
+    "bank-details-description": "",
+    "bank-details-source-iban-title": "",
+    "bank-details-source-iban-description": "",
+    "bank-details-source-scan-title": "",
+    "bank-details-source-scan-description": "",
+    "bank-details-source-file-title": "",
+    "bank-details-source-file-description": ""
   },
   "rate-alert": {
     "currency-pair-unavailable": "Taux non disponible pour cette paire de devises",
