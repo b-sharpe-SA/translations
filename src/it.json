@@ -1618,9 +1618,9 @@
     "continue": "Continua",
     "new-password": "Nuova password",
     "french": "Francese",
-    "italian": "Italia",
+    "italian": "Italiano",
     "english": "Inglese",
-    "german": "Germania"
+    "german": "Tedesco"
   },
   "search-address-field": {
     "search-btn": "o cerca un indirizzo",
@@ -1746,7 +1746,15 @@
     "account-holder-autocomplete-label": "Aggiungere \"{{nome}}\" come nuovo titolare del conto",
     "new-person-details-message": "Per favore, fornisci i dettagli della persona a cui vuoi inviare denaro",
     "new-company-details-message": "Per favore, fornisci i dettagli dell'azienda a cui vuoi inviare denaro",
-    "new-beneficiary-bank-account-details": "Inserisci i dettagli del conto bancario del tuo beneficiario"
+    "new-beneficiary-bank-account-details": "Inserisci i dettagli del conto bancario del tuo beneficiario",
+    "bank-details-title": "",
+    "bank-details-description": "",
+    "bank-details-source-iban-title": "",
+    "bank-details-source-iban-description": "",
+    "bank-details-source-scan-title": "",
+    "bank-details-source-scan-description": "",
+    "bank-details-source-file-title": "",
+    "bank-details-source-file-description": ""
   },
   "rate-alert": {
     "currency-pair-unavailable": "Tasso non disponibile per questa coppia di valute",
