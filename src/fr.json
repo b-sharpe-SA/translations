@@ -1469,7 +1469,7 @@
     "delete-account-type-input-label": "Taper ici",
     "delete-account-type-input-error": "Merci de taper DELETE",
     "how-receive-salary": "Bonjour {{firstname}}, plus que deux étapes pour que b-sharpe puisse recevoir votre salaire directement de votre employeur.",
-    "how-receive-own": "Bonjour {{name}}, terminer la configuration de votre compte pour pouvoir faire votre première opération",
+    "how-receive-own": "Bonjour {{firstname}}, terminer la configuration de votre compte pour pouvoir faire votre première opération",
     "own-link": "Vous envoyez le fonds depuis votre propre compte bancaire",
     "download-salary-document-title": "Télécharger le document employeur",
     "download-salary-document-description": "Vous devez fournir ce document à votre employeur. Il contient toutes les informations nécessaires pour le versement de votre salaire.",
@@ -1617,10 +1617,10 @@
     "error-occured": "Une erreur s'est produite, veuillez nous contacter",
     "continue": "Continuer",
     "new-password": "Nouveau mot de passe",
-    "french": "France",
-    "italian": "Italie",
+    "french": "Français",
+    "italian": "Italien",
     "english": "Anglais",
-    "german": "Allemagne"
+    "german": "Allemand"
   },
   "search-address-field": {
     "search-btn": "Ou rechercher une adresse",
@@ -1746,7 +1746,15 @@
     "account-holder-autocomplete-label": "Ajouter \"{{name}}\" comme nouveau titulaire de compte",
     "new-person-details-message": "Merci de fournir les détails de la personne à qui vous voulez envoyer de l'argent",
     "new-company-details-message": "Merci de fournir les détails de l'entreprise à qui vous voulez envoyer de l'argent",
-    "new-beneficiary-bank-account-details": "Entrez les coordonnées bancaires de votre bénéficiaire"
+    "new-beneficiary-bank-account-details": "Entrez les coordonnées bancaires de votre bénéficiaire",
+    "bank-details-title": "",
+    "bank-details-description": "",
+    "bank-details-source-iban-title": "",
+    "bank-details-source-iban-description": "",
+    "bank-details-source-scan-title": "",
+    "bank-details-source-scan-description": "",
+    "bank-details-source-file-title": "",
+    "bank-details-source-file-description": ""
   },
   "rate-alert": {
     "currency-pair-unavailable": "Taux non disponible pour cette paire de devises",
