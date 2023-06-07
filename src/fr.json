@@ -1782,7 +1782,9 @@
     "hover-zone-graph-details": "",
     "my-alerts": "",
     "maximum-alerts": "",
-    "maximum-alerts-info": ""
+    "maximum-alerts-info": "",
+    "now": "",
+    "add-alert-btn": ""
   },
   "login": {
     "welcome-txt": "Bienvenue chez b-sharpe",
