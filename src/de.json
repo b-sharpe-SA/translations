@@ -1535,7 +1535,7 @@
     "b-sharpe-iban-description": "Uns das umzutauschende Geld zu schicken",
     "employer-document": "Arbeitgeber-Dokument",
     "employer-document-description": "Sie werden in einer anderen Währung bezahlt? Wir können Ihren Gehaltsumtausch automatisieren.",
-    "iban-currency-question": "Welche Währung senden Sie oder Ihr Unternehmen uns?",
+    "iban-currency-question": "Welche Währung schicken Sie uns?",
     "employer-currency-question": "Was ist Ihre Gehaltswährung?",
     "employer-document-info": "Um Ihr Gehalt direkt von Ihrem Arbeitgeber zu erhalten, laden Sie bitte das Arbeitgeberdokument unten herunter. Sie müssen es Ihrem Arbeitgeber zur Verfügung stellen und er wird Ihr Gehalt direkt an uns senden.\nWir werden dann den Austausch durchführen und es auf Ihr Bankkonto überweisen.",
     "btn-download-employer-document-label": "Laden Sie das Dokument des Arbeitgebers herunter",
