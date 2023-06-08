@@ -1535,7 +1535,7 @@
     "b-sharpe-iban-description": "To send us the money to be exchanged",
     "employer-document": "Employer document",
     "employer-document-description": "Getting paid in another currency? We can automate your salary exchange.",
-    "iban-currency-question": "Which currency are you or your sending us?",
+    "iban-currency-question": "Which currency are you sending us?",
     "employer-currency-question": "What’s your salary currency?",
     "employer-document-info": "To receive your salary directly from your employer, please download the employer document below. You will have to provide it to your employer, and they will send your salary directly to us.\nWe will then make the exchange and transfer it to your bank account.",
     "btn-download-employer-document-label": "Download the employer document",
