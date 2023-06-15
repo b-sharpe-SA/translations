@@ -1620,7 +1620,8 @@
     "french": "French",
     "italian": "Italian",
     "english": "English",
-    "german": "German"
+    "german": "German",
+    "cancel": "Cancel"
   },
   "search-address-field": {
     "search-btn": "Or search for an address",
