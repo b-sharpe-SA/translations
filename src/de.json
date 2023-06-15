@@ -1785,7 +1785,8 @@
     "maximum-alerts": "Maximale Anzahl von Benachrichtigungen",
     "maximum-alerts-info": "Sie können nur zwei Benachrichtigungen pro Währungspaar festlegen. Löschen Sie eine, wenn Sie eine neue hinzufügen möchten",
     "now": "Jetzt",
-    "add-alert-btn": "Benachrichtigung hinzufügen"
+    "add-alert-btn": "Benachrichtigung hinzufügen",
+    "delete-currency-pair-btn": "Lösche dieses Währungspaar"
   },
   "login": {
     "welcome-txt": "Willkommen bei b-sharpe",

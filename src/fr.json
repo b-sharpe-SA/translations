@@ -1785,7 +1785,8 @@
     "maximum-alerts": "Alertes maximales",
     "maximum-alerts-info": "Vous ne pouvez définir que deux alertes par paire de devises. Veuillez en supprimer une si vous souhaitez en ajouter une nouvelle",
     "now": "Maintenant",
-    "add-alert-btn": "Ajouter une alerte"
+    "add-alert-btn": "Ajouter une alerte",
+    "delete-currency-pair-btn": "Supprimer cette paire de devises"
   },
   "login": {
     "welcome-txt": "Bienvenue chez b-sharpe",

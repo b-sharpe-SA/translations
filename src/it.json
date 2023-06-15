@@ -1785,7 +1785,8 @@
     "maximum-alerts": "Avvisi massimi",
     "maximum-alerts-info": "Puoi definire solo due avvisi per coppia di valute. Elimina uno se ne vuoi aggiungere uno nuovo",
     "now": "Ora",
-    "add-alert-btn": "Aggiungi un avviso"
+    "add-alert-btn": "Aggiungi un avviso",
+    "delete-currency-pair-btn": "Elimina questa coppia di valute"
   },
   "login": {
     "welcome-txt": "Benvenuti in b-sharpe",
