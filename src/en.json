@@ -1078,6 +1078,8 @@
     "MAD": "Moroccan Dirham",
     "DKK": "Danish Krone",
     "RON": "Romanian Leu",
+    "SAR":"Saudi Riyal",
+    "TND":"Tunisian Dinar",
     "sign-up-account-type": "Select an account",
     "sign-up-account-type-hint-question": "How do you want to proceed?",
     "sign-up-account-type-title": "Create an account on the website",
