@@ -1623,7 +1623,8 @@
     "click-here": "Click here",
     "parameters": "Parameters",
     "notifications": "Notifications",
-    "login-other-account": "Login with another account"
+    "login-other-account": "Login with another account",
+    "sidebar-phone-link": "b-sharpe on your phone"
   },
   "search-address-field": {
     "search-btn": "Or search for an address",
