@@ -1528,7 +1528,8 @@
   },
   "documents": {
     "title": "IBAN und Dokumente",
-    "subtitle": "Nach welcher Art von Dokument suchen Sie?",
+    "subtitle": "",
+    "subtitle-2": "Nach welcher Art von Dokument suchen Sie?",
     "b-sharpe-iban": "b-sharpe IBAN",
     "b-sharpe-iban-description": "Uns das umzutauschende Geld zu schicken",
     "employer-document": "Arbeitgeber-Dokument",
@@ -1701,6 +1702,7 @@
   },
   "beneficiaries": {
     "title": "Begünstigte",
+    "subtitle": "",
     "add-btn": "Begünstigten hinzufügen",
     "no-data": "Sie haben noch kein Bankkonto in der gewünschten Zielwährung. Bitte fügen Sie ein Konto in dieser Währung hinzu, um Ihre Devisentransaktionen durchführen zu können.",
     "tooltip-pending": "Dieser Begünstigte wird überprüft. Wir werden Sie informieren, sobald er einsatzbereit ist.",

@@ -1528,7 +1528,8 @@
   },
   "documents": {
     "title": "IBAN and Documents",
-    "subtitle": "What kind of document are you looking for?",
+    "subtitle": "This is where you will find our IBAN where to send us the money and all the related documents.",
+    "subtitle-2": "What kind of document are you looking for?",
     "b-sharpe-iban": "b-sharpe IBAN",
     "b-sharpe-iban-description": "To send us the money to be exchanged",
     "employer-document": "Employer document",
@@ -1701,6 +1702,7 @@
   },
   "beneficiaries": {
     "title": "Beneficiaries",
+    "subtitle": "These are the destination bank accounts where you want to receive your money. You need to add one before making your first operation.",
     "add-btn": "Add beneficiary",
     "no-data": "You don’t have any beneficiary at the moment.\nAdd your first clicking on “Add beneficiary” on top right.",
     "tooltip-pending": "This beneficiary is in review. We will inform you as soon as it is ready to use.",

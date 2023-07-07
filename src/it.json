@@ -1528,7 +1528,8 @@
   },
   "documents": {
     "title": "IBAN e Documenti",
-    "subtitle": "Che tipo di documento sta cercando?",
+    "subtitle": "",
+    "subtitle-2": "Che tipo di documento sta cercando?",
     "b-sharpe-iban": "b-sharpe IBAN",
     "b-sharpe-iban-description": "Per inviarci il denaro da scambiare",
     "employer-document": "Documento del datore di lavoro",
@@ -1701,6 +1702,7 @@
   },
   "beneficiaries": {
     "title": "Beneficiari",
+    "subtitle": "",
     "add-btn": "Aggiungi un beneficiario",
     "no-data": "Al momento non hai nessun beneficiario. Aggiungi il primo cliccando su \"Aggiungi beneficiario\" in alto a destra.",
     "tooltip-pending": "Questo beneficiario è in revisione. Ti informeremo non appena sarà pronto per l'uso.",
