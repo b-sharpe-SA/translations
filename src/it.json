@@ -1799,7 +1799,7 @@
     "signin-or-create": "Accedi o crea un account",
     "email-label": "Il tuo indirizzo email",
     "password-label": "Password",
-    "forgot-password-link": "Ho dimenticato la mia password",
+    "forgot-password-link": "Password dimenticata?",
     "signin-btn": "Accedi",
     "create-account-btn": "Crea un account",
     "email-incorrect": "E-mail non valida",
