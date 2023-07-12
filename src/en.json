@@ -1008,7 +1008,7 @@
     "psp-documents-reference-label": "Reference to use",
     "psp-bank-account-download-iban": "Download IBAN",
     "psp-bank-account-certificate-description": "To have your salary credited directly to b-sharpe, please send your employer the document below.",
-    "psp-bank-account-download_certificate-label": "Employer document",
+    "psp-bank-account-download_certificate-label": "Download the employer document",
     "psp-bank-account-certificate-hint": "Please note that this account is not nominal and no direct debits (LSV) are possible.",
     "psp-bank-account-empty": "Error loading accounts, please try again.",
     "psp-bank-account-clearing-code": "Clearing code",
