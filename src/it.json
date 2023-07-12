@@ -1008,7 +1008,7 @@
     "psp-documents-reference-label": "Riferimento da usare",
     "psp-bank-account-download-iban": "Scarica l'IBAN",
     "psp-bank-account-certificate-description": "Se desideri che il tuo stipendio sia direttamente accreditato a b-sharpe, fornisci questo documento al tuo datore di lavoro.",
-    "psp-bank-account-download_certificate-label": "Documento del datore di lavoro",
+    "psp-bank-account-download_certificate-label": "Scarica il documento del datore di lavoro",
     "psp-bank-account-certificate-hint": "Attenzione: questo conto non è nominativo, non è quindi possibile effettuare un addebito diretto (LSV).",
     "psp-bank-account-empty": "Errore nel caricamento dei conti, riprova per favore.",
     "psp-bank-account-clearing-code": "Clearing code",
