@@ -1008,7 +1008,7 @@
     "psp-documents-reference-label": "Verwendungshinweis",
     "psp-bank-account-download-iban": "IBAN herunterladen",
     "psp-bank-account-certificate-description": "Damit Ihr Gehalt direkt an b-sharpe überwiesen werden kann, senden Sie bitte das untenstehende Dokument an Ihren Arbeitgeber.",
-    "psp-bank-account-download_certificate-label": "Arbeitgeberdokument",
+    "psp-bank-account-download_certificate-label": "Download des Arbeitgeberdokuments",
     "psp-bank-account-certificate-hint": "Bitte beachten Sie, dass dieses Konto nicht nominal ist und keine Lastschriftverfahren (LSV) möglich sind.",
     "psp-bank-account-empty": "Fehler beim Laden der Konten, bitte versuchen Sie es erneut.",
     "psp-bank-account-clearing-code": "Instituts-Identifikation",
