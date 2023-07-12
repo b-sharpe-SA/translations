@@ -1008,7 +1008,7 @@
     "psp-documents-reference-label": "Référence à utiliser",
     "psp-bank-account-download-iban": "Télécharger l'IBAN",
     "psp-bank-account-certificate-description": "Pour faire créditer votre salaire directement chez b-sharpe, veuillez remettre à votre employeur le document ci-dessous :",
-    "psp-bank-account-download_certificate-label": "Document de l'employeur",
+    "psp-bank-account-download_certificate-label": "Télécharger le document employeur",
     "psp-bank-account-certificate-hint": "Veuillez noter que ce compte n'est pas nominatif et qu'aucun recouvrement direct (LSV) n'est possible.",
     "psp-bank-account-empty": "Erreur au chargement des comptes, merci de réessayer",
     "psp-bank-account-clearing-code": "Code de clearing",
