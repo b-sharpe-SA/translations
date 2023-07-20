@@ -818,7 +818,7 @@
     "registration-step-4-agree-b-sharpe-contact": "I confirm that I read and agree with my {{linkText}}",
     "registration-step-4-b-sharpe-contact": "b-sharpe contract",
     "registration-step-5-label": "Proof of residence",
-    "registration-step-5-description": "Please upload proof of residence dated less than three months ago (utility bill, insurance certificate, administrative mail).",
+    "registration-step-5-description": "Please upload proof of residence dated less than six months ago (utility bill, insurance certificate, administrative mail).",
     "registration-step-5-description-success-upload": "You have successfully uploaded a document. You can add another or continue registration.",
     "registration-step-5-select-document": "Add a document",
     "registration-step-5-select-first-document": "Select first document",
