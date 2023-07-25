@@ -1122,10 +1122,10 @@
     "sign-up-individual-phone-description": "Il tuo numero sarà necessario per firmare il contratto e accedere al tuo account b-sharpe",
     "sign-up-individual-address": "Inserisci il tuo indirizzo",
     "sign-up-individual-address-description": "Per convalidare il tuo account, dovrai fornire un giustificativo di domicilio",
-    "sign-up-individual-auto-address": "o cerca un indirizzo",
+    "sign-up-individual-auto-address": "O cerca un indirizzo",
     "sign-up-individual-auto-address-search": "Cerca un indirizzo",
     "sign-up-individual-auto-address-alert": "😣 Non abbiamo trovato nessun indirizzo corrispondente",
-    "sign-up-individual-manual-address": "oppure inseriscilo manualmente",
+    "sign-up-individual-manual-address": "Oppure inseriscilo manualmente",
     "sign-up-individual-additional": "Informazioni personali",
     "sign-up-individual-additional-placeholder": "Nazionalità",
     "sign-up-individual-tax": "Informazioni fiscali",
@@ -1628,8 +1628,8 @@
     "sidebar-phone-link": "b-sharpe sul telefono"
   },
   "search-address-field": {
-    "search-btn": "o cerca un indirizzo",
-    "manually-btn": "oppure inseriscilo manualmente",
+    "search-btn": "O cerca un indirizzo",
+    "manually-btn": "Oppure inseriscilo manualmente",
     "search-placeholder": "Cerca un indirizzo"
   },
   "rewards": {
