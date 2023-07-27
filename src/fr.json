@@ -1478,7 +1478,13 @@
     "stay-connected": "Rester connecté",
     "logout-modal-title": "Voulez-vous vraiment vous déconnecter ?",
     "further-modification-info": "Pour toute modification, veuillez contacter notre service client en cliquant sur le bouton d'aide en haut à droite de votre écran.",
-    "delete-account-type-input-error": "Merci de taper DELETE"
+    "delete-account-type-input-error": "Merci de taper DELETE",
+    "delete-reason-no-longer-need": "Je n'ai plus besoin de faire du change.",
+    "delete-reason-exchange-specific": "Mon besoin de change était ponctuel (achat immobilier...).",
+    "delete-reason-cheaper-service": "J'ai trouvé un service moins cher (frais, marge...).",
+    "delete-reason-not-satisfied": "Je ne suis pas satisfait du service (trop lent, trop complexe).",
+    "delete-reason-not-suit-need": "Le service ne me convient pas (besoin d'un compte bancaire ou d'une carte bancaire...).",
+    "delete-reason-other": "Autre raison."
   },
   "simulator": {
     "title": "Simulateur",

@@ -1478,7 +1478,13 @@
     "stay-connected": "Rimani connesso",
     "logout-modal-title": "Vuoi davvero effettuare il logout?",
     "further-modification-info": "Per eventuali ulteriori modifiche, contatta il nostro servizio clienti facendo clic sul punto interrogativo in alto a destra.",
-    "delete-account-type-input-error": "Per favore, digita DELETE."
+    "delete-account-type-input-error": "Per favore, digita DELETE.",
+    "delete-reason-no-longer-need": "Non ho più bisogno di effettuare un cambio.",
+    "delete-reason-exchange-specific": "Il mio bisogno di cambio era occasionale (acquisto immobiliare...).",
+    "delete-reason-cheaper-service": "Ho trovato un servizio più economico (commissioni, margine...).",
+    "delete-reason-not-satisfied": "Non sono soddisfatto del servizio (troppo lento, troppo complicato).",
+    "delete-reason-not-suit-need": "Il servizio non mi soddisfa (ho bisogno di un conto bancario o di una carta di credito...).",
+    "delete-reason-other": "Altra ragione."
   },
   "simulator": {
     "title": "Simulatore",

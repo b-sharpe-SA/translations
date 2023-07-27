@@ -1478,7 +1478,13 @@
     "stay-connected": "Stay connected",
     "logout-modal-title": "Do you really want to log out?",
     "further-modification-info": "For any modification, please contact our customer service by clicking on the help menu located on the top-right corner of your screen.",
-    "delete-account-type-input-error": "Please type DELETE"
+    "delete-account-type-input-error": "Please type DELETE",
+    "delete-reason-no-longer-need": "I no longer need to exchange currency.",
+    "delete-reason-exchange-specific": "My need for currency exchange was specific (real estate purchase...).",
+    "delete-reason-cheaper-service": "I found a cheaper service (fees, markup...).",
+    "delete-reason-not-satisfied": "I am not satisfied with the service (too slow, too complicated).",
+    "delete-reason-not-suit-need": "The service does not suit me (need a bank account or a credit card...).",
+    "delete-reason-other": "Other reason."
   },
   "simulator": {
     "title": "Simulator",

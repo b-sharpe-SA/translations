@@ -1478,7 +1478,13 @@
     "stay-connected": "Bleib verbunden",
     "logout-modal-title": "Möchtest du dich wirklich abmelden?",
     "further-modification-info": "Für weitere Änderungen kontaktiere bitte unseren Kundenservice, indem du auf das Fragezeichen oben rechts klickst.",
-    "delete-account-type-input-error": "Bitte geben Sie \"DELETE\" ein"
+    "delete-account-type-input-error": "Bitte geben Sie \"DELETE\" ein",
+    "delete-reason-no-longer-need": "Ich muss keinen Währungswechsel mehr vornehmen.",
+    "delete-reason-exchange-specific": "Mein Bedarf an Währungswechsel war einmalig (Immobilienkauf...).",
+    "delete-reason-cheaper-service": "Ich habe einen günstigeren Service gefunden (Gebühren, Aufschlag...).",
+    "delete-reason-not-satisfied": "Ich bin mit dem Service nicht zufrieden (zu langsam, zu komplex).",
+    "delete-reason-not-suit-need": "Der Service entspricht nicht meinen Anforderungen (benötige ein Bankkonto oder eine Kreditkarte...).",
+    "delete-reason-other": "Anderer Grund."
   },
   "simulator": {
     "title": "Simulator",
