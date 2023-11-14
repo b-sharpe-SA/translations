@@ -1552,6 +1552,7 @@
     "account-payable-to": "Account / payable to"
   },
   "common": {
+    "email": "Email",
     "beneficiaries": "Beneficiaries",
     "beneficiary": "Beneficiary",
     "review": "Review",
