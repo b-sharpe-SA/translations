@@ -1747,7 +1747,13 @@
     "company-btn": "Une entreprise",
     "company-btn-sub": "Pour payer une facture",
     "family-btn": "Un membre de votre famille",
-    "family-btn-sub": "Conjoint, enfant, parent, frère ou soeur"
+    "family-btn-sub": "Conjoint, enfant, parent, frère ou soeur",
+    "bank-details": "Coordonées bancaires",
+    "bank-account-sub-not-myself": "Enter your beneficiary's bank account details",
+    "bank-account-sub-myself": "Enter your bank account details",
+    "account-no-iban": "Compte sans IBAN",
+    "select-currency": "Sélectionnez une devise",
+    "add-bank-account-btn": "Ajouter ce compte bancaire"
   },
   "rate-alert": {
     "currency-pair-unavailable": "Taux non disponible pour cette paire de devises",
