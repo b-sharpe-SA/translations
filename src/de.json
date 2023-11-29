@@ -1722,22 +1722,22 @@
     "friends": "FREUNDE",
     "and-earn": "Und verdienen!"
   },
-  "beneficiaries": {
-    "title": "Begünstigte",
-    "subtitle": "Dies sind die Zielsparkonten, auf die Sie Ihr Geld erhalten möchten. Sie müssen ein Konto hinzufügen, bevor Sie Ihre erste Transaktion durchführen können.",
-    "add-btn": "Begünstigten hinzufügen",
-    "no-data": "Sie haben noch kein Bankkonto in der gewünschten Zielwährung. Bitte fügen Sie ein Konto in dieser Währung hinzu, um Ihre Devisentransaktionen durchführen zu können.",
-    "tooltip-pending": "Dieser Begünstigte wird überprüft. Wir werden Sie informieren, sobald er einsatzbereit ist.",
-    "add-beneficiary-success-message": "Ihr Begünstigter wurde hinzugefügt. Sie können ihn jetzt verwenden.",
-    "add-beneficiary-not-myself-success-message": "Ihr Begünstigter wurde hinzugefügt, muss aber noch überprüft werden. Wir werden Sie informieren, sobald Sie ihn nutzen können.",
-    "details-modal-title": "Details des Begünstigten",
-    "delete-beneficiary-btn": "Diesen Begünstigten entfernen",
-    "pending-tooltip": "Dieser Begünstigte wird überprüft. Wir werden Sie informieren, sobald er einsatzbereit ist.",
-    "keep-account-btn": "Diesen Begünstigten behalten",
-    "remove-definitely-btn": "Endgültig entfernen",
-    "see-disabled-btn": "Deaktivierte Begünstigte anzeigen",
-    "hide-disabled-btn": "Deaktivierte Begünstigte ausblenden",
-    "delete-are-you-sure": "Sind Sie sicher, dass Sie diesen Zahlungsempfänger deaktivieren möchten?"
+  "bank-account": {
+    "title": "Bankkonten",
+    "subtitle": "Dies sind die Bankkonten, auf die Sie Ihr Geld erhalten möchten, sobald es umgetauscht wurde. Sie müssen eines hinzufügen, bevor Sie Ihre erste Transaktion durchführen können.",
+    "add-btn": "Ein Bankkonto hinzufügen",
+    "no-data": "Sie haben derzeit kein Bankkonto. \nFügen Sie Ihr erstes Bankkonto hinzu, indem Sie oben rechts auf \"Ein Bankkonto hinzufügen\" klicken.",
+    "tooltip-pending": "Dieses Bankkonto wird derzeit validiert. Wir informieren Sie, sobald Sie es verwenden können.",
+    "add-beneficiary-success-message": "Ihr Bankkonto wurde erfolgreich hinzugefügt. Sie können es jetzt verwenden.",
+    "add-beneficiary-not-myself-success-message": "Ihr Bankkonto wurde erfolgreich hinzugefügt und wird derzeit validiert. Wir informieren Sie, sobald Sie es verwenden können.",
+    "details-modal-title": "Details des Bankkontos",
+    "delete-beneficiary-btn": "Dieses Bankkonto löschen",
+    "pending-tooltip": "Dieses Bankkonto wird derzeit validiert. Wir informieren Sie, sobald Sie es verwenden können.",
+    "keep-account-btn": "Dieses Konto behalten",
+    "remove-definitely-btn": "Dauerhaft entfernen",
+    "see-disabled-btn": "Deaktivierte Bankkonten anzeigen",
+    "hide-disabled-btn": "Deaktivierte Bankkonten ausblenden",
+    "delete-are-you-sure": "Sind Sie sicher, dass Sie dieses Bankkonto löschen möchten?"
   },
   "new-bank-account": {
     "title": "Welchen Kontotyp möchten Sie hinzufügen?",

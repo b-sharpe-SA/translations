@@ -1722,22 +1722,22 @@
     "friends": "AMIS",
     "and-earn": "Et gagnez !"
   },
-  "beneficiaries": {
-    "title": "Bénéficiaires",
+  "bank-account": {
+    "title": "Comptes bancaires",
     "subtitle": "Ce sont les comptes bancaires sur lesquels vous souhaitez recevoir votre argent une fois changé. Vous devez en ajouter un avant de faire votre première opération.",
-    "add-btn": "Ajouter un bénéficiaire",
-    "no-data": "Vous n'avez aucun bénéficiaire pour le moment. \nAjoutez votre premier bénéficiaire en cliquant sur \"Ajouter un bénéficiaire\" en haut à droite.",
-    "tooltip-pending": "Ce bénéficiaire est en cours de validation. Nous vous informerons dès que vous pourrez l'utiliser.",
-    "add-beneficiary-success-message": "Votre bénéficiaire a bien été ajouté. Vous pouvez l'ajouter dès maintenant.",
-    "add-beneficiary-not-myself-success-message": "Votre bénéficiaire a bien été ajouté et est en cours de validation. Nous vous informerons dès que vous pouvez l'utiliser",
-    "details-modal-title": "Détails du bénéficiaire",
-    "delete-beneficiary-btn": "Supprimer ce bénéficiaire",
-    "pending-tooltip": "Ce bénéficiaire est en cours de validation. Nous vous informerons dès que vous pourrez l'utiliser.",
+    "add-btn": "Ajouter un compte bancaire",
+    "no-data": "Vous n'avez aucun compte bancaire pour le moment. \nAjoutez votre premier compte bancaire en cliquant sur \"Ajouter un compte bancaire\" en haut à droite.",
+    "tooltip-pending": "Ce compte bancaire est en cours de validation. Nous vous informerons dès que vous pourrez l'utiliser.",
+    "add-beneficiary-success-message": "Votre compte bancaire a bien été ajouté. Vous pouvez l'ajouter dès maintenant.",
+    "add-beneficiary-not-myself-success-message": "Votre compte bancaire a bien été ajouté et est en cours de validation. Nous vous informerons dès que vous pouvez l'utiliser",
+    "details-modal-title": "Détails du compte bancaire",
+    "delete-beneficiary-btn": "Supprimer ce compte bancaire",
+    "pending-tooltip": "Ce compte bancaire est en cours de validation. Nous vous informerons dès que vous pourrez l'utiliser.",
     "keep-account-btn": "Conserver ce compte",
     "remove-definitely-btn": "Supprimer définitivement",
-    "see-disabled-btn": "Voir les bénéficiaires désactivés",
-    "hide-disabled-btn": "Cacher les bénéficiaires désactivés",
-    "delete-are-you-sure": "Êtes-vous sûr de vouloir supprimer ce bénéficiaire ?"
+    "see-disabled-btn": "Voir les compte bancaire désactivés",
+    "hide-disabled-btn": "Cacher les compte bancaire désactivés",
+    "delete-are-you-sure": "Êtes-vous sûr de vouloir supprimer ce compte bancaire ?"
   },
   "new-bank-account": {
     "title": "Quel type de compte voulez-vous ajouter?",

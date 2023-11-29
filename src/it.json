@@ -1722,22 +1722,22 @@
     "friends": "AMICI",
     "and-earn": "E guadagnare!"
   },
-  "beneficiaries": {
-    "title": "Beneficiari",
-    "subtitle": "Questi sono i conti bancari di destinazione su cui desideri ricevere i tuoi soldi. Devi aggiungerne uno prima di effettuare la tua prima operazione.",
-    "add-btn": "Aggiungi un beneficiario",
-    "no-data": "Al momento non hai nessun beneficiario. Aggiungi il primo cliccando su \"Aggiungi beneficiario\" in alto a destra.",
-    "tooltip-pending": "Questo beneficiario è in revisione. Ti informeremo non appena sarà pronto per l'uso.",
-    "add-beneficiary-success-message": "Il vostro beneficiario è stato aggiunto. Potete utilizzarlo subito.",
-    "add-beneficiary-not-myself-success-message": "Il vostro beneficiario è stato aggiunto ma deve essere rivisto. Vi informeremo quando potrete utilizzarlo.",
-    "details-modal-title": "Dettagli del beneficiario",
-    "delete-beneficiary-btn": "Rimuovi questo beneficiario",
-    "pending-tooltip": "Questo beneficiario è in fase di revisione. Vi informeremo non appena sarà pronto all'uso.",
-    "keep-account-btn": "Mantieni questo account",
+  "bank-account": {
+    "title": "Conti bancari",
+    "subtitle": "Questi sono i conti bancari su cui desideri ricevere i tuoi soldi una volta scambiati. Devi aggiungerne uno prima di effettuare la tua prima transazione.",
+    "add-btn": "Aggiungi un conto bancario",
+    "no-data": "Al momento non hai alcun conto bancario. \nAggiungi il tuo primo conto bancario cliccando su \"Aggiungi un conto bancario\" in alto a destra.",
+    "tooltip-pending": "Questo conto bancario è in fase di convalida. Ti informeremo non appena potrai utilizzarlo.",
+    "add-beneficiary-success-message": "Il tuo conto bancario è stato aggiunto con successo. Puoi aggiungerlo ora.",
+    "add-beneficiary-not-myself-success-message": "Il tuo conto bancario è stato aggiunto con successo ed è in fase di convalida. Ti informeremo non appena potrai utilizzarlo.",
+    "details-modal-title": "Dettagli del conto bancario",
+    "delete-beneficiary-btn": "Elimina questo conto bancario",
+    "pending-tooltip": "Questo conto bancario è in fase di convalida. Ti informeremo non appena potrai utilizzarlo.",
+    "keep-account-btn": "Mantieni questo conto",
     "remove-definitely-btn": "Rimuovi definitivamente",
-    "see-disabled-btn": "Vedi i beneficiari disabilitati",
-    "hide-disabled-btn": "Nascondi i beneficiari disabilitati",
-    "delete-are-you-sure": "Sei sicuro di voler rimuovere questo account dai tuoi beneficiari?"
+    "see-disabled-btn": "Visualizza i conti bancari disabilitati",
+    "hide-disabled-btn": "Nascondi i conti bancari disabilitati",
+    "delete-are-you-sure": "Sei sicuro di voler eliminare questo conto bancario?"
   },
   "new-bank-account": {
     "title": "Che tipo di account vuoi aggiungere?",
