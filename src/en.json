@@ -1748,6 +1748,8 @@
     "company-btn-sub": "To pay a bill",
     "family-btn": "A family member",
     "family-btn-sub": "Spouse, child, parent, brother, or sister",
+    "my-company-btn": "My company",
+    "another-company-btn": "Another company",
     "bank-details": "Bank details",
     "bank-account-sub-not-myself": "Enter your beneficiary's bank account details",
     "bank-account-sub-myself": "Enter your bank account details",

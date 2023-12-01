@@ -1748,6 +1748,8 @@
     "company-btn-sub": "Per pagare una fattura",
     "family-btn": "Un membro della tua famiglia",
     "family-btn-sub": "Coniuge, figlio, genitore, fratello o sorella",
+    "my-company-btn": "La mia azienda",
+    "another-company-btn": "Un'altra azienda",
     "bank-details": "Dettagli bancari",
     "bank-account-sub-not-myself": "Inserisci i dettagli del conto bancario del beneficiario",
     "bank-account-sub-myself": "Inserisci i dettagli del tuo conto bancario",
