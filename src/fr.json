@@ -1776,7 +1776,8 @@
     "company-document":"Veuillez télécharger une facture ou un contrat de l'entreprise que vous êtes prêt à payer",
     "family-member-document-btn":"Ajouter mon document",
     "company-document-btn":"Ajouter ma fiche de salaire ou mon contrat",
-    "company-name":"Nom de l'entreprise"
+    "company-name":"Nom de l'entreprise",
+    "the-company": "La société"
   },
   "rate-alert": {
     "currency-pair-unavailable": "Taux non disponible pour cette paire de devises",

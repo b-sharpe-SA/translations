@@ -1776,7 +1776,8 @@
     "company-document": "Bitte laden Sie eine Rechnung oder einen Vertrag des Unternehmens hoch, den Sie bereit sind zu bezahlen",
     "family-member-document-btn": "Mein Dokument hinzufügen",
     "company-document-btn": "Meine Gehaltsabrechnung oder meinen Vertrag hinzufügen",
-    "company-name": "Name des Unternehmens"
+    "company-name": "Name des Unternehmens",
+    "the-company": "Das Unternehmen"
 },
   "rate-alert": {
     "currency-pair-unavailable": "Kurs für dieses Währungspaar nicht verfügbar",

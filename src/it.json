@@ -1776,7 +1776,8 @@
     "company-document": "Carica una fattura o un contratto dell'azienda che sei pronto a pagare",
     "family-member-document-btn": "Aggiungi il mio documento",
     "company-document-btn": "Aggiungi la mia busta paga o il mio contratto",
-    "company-name": "Nome dell'azienda"
+    "company-name": "Nome dell'azienda",
+    "the-company": "L'azienda"
   },
   "rate-alert": {
     "currency-pair-unavailable": "Tasso non disponibile per questa coppia di valute",

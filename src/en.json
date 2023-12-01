@@ -1776,7 +1776,8 @@
     "company-document": "Please upload an invoice or contract from the company you are ready to pay",
     "family-member-document-btn": "Add my document",
     "company-document-btn": "Add my salary slip or contract",
-    "company-name": "Company name"
+    "company-name": "Company name",
+    "the-company": "The company"
   },
   "rate-alert": {
     "currency-pair-unavailable": "Rate not available for this currency pair",
