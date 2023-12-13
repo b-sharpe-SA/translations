@@ -1552,6 +1552,7 @@
     "account-payable-to": "Account / payable to"
   },
   "common": {
+    "email": "Email",
     "beneficiaries": "Beneficiaries",
     "beneficiary": "Beneficiary",
     "review": "Review",
@@ -1924,7 +1925,7 @@
     "accept-and-sign": "Accept and sign",
     "us-status-checked": "Our services are not available to US citizens or residents of the United States.",
     "proof-of-identity-desc": "Get ready! You'll need a valid passport or national identity card with an MRZ code.",
-    "proof-of-identity-button":"Start the identity verification process",
+    "proof-of-identity-button":"Start the identity verification",
     "basic-informations": "Basic informations",
     "reassurance-title": "Why do we ask you for this information?",
     "reassurance-subtitle": "This personal informations are needed to:",

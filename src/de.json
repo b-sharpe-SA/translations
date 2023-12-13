@@ -1552,6 +1552,7 @@
     "account-payable-to": "Konto / Zahlbar an"
   },
   "common": {
+    "email": "Email",
     "beneficiaries": "Begünstigte",
     "beneficiary": "Begünstigter",
     "review": "Überprüfen",
