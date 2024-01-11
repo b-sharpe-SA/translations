@@ -1922,6 +1922,8 @@
     "us-status-checked": "Les personnes de nationalité américaine ou résidant aux États Unis ne peuvent pas bénéficier de nos services.",
     "proof-of-identity-desc": "Soyez prêts ! Vous devez fournir un passeport en cours de validité ou une carte d'identité nationale avec un MRZ code.",
     "proof-of-identity-button": "Débuter la vérification d'identité",
+    "proof-of-identity-button-passport": "Vérifier mon passeport",
+    "proof-of-identity-button-id-card": "Vérifier ma Carte d'identité",
     "basic-informations": "Informations de base",
     "reassurance-title": "Pourquoi nous vous demandons ces informations ?",
     "reassurance-email": "Chez b-sharpe, nous sommes comme vous et nous n'aimons pas les spams : nous utilisons uniquement votre adresse e-mail pour vous envoyer des informations critiques sur votre compte b-sharpe ou des alertes de taux si vous en avez configuré.\n\nSi vous vous abonnez à notre newsletter, nous vous enverrons uniquement des informations que nous jugeons très pertinentes pour vos besoins et nous ne partagerons jamais votre adresse e-mail en dehors de b-sharpe sans votre consentement explicite.",

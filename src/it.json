@@ -1922,6 +1922,8 @@
     "us-status-checked": "I servizi b-sharpe non sono disponibili per i residenti negli Stati Uniti",
     "proof-of-identity-desc": "Preparati! Avremo bisogno di un passaporto o di una carta d'identità nazionale valida.",
     "proof-of-identity-button": "Inizia la verifica dell'identità",
+    "proof-of-identity-button-passport": "Controllare il mio passaporto",
+    "proof-of-identity-button-id-card": "Controllare la mia carta d'identità",
     "basic-informations": "Informazioni di base",
     "reassurance-title": "Perché chiediamo queste informazioni?",
     "reassurance-email": "In b-sharpe, siamo come te e non ci piace lo spam: utilizziamo solo il tuo indirizzo email per inviarti informazioni critiche sul tuo account b-sharpe o avvisi di tasso se ne hai impostati.\n\nSe ti iscrivi alla nostra newsletter, ti invieremo solo informazioni che riteniamo estremamente rilevanti per le tue esigenze e non condivideremo mai il tuo indirizzo email al di fuori di b-sharpe senza il tuo esplicito consenso.",
