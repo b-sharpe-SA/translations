@@ -1922,6 +1922,8 @@
     "us-status-checked": "Personen mit US-Staatsbürgerschaft oder Wohnsitz in den USA können unsere Dienste nicht in Anspruch nehmen",
     "proof-of-identity-desc": "Halten Sie sich bereit! Sie müssen einen gültigen Reisepass oder einen nationalen Personalausweis mit einem MRZ-Code vorlegen",
     "proof-of-identity-button": "Identitätsprüfung beginnen",
+    "proof-of-identity-button-passport": "Mein Reisepass überprüfen",
+    "proof-of-identity-button-id-card": "Mein Personalausweis überprüfen",
     "basic-informations": "Grundlegende Informationen",
     "reassurance-title": "Warum fragen wir diese Informationen ab?",
     "reassurance-email": "Bei b-sharpe sind wir wie Sie und mögen keinen Spam: Wir verwenden Ihre E-Mail-Adresse nur, um Ihnen kritische Informationen über Ihr b-sharpe-Konto oder Kurswarnungen zu senden, falls Sie welche eingerichtet haben.\n\nWenn Sie sich für unseren Newsletter anmelden, senden wir Ihnen nur Informationen, die wir für Ihre Bedürfnisse sehr relevant halten, und wir werden Ihre E-Mail-Adresse niemals außerhalb von b-sharpe ohne Ihre ausdrückliche Zustimmung teilen.",
