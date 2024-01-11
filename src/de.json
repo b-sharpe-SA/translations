@@ -1873,6 +1873,8 @@
     "complete-your-account-description": "Es gibt noch einige Schritte, bevor Sie alle Funktionen von b-sharpe nutzen können. Sobald alle Schritte abgeschlossen sind, wird unser Kundenservice Ihr Konto innerhalb von 24 Geschäftsstunden aktivieren.",
     "confirm-your-email": "Bestätigen Sie Ihre E-Mail-Adresse",
     "proof-of-identity": "Identitätsnachweis",
+    "proof-of-identity-passport-btn": "Mein Reisepass überprüfen",
+    "proof-of-identity-id-card-btn": "Mein Personalausweis überprüfen",
     "proof-of-address": "Adressnachweis",
     "origin-of-funds": "Herkunft der Gelder",
     "accept-contract": "Vertrag akzeptieren",
