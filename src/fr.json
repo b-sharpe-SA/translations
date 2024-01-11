@@ -1459,7 +1459,8 @@
     "modal-confirm-buy-no-real-rate-content": "Nous ne pouvons vous fournir un taux pour cette opération pour le moment. Si vous confirmez quand même, cela signifie que vous acceptez le taux que nous vous donnerons. Sinon, vous pouvez contacter notre équipe trading pour bloquer le taux.",
     "document": "Document",
     "document-legal-reason": "Pour des raisons légales, nous avons besoin d'un document expliquant la raison de cette opération. Cela peut être une facture ou un contrat.",
-    "document-btn": "Ajouter mon document"
+    "document-btn": "Ajouter mon document",
+    "rib-updated": "Nous avons actualisé notre RIB pour améliorer la qualité du service"
   },
   "account": {
     "finish-setup": "{{firstName}}, Terminez la configuration de votre compte pour débloquer toutes les fonctionnalités.",

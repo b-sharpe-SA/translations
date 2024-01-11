@@ -1459,7 +1459,8 @@
     "modal-confirm-buy-no-real-rate-content": "Wir können im Moment keinen Preis für diesen Vorgang angeben. Wenn Sie trotzdem bestätigen, bedeutet das, dass Sie den Kurs akzeptieren, den wir Ihnen geben werden. Andernfalls können Sie unser Handelsteam kontaktieren, um den Kurs zu sperren.",
     "document": "Dokument",
     "document-legal-reason": "Aus rechtlichen Gründen benötigen wir ein Dokument, das den Grund für diese Operation erklärt. Es kann eine Rechnung oder ein Vertrag sein.",
-    "document-btn": "Mein Dokument hinzufügen"
+    "document-btn": "Mein Dokument hinzufügen",
+    "rib-updated": "Wir haben unsere Bankverbindung aktualisiert, um die Qualität des Dienstes zu verbessern"
   },
   "account": {
     "finish-setup": "{{firstName}}, Schließe die Einrichtung deines Kontos ab, um alle Funktionen freizuschalten.",

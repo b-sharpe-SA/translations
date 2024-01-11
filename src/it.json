@@ -1459,7 +1459,8 @@
     "modal-confirm-buy-no-real-rate-content": "Non possiamo fornire un tasso per questa operazione ora. Se la confermi, accetti il tasso che stabiliremo in un secondo momento. In alternativa, puoi contattare il team trading per bloccare il tasso.",
     "document": "Documento",
     "document-legal-reason": "Per motivi legali, abbiamo bisogno di un documento che spieghi il motivo di questa operazione. Può essere una fattura o un contratto.",
-    "document-btn": "Aggiungi il mio documento"
+    "document-btn": "Aggiungi il mio documento",
+    "rib-updated": "Abbiamo aggiornato i nostri dettagli bancari per migliorare la qualità del servizio"
   },
   "account": {
     "finish-setup": "{{firstName}}, Completa la configurazione del tuo account per sbloccare tutte le funzionalità.",
