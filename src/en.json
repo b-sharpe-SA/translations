@@ -1460,7 +1460,8 @@
     "document": "Document",
     "document-legal-reason": "For legal reasons, we need a document explaining the reason of this operation. It can be an invoice or a contract.",
     "document-btn": "Add my document",
-    "rib-updated": "We have updated our bank details to improve the quality of the service."
+    "rib-updated": "We have updated our bank details to improve the quality of the service.",
+    "rib-updated-modal-title": "Bank Details Update"
   },
   "account": {
     "finish-setup": "{{firstName}}, Finish setting up your account to unlock all functionalities.",

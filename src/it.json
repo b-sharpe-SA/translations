@@ -1460,7 +1460,8 @@
     "document": "Documento",
     "document-legal-reason": "Per motivi legali, abbiamo bisogno di un documento che spieghi il motivo di questa operazione. Può essere una fattura o un contratto.",
     "document-btn": "Aggiungi il mio documento",
-    "rib-updated": "Abbiamo aggiornato i nostri dettagli bancari per migliorare la qualità del servizio"
+    "rib-updated": "Abbiamo aggiornato i nostri dettagli bancari per migliorare la qualità del servizio",
+    "rib-updated-modal-title": "Aggiornamento delle Coordinate Bancarie"
   },
   "account": {
     "finish-setup": "{{firstName}}, Completa la configurazione del tuo account per sbloccare tutte le funzionalità.",

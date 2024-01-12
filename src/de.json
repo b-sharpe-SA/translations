@@ -1460,7 +1460,8 @@
     "document": "Dokument",
     "document-legal-reason": "Aus rechtlichen Gründen benötigen wir ein Dokument, das den Grund für diese Operation erklärt. Es kann eine Rechnung oder ein Vertrag sein.",
     "document-btn": "Mein Dokument hinzufügen",
-    "rib-updated": "Wir haben unsere Bankverbindung aktualisiert, um die Qualität des Dienstes zu verbessern"
+    "rib-updated": "Wir haben unsere Bankverbindung aktualisiert, um die Qualität des Dienstes zu verbessern",
+    "rib-updated-modal-title": "Aktualisierung der Bankverbindung"
   },
   "account": {
     "finish-setup": "{{firstName}}, Schließe die Einrichtung deines Kontos ab, um alle Funktionen freizuschalten.",

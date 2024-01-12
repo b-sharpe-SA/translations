@@ -1460,7 +1460,8 @@
     "document": "Document",
     "document-legal-reason": "Pour des raisons légales, nous avons besoin d'un document expliquant la raison de cette opération. Cela peut être une facture ou un contrat.",
     "document-btn": "Ajouter mon document",
-    "rib-updated": "Nous avons actualisé notre RIB pour améliorer la qualité du service"
+    "rib-updated": "Nous avons actualisé notre RIB pour améliorer la qualité du service",
+    "rib-updated-modal-title": "Mise à jour RIB"
   },
   "account": {
     "finish-setup": "{{firstName}}, Terminez la configuration de votre compte pour débloquer toutes les fonctionnalités.",
