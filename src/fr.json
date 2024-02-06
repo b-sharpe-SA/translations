@@ -1460,9 +1460,14 @@
     "modal-confirm-buy-no-real-rate-content": "Nous ne pouvons vous fournir un taux pour cette opération pour le moment. Si vous confirmez quand même, cela signifie que vous acceptez le taux que nous vous donnerons. Sinon, vous pouvez contacter notre équipe trading pour bloquer le taux.",
     "document": "Document",
     "document-legal-reason": "Pour des raisons légales, nous avons besoin d'un document expliquant la raison de cette opération. Cela peut être une facture ou un contrat.",
-    "document-btn": "Ajouter mon document",
-    "rib-updated": "Nous avons actualisé notre RIB pour améliorer la qualité du service",
-    "rib-updated-modal-title": "Mise à jour RIB"
+    "document-btn": "Ajouter mon document"
+  },
+  "rib-updated":{
+    "alert": "Nous avons actualisé notre RIB pour améliorer la qualité du service",
+    "modal-title": "Changement d'IBAN",
+    "modal-text": "Nous mettons à jour notre IBAN vers lequel vous avez l'habitude d'envoyer vos fonds.\nPour éviter tout retard dans vos futures opérations, nous vous recommandons de mettre à jour notre IBAN dans votre interface bancaire dès que possible.\n\n<b>1ère étape</b>\nRendez-vous sur IBAN & Documents, sélectionnez la devise que vous souhaitez échanger et copiez nos informations IBAN.\n\n<b>2ème étape</b>\nSur votre propre interface bancaire, ajoutez notre nouvel IBAN à vos bénéficiaires.\n\n<b>3ème étape</b>\nVous pouvez désormais nous envoyer de l'argent depuis votre compte bancaire vers notre nouveau IBAN et nous le convertirons comme d'habitude.\n\n<b>Des questions ?</b>\nContactez notre équipe de support, ils se feront un plaisir de répondre à vos questions.",
+    "modal-cta-1": "NOTRE NOUVEL IBAN",
+    "modal-cta-2": "CONTACTER LE SUPPORT"
   },
   "account": {
     "finish-setup": "{{firstName}}, Terminez la configuration de votre compte pour débloquer toutes les fonctionnalités.",

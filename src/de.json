@@ -1460,9 +1460,14 @@
     "modal-confirm-buy-no-real-rate-content": "Wir können im Moment keinen Preis für diesen Vorgang angeben. Wenn Sie trotzdem bestätigen, bedeutet das, dass Sie den Kurs akzeptieren, den wir Ihnen geben werden. Andernfalls können Sie unser Handelsteam kontaktieren, um den Kurs zu sperren.",
     "document": "Dokument",
     "document-legal-reason": "Aus rechtlichen Gründen benötigen wir ein Dokument, das den Grund für diese Operation erklärt. Es kann eine Rechnung oder ein Vertrag sein.",
-    "document-btn": "Mein Dokument hinzufügen",
-    "rib-updated": "Wir haben unsere Bankverbindung aktualisiert, um die Qualität des Dienstes zu verbessern",
-    "rib-updated-modal-title": "Aktualisierung der Bankverbindung"
+    "document-btn": "Mein Dokument hinzufügen"
+  },
+  "rib-updated":{
+    "alert": "Wir haben unsere Bankverbindung aktualisiert, um die Qualität des Dienstes zu verbessern",
+    "modal-title": "IBAN-Änderung",
+    "modal-text": "Wir aktualisieren unser IBAN, an das Sie normalerweise Ihre Gelder senden.\nUm Verzögerungen bei Ihren zukünftigen Transaktionen zu vermeiden, empfehlen wir Ihnen, unsere IBAN in Ihrem Bankinterface so schnell wie möglich zu aktualisieren.\n\n<b>1. Schritt</b>\nGehen Sie zu IBAN & Dokumente, wählen Sie die Währung aus, die Sie tauschen möchten, und kopieren Sie unsere IBAN-Informationen.\n\n<b>2. Schritt</b>\nFügen Sie auf Ihrer eigenen Banking-Oberfläche unsere neue IBAN zu Ihren Begünstigten hinzu.\n\n<b>3. Schritt</b>\nSie können uns nun Geld von Ihrem Bankkonto auf unsere neue IBAN senden, und wir werden es wie gewohnt umtauschen.\n\n<b>Fragen?</b>\nKontaktieren Sie unser Support-Team, sie werden gerne Ihre Fragen beantworten.",
+    "modal-cta-1": "UNSERE NEUE IBAN",
+    "modal-cta-2": "SUPPORT KONTAKTIEREN"
   },
   "account": {
     "finish-setup": "{{firstName}}, Schließe die Einrichtung deines Kontos ab, um alle Funktionen freizuschalten.",
