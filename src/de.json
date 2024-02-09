@@ -1462,12 +1462,16 @@
     "document-legal-reason": "Aus rechtlichen Gründen benötigen wir ein Dokument, das den Grund für diese Operation erklärt. Es kann eine Rechnung oder ein Vertrag sein.",
     "document-btn": "Mein Dokument hinzufügen"
   },
-  "rib-updated":{
-    "alert": "Wir haben unsere Bankverbindung aktualisiert, um die Qualität des Dienstes zu verbessern",
-    "modal-title": "IBAN-Änderung",
-    "modal-text": "Wir aktualisieren unser IBAN, an das Sie normalerweise Ihre Gelder senden.\nUm Verzögerungen bei Ihren zukünftigen Transaktionen zu vermeiden, empfehlen wir Ihnen, unsere IBAN in Ihrem Bankinterface so schnell wie möglich zu aktualisieren.\n\n<b>1. Schritt</b>\nGehen Sie zu IBAN & Dokumente, wählen Sie die Währung aus, die Sie tauschen möchten, und kopieren Sie unsere IBAN-Informationen.\n\n<b>2. Schritt</b>\nFügen Sie auf Ihrer eigenen Banking-Oberfläche unsere neue IBAN zu Ihren Begünstigten hinzu.\n\n<b>3. Schritt</b>\nSie können uns nun Geld von Ihrem Bankkonto auf unsere neue IBAN senden, und wir werden es wie gewohnt umtauschen.\n\n<b>Fragen?</b>\nKontaktieren Sie unser Support-Team, sie werden gerne Ihre Fragen beantworten.",
-    "modal-cta-1": "UNSERE NEUE IBAN",
-    "modal-cta-2": "SUPPORT KONTAKTIEREN"
+  "rib-updated": {
+    "alert": "Um weiterhin unsere Dienste zu genießen, aktualisieren Sie bitte unsere IBAN.",
+    "alert-cta": "Jetzt aktualisieren",
+    "modal-title": "Aktualisieren Sie unsere IBAN",
+    "modal-subtitle": "Um zu verhindern, dass Ihre Gelder an den Absender zurückgesandt werden, laden wir Sie ein, unsere IBAN vor dem 31. Juli 2024 zu aktualisieren.",
+    "modal-text-1": "Wählen Sie die Währung aus, die Sie tauschen möchten, und kopieren Sie die neue IBAN.",
+    "modal-text-2": "Fügen Sie die neue IBAN Ihrem eigenen Online-Bankkonto hinzu.",
+    "modal-text-3": "Sie können uns jetzt Geld senden, und wir werden es wie gewohnt umwandeln!",
+    "modal-alert": "Sie erreichen uns unter <b>+41 22 311 11 82</b> von Montag bis Freitag, 9 bis 18 Uhr.",
+    "modal-cta": "Sehen Sie die neue IBAN"
   },
   "account": {
     "finish-setup": "{{firstName}}, Schließe die Einrichtung deines Kontos ab, um alle Funktionen freizuschalten.",

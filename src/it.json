@@ -1462,12 +1462,16 @@
     "document-legal-reason": "Per motivi legali, abbiamo bisogno di un documento che spieghi il motivo di questa operazione. Può essere una fattura o un contratto.",
     "document-btn": "Aggiungi il mio documento"
   },
-  "rib-updated":{
-    "alert": "Abbiamo aggiornato i nostri dettagli bancari per migliorare la qualità del servizio",
-    "modal-title": "Cambio IBAN",
-    "modal-text": "Stiamo aggiornando il nostro IBAN a cui di solito inviate i vostri fondi.\nPer evitare eventuali ritardi nelle vostre future operazioni, vi raccomandiamo di aggiornare il nostro IBAN nell'interfaccia bancaria il prima possibile.\n\n<b>1° passo</b>\nAndate su IBAN & Documenti, selezionate la valuta che volete scambiare e copiate le nostre informazioni IBAN.\n\n<b>2° passo</b>\nSulla vostra interfaccia bancaria personale, aggiungete il nostro nuovo IBAN ai vostri beneficiari.\n\n<b>3° passo</b>\nPotete ora inviarci denaro dal vostro conto bancario al nostro nuovo IBAN e noi lo convertiremo come siete abituati.\n\n<b>Domande?</b>\nContattate il nostro team di supporto, saranno lieti di rispondere alle vostre domande.",
-    "modal-cta-1": "IL NOSTRO NUOVO IBAN",
-    "modal-cta-2": "CONTATTA IL SUPPORTO"
+  "rib-updated": {
+    "alert": "Per continuare a godere dei nostri servizi, si prega di aggiornare il nostro IBAN.",
+    "alert-cta": "Aggiorna ora",
+    "modal-title": "Aggiorna il nostro IBAN",
+    "modal-subtitle": "Per evitare che i tuoi fondi vengano restituiti al mittente, ti invitiamo ad aggiornare il nostro IBAN prima del 31 Luglio 2024.",
+    "modal-text-1": "Seleziona la valuta che desideri scambiare e copia il nuovo IBAN.",
+    "modal-text-2": "Aggiungi il nuovo IBAN al tuo conto bancario online.",
+    "modal-text-3": "Ora puoi inviarci denaro e lo convertiremo come al solito!",
+    "modal-alert": "Puoi contattarci al <b>+41 22 311 11 82</b> da lunedì a venerdì, dalle 9:00 alle 18:00.",
+    "modal-cta": "Vedi il nuovo IBAN"
   },
   "account": {
     "finish-setup": "{{firstName}}, Completa la configurazione del tuo account per sbloccare tutte le funzionalità.",

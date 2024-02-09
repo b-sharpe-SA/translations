@@ -1462,12 +1462,16 @@
     "document-legal-reason": "Pour des raisons légales, nous avons besoin d'un document expliquant la raison de cette opération. Cela peut être une facture ou un contrat.",
     "document-btn": "Ajouter mon document"
   },
-  "rib-updated":{
-    "alert": "Nous avons actualisé notre RIB pour améliorer la qualité du service",
-    "modal-title": "Changement d'IBAN",
-    "modal-text": "Nous mettons à jour notre IBAN vers lequel vous avez l'habitude d'envoyer vos fonds.\nPour éviter tout retard dans vos futures opérations, nous vous recommandons de mettre à jour notre IBAN dans votre interface bancaire dès que possible.\n\n<b>1ère étape</b>\nRendez-vous sur IBAN & Documents, sélectionnez la devise que vous souhaitez échanger et copiez nos informations IBAN.\n\n<b>2ème étape</b>\nSur votre propre interface bancaire, ajoutez notre nouvel IBAN à vos bénéficiaires.\n\n<b>3ème étape</b>\nVous pouvez désormais nous envoyer de l'argent depuis votre compte bancaire vers notre nouveau IBAN et nous le convertirons comme d'habitude.\n\n<b>Des questions ?</b>\nContactez notre équipe de support, ils se feront un plaisir de répondre à vos questions.",
-    "modal-cta-1": "NOTRE NOUVEL IBAN",
-    "modal-cta-2": "CONTACTER LE SUPPORT"
+  "rib-updated": {
+    "alert": "Pour continuer à profiter de nos services, mettez à jour notre IBAN.",
+    "alert-cta": "Faire la mise à jour",
+    "modal-title": "Mettez à jour notre IBAN",
+    "modal-subtitle": "Pour éviter que vos fonds retournent à l'envoyeur, nous vous invitons à mettre à jour notre IBAN avant le 31 Juillet 2024.",
+    "modal-text-1": "Sélectionnez la devise que vous souhaitez échanger et copiez le nouveal IBAN.",
+    "modal-text-2": "Ajoutez le nouvel IBAN sur votre propre compte bancaire en ligne.",
+    "modal-text-3": "Vous pouvez désormais sous envoyer de l'argent et nous le convertirons comme d'habitude !",
+    "modal-alert": "Vous pouvez nous joindre au <b>+41 22 311 11 82</b> du lundi au vendredi de 9h à 18h.",
+    "modal-cta": "Voir le nouvel IBAN"
   },
   "account": {
     "finish-setup": "{{firstName}}, Terminez la configuration de votre compte pour débloquer toutes les fonctionnalités.",

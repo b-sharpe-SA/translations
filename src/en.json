@@ -1464,12 +1464,16 @@
     "rib-updated": "",
     "rib-updated-modal-title": "Bank Details Update"
   },
-  "rib-updated":{
-    "alert": "We have updated our bank details to improve the quality of the service",
-    "modal-title": "IBAN Change",
-    "modal-text": "We are updating our IBAN to which you usually send your funds.\nTo prevent any delay in your future operations we recommend to update our IBAN in your bank interface as soon as possible.\n\n<b>1st step</b>\nGo to IBAN & Documents, select the currency you want to exchange and copy our IBAN information.\n\n<b>2nd step</b>\nOn your own banking interface, add our new IBAN to your beneficiaries.\n\n<b>3rd step</b>\nYou can now send us money from your bank account to our new IBAN and we’ll exchange it as you’re used to.\n\n<b>Any questions ?</b>\nContact our support team they’ll be please to answer your question.",
-    "modal-cta-1": "OUR NEW IBAN",
-    "modal-cta-2": "CONTACT SUPPORT"
+  "rib-updated": {
+    "alert": "To continue enjoying our services, please update our IBAN.",
+    "alert-cta": "Update now",
+    "modal-title": "Update our IBAN",
+    "modal-subtitle": "To prevent your funds from being returned to the sender, we invite you to update our IBAN before July 31, 2024.",
+    "modal-text-1": "Select the currency you want to exchange and copy the new IBAN.",
+    "modal-text-2": "Add the new IBAN to your own online bank account.",
+    "modal-text-3": "You can now send us money, and we will convert it as usual!",
+    "modal-alert": "You can reach us at <b>+41 22 311 11 82</b> from Monday to Friday, 9 am to 6 pm.",
+    "modal-cta": "See the new IBAN"
   },
   "account": {
     "finish-setup": "{{firstName}}, Finish setting up your account to unlock all functionalities.",
