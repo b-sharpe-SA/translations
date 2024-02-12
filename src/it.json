@@ -1468,11 +1468,11 @@
     "modal-title": "Aggiorna il nostro IBAN",
     "modal-subtitle": "Per evitare che i tuoi fondi vengano restituiti al mittente, ti invitiamo ad aggiornare il nostro IBAN prima del 31 Luglio 2024.",
     "modal-text-1": "Seleziona la valuta che desideri scambiare e copia il nuovo IBAN.",
-    "modal-text-2": "Aggiungi il nuovo IBAN al tuo conto bancario online.",
-    "modal-text-3": "Ora puoi inviarci denaro e lo convertiremo come al solito!",
-    "modal-alert": "Puoi contattarci al <b>+41 22 311 11 82</b> da lunedì a venerdì, dalle 9:00 alle 18:00.",
+    "modal-text-2": "Aggiungi il nuovo IBAN al tuo conto bancario online personale.",
+    "modal-text-3": "Ora puoi inviarci i tuoi fondi e li convertiremo come al solito!",
+    "modal-alert": "Puoi raggiungerci al <b>+41 22 311 11 82</b> dal lunedì al venerdì, dalle 9:00 alle 18:00.",
     "modal-cta": "Vedi il nuovo IBAN"
-  },
+  },  
   "account": {
     "finish-setup": "{{firstName}}, Completa la configurazione del tuo account per sbloccare tutte le funzionalità.",
     "personal-information": "Informazioni personali",

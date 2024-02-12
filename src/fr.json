@@ -1467,9 +1467,9 @@
     "alert-cta": "Faire la mise à jour",
     "modal-title": "Mettez à jour notre IBAN",
     "modal-subtitle": "Pour éviter que vos fonds retournent à l'envoyeur, nous vous invitons à mettre à jour notre IBAN avant le 31 Juillet 2024.",
-    "modal-text-1": "Sélectionnez la devise que vous souhaitez échanger et copiez le nouveal IBAN.",
+    "modal-text-1": "Sélectionnez la devise que vous souhaitez échanger et copiez le nouvel IBAN.",
     "modal-text-2": "Ajoutez le nouvel IBAN sur votre propre compte bancaire en ligne.",
-    "modal-text-3": "Vous pouvez désormais sous envoyer de l'argent et nous le convertirons comme d'habitude !",
+    "modal-text-3": "Vous pouvez désormais nous envoyer vos fonds et nous les convertirons comme d'habitude !",
     "modal-alert": "Vous pouvez nous joindre au <b>+41 22 311 11 82</b> du lundi au vendredi de 9h à 18h.",
     "modal-cta": "Voir le nouvel IBAN"
   },

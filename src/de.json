@@ -1466,13 +1466,13 @@
     "alert": "Um weiterhin unsere Dienste zu genießen, aktualisieren Sie bitte unsere IBAN.",
     "alert-cta": "Jetzt aktualisieren",
     "modal-title": "Aktualisieren Sie unsere IBAN",
-    "modal-subtitle": "Um zu verhindern, dass Ihre Gelder an den Absender zurückgesandt werden, laden wir Sie ein, unsere IBAN vor dem 31. Juli 2024 zu aktualisieren.",
+    "modal-subtitle": "Um zu verhindern, dass Ihre Gelder an den Absender zurückgesendet werden, aktualisieren Sie bitte unsere IBAN vor dem 31. Juli 2024.",
     "modal-text-1": "Wählen Sie die Währung aus, die Sie tauschen möchten, und kopieren Sie die neue IBAN.",
     "modal-text-2": "Fügen Sie die neue IBAN Ihrem eigenen Online-Bankkonto hinzu.",
-    "modal-text-3": "Sie können uns jetzt Geld senden, und wir werden es wie gewohnt umwandeln!",
+    "modal-text-3": "Sie können uns jetzt Ihre Gelder senden, und wir werden sie wie gewohnt umwandeln!",
     "modal-alert": "Sie erreichen uns unter <b>+41 22 311 11 82</b> von Montag bis Freitag, 9 bis 18 Uhr.",
     "modal-cta": "Sehen Sie die neue IBAN"
-  },
+  },  
   "account": {
     "finish-setup": "{{firstName}}, Schließe die Einrichtung deines Kontos ab, um alle Funktionen freizuschalten.",
     "personal-information": "Persönliche Informationen",

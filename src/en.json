@@ -1468,13 +1468,13 @@
     "alert": "To continue enjoying our services, please update our IBAN.",
     "alert-cta": "Update now",
     "modal-title": "Update our IBAN",
-    "modal-subtitle": "To prevent your funds from being returned to the sender, we invite you to update our IBAN before July 31, 2024.",
-    "modal-text-1": "Select the currency you want to exchange and copy the new IBAN.",
+    "modal-subtitle": "To prevent your funds from being returned to the sender, please update our IBAN before July 31, 2024.",
+    "modal-text-1": "Select the currency you wish to exchange and copy the new IBAN.",
     "modal-text-2": "Add the new IBAN to your own online bank account.",
-    "modal-text-3": "You can now send us money, and we will convert it as usual!",
-    "modal-alert": "You can reach us at <b>+41 22 311 11 82</b> from Monday to Friday, 9 am to 6 pm.",
+    "modal-text-3": "You can now send us your funds, and we will convert them as usual!",
+    "modal-alert": "You can reach us at <b>+41 22 311 11 82</b> from Monday to Friday, 9am to 6pm.",
     "modal-cta": "See the new IBAN"
-  },
+  },  
   "account": {
     "finish-setup": "{{firstName}}, Finish setting up your account to unlock all functionalities.",
     "personal-information": "Personal information",
