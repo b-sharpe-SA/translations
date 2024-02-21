@@ -1665,7 +1665,8 @@
   "search-address-field": {
     "search-btn": "Nach einer Adresse suchen",
     "manually-btn": "Manuelle Eingabe",
-    "search-placeholder": "Adresse suchen"
+    "search-placeholder": "Adresse suchen",
+    "no-options": "Keine Adresse entspricht Ihrer Suche"
   },
   "rewards": {
     "rewards-details": "Détails der Belohnungen",
