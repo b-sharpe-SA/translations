@@ -708,7 +708,11 @@
     "feedback-form-submit-btn": "Envoyez votre feedback",
     "bsharpe-team-title": "Notre équipe est là pour vous aider",
     "chat-with-us": "Discutez avec notre équipe",
-    "call-us": "Appelez-nous"
+    "call-us": "Appelez-nous",
+    "need-help": "Besoin d'aide ?",
+    "contact-call-schedule": "Appelez nous du Lundi au Vendredi de 9h à 18h",
+    "contact-by-email": "Ou envoyez nous un email à",
+    "help-description": "Notre service client est disponible du lundi au vendredi de 9h00 à 18h00."
   },
   "history": {
     "title": "Historique des opérations",
@@ -741,12 +745,10 @@
     "detail-amount-message": "Dès réception des fonds, nous vous informerons du taux de change appliqué ainsi que du montant que vous recevrez.",
     "detail-salary": "Votre salaire est de",
     "detail-receive": "Votre bénéficiaire recevra",
-
     "new-operation-button-label": "Créer une nouvelle opération",
     "transaction-details-empty": "Pas de détail",
     "beneficiary-received": "Votre bénéficiaire a reçu",
     "see-more-operations": "Voir plus d'opérations"
-
   },
   "documents": {
     "title": "IBAN et documents",
@@ -765,7 +767,6 @@
     "account-payable-to": "Compte / Payable à",
     "reference-label": "Référence à utiliser",
     "psp-reference-hint": "Nous avons besoin de la référence pour vous envoyer l'argent"
-
   },
   "common": {
     "email": "Email",
@@ -893,14 +894,9 @@
     "refresh": "Actualiser",
     "male-label": "M.",
     "female-label": "Mme",
-    "help-description": "Notre service client est disponible du lundi au vendredi de 9h00 à 18h00.",
     "in-progress": "En cours",
     "your-employer": "Votre employeur",
-    "thanks": "Merci !",
-    "need-help": "Besoin d'aide ?",
-    "contact-call-schedule": "Appelez nous du Lundi au Vendredi de 9h à 18h",
-    "contact-by-email": "Ou envoyez nous un email à"
-
+    "thanks": "Merci !"
   },
   "search-address-field": {
     "search-btn": "Ou rechercher une adresse",
@@ -1069,19 +1065,15 @@
     "now": "Maintenant",
     "add-alert-btn": "Ajouter une alerte",
     "delete-currency-pair-btn": "Supprimer cette paire de devises",
-
-
     "alerts-empty-list": "Ne manquez plus aucune opportunité en recevant directement par e-mail une alerte lorsque le taux souhaité est atteint.",
     "create-alert": "Créer une alerte",
     "delete-modal-title": "Êtes-vous sûr de vouloir\nsupprimer cette alerte ?",
-
     "save-alert": "Enregistrer l'alerte",
     "create-the-alert": "Créer l'alerte",
     "edit-alert": "Modifier l'alerte",
     "alert-status": "Statut de l'alerte",
     "alerts-tab-my-alerts": "Alertes de taux",
     "see-more-alerts": "Voir plus d'alertes"
-
   },
   "login": {
     "welcome-txt": "Bienvenue chez b-sharpe",
@@ -1112,8 +1104,7 @@
     "description": "Saisissez l'adresse e-mail associée à votre compte b-sharpe.",
     "email-label": "Votre adresse e-mail",
     "submit-button-label": "Suivant",
-    "email-hint": "Si votre e-mail est enregistré dans notre système, un code vous sera envoyé dans votre boite mail à l'étape suivante."
-    
+    "email-hint": "Si votre e-mail est enregistré dans notre système, un code vous sera envoyé dans votre boite mail à l'étape suivante." 
   },
   "registration": {
     "create-account": "Créer un compte",
@@ -1223,19 +1214,16 @@
     "under-18-restricted": "b-sharpe n'est pas disponible pour les moins de 18 ans",
     "sign-up-phone-pop-up": "Assurez-vous qu'il s'agisse bien du bon numéro. Nous vous enverrons un code de vérification par SMS.",
     "step-to-login-screen": "Vous allez retourner à l'écran de connexion. Voulez-vous continuer ?",
-
     "account-type-indiv-title": "Compte particulier",
     "account-type-indiv-description": "Vous souhaitez créer un",
     "account-type-corp-title": "Compte entreprise",
     "account-type-corp-description": "Vous souhaitez créer un",
-
     "onfido-status-retry-title": "Nous n'avons pas pu vérifier votre profil",
     "onfido-status-retry-description": "Veuillez réessayer ou nous contacter.",
     "onfido-status-retry-button": "Réessayez",
     "onfido-status-error-title": "Malheureusement, nous n'avons pas été en mesure de valider votre identité.",
     "onfido-status-error-description": "Notre service support reviendra vers vous dans les plus brefs délais.",
     "onfido-status-error-button": "Ok",
-
     "email-confirmation-code-description": "Nous vous avons envoyé un code à 6 chiffres à l'adresse {{email}}. Veuillez l'entrer ci-dessous.",
     "email-confirmation-code-resend-tooltip": "Merci de vérifier vos courriers indésirables et s'il n'y a pas d'erreur dans votre adresse mail.",
     "email-confirmation-code-error-modal-title": "Code incorrect",
@@ -1244,7 +1232,6 @@
     "email-confirmation-code-timer": "Réessayez dans {{seconds}}",
     "admin-action-message": "Votre demande a bien été soumise, nous vous enverrons un e-mail dès que celle-ci aura été traitée.",
     "sign-up-receive-new-agreement": "J'accepte de recevoir la newsletter b-sharpe par e-mail."
-
    },
    "registration-corporate":{
       "title": "Création de votre compte entreprise",
