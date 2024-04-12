@@ -765,6 +765,7 @@
   },
   "common": {
     "email": "Email",
+    "password": "Passwort",
     "beneficiaries": "Begünstigte",
     "beneficiary": "Begünstigter",
     "review": "Überprüfen",
@@ -1226,7 +1227,8 @@
     "email-confirmation-code-error-modal-button-label": "Erneut versuchen",
     "email-confirmation-code-timer": "Erneut versuchen in {{seconds}}",
     "admin-action-message": "Ihre Anfrage wurde erfolgreich übermittelt, wir senden Ihnen eine E-Mail, sobald sie bearbeitet wurde.",
-    "sign-up-receive-new-agreement": "Ich stimme zu, den b-sharpe Newsletter per E-Mail zu erhalten."
+    "sign-up-receive-new-agreement": "Ich stimme zu, den b-sharpe Newsletter per E-Mail zu erhalten.",
+    "step-1-street-pop-up": "Stellen Sie sicher, dass Sie Ihre Hauptwohnsitzadresse angeben, für die Sie einen Wohnsitznachweis vorlegen müssen."
   },
   "registration-corporate": {
     "title": "Erstellung Ihres Geschäftskontos",
@@ -1235,7 +1237,8 @@
     "form-activity": "Geschäftsbereich",
     "form-about-title": "Wie haben Sie von uns erfahren?",
     "form-about-reply": "Internet, berufliches Netzwerk, ...",
-    "form-agreement": "Durch die Registrierung akzeptieren Sie unsere Allgemeinen Geschäftsbedingungen und bestätigen die Richtigkeit der bereitgestellten Informationen."
+    "form-agreement": "Durch die Registrierung akzeptieren Sie unsere Allgemeinen Geschäftsbedingungen und bestätigen die Richtigkeit der bereitgestellten Informationen.",
+    "form-title": "Kontaktinformationen"  
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/de/allgemeine-geschaftsbedingungen/",

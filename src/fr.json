@@ -770,6 +770,7 @@
   },
   "common": {
     "email": "Email",
+    "password": "Mot de passe",
     "beneficiaries": "Bénéficiaires",
     "beneficiary": "Bénéficiaire",
     "review": "Vérifier",
@@ -1231,7 +1232,8 @@
     "email-confirmation-code-error-modal-button-label": "Réessayez",
     "email-confirmation-code-timer": "Réessayez dans {{seconds}}",
     "admin-action-message": "Votre demande a bien été soumise, nous vous enverrons un e-mail dès que celle-ci aura été traitée.",
-    "sign-up-receive-new-agreement": "J'accepte de recevoir la newsletter b-sharpe par e-mail."
+    "sign-up-receive-new-agreement": "J'accepte de recevoir la newsletter b-sharpe par e-mail.",
+    "step-1-street-pop-up": "Assurez-vous d'indiquer votre adresse de résidence principale, pour laquelle vous devrez fournir un justificatif de domicile."
    },
    "registration-corporate":{
       "title": "Création de votre compte entreprise",
@@ -1240,8 +1242,9 @@
       "form-activity": "Secteur d'activité",
       "form-about-title": "Comment avez-vous entendu parler de nous ?",
       "form-about-reply": "Internet, réseau professionnel, ...",
-      "form-agreement": "En vous inscrivant, vous acceptez nos conditions générales d'utilisation et reconnaissez l'exactitude des informations fournies"
-   },
+      "form-agreement": "En vous inscrivant, vous acceptez nos conditions générales d'utilisation et reconnaissez l'exactitude des informations fournies",
+      "form-title": "Informations de contact"
+    },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/conditions-generales/",
     "amla-protection": "https://www.b-sharpe.com/dispositions-lba/",

@@ -765,6 +765,7 @@
   },
   "common": {
     "email": "Email",
+    "password": "Password",
     "beneficiaries": "Beneficiari",
     "beneficiary": "Beneficiario",
     "review": "Revisione",
@@ -1226,7 +1227,8 @@
     "email-confirmation-code-error-modal-button-label": "Riprova",
     "email-confirmation-code-timer": "Riprova tra {{seconds}}",
     "admin-action-message": "La tua richiesta è stata inviata con successo, ti invieremo un'email una volta che sarà stata elaborata.",
-    "sign-up-receive-new-agreement": "Accetto di ricevere la newsletter b-sharpe via email."
+    "sign-up-receive-new-agreement": "Accetto di ricevere la newsletter b-sharpe via email.",
+    "step-1-street-pop-up": "Assicurati di fornire il tuo indirizzo di residenza principale, per il quale dovrai fornire un documento comprovante la residenza."
   },
   "registration-corporate": {
     "title": "Creazione del tuo account aziendale",
@@ -1235,7 +1237,8 @@
     "form-activity": "Settore di attività",
     "form-about-title": "Come hai sentito parlare di noi?",
     "form-about-reply": "Internet, rete professionale, ...",
-    "form-agreement": "Registrandoti, accetti i nostri termini e condizioni e riconosci l'accuratezza delle informazioni fornite."
+    "form-agreement": "Registrandoti, accetti i nostri termini e condizioni e riconosci l'accuratezza delle informazioni fornite.",
+    "form-title": "Informazioni di contatto"
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/it/termini-e-condizioni/",
