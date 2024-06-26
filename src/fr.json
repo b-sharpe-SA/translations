@@ -1235,7 +1235,9 @@
     "sign-up-receive-new-agreement": "J'accepte de recevoir la newsletter b-sharpe par e-mail.",
     "step-1-street-pop-up": "Assurez-vous d'indiquer votre adresse de résidence principale, pour laquelle vous devrez fournir un justificatif de domicile.",
     "email-verification": "Vérification E-mail",
-    "address-verification": "Vérification d’adresse"
+    "address-verification": "Vérification d’adresse",
+    "usage": "Votre usage",
+    "beneficiary":"Bénéficiaire des fonds"
   },
   "registration-corporate":{
     "title": "Création de votre compte entreprise",
