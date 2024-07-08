@@ -892,7 +892,8 @@
     "female-label": "Frau",
     "in-progress": "In Bearbeitung",
     "your-employer": "Ihr Arbeitgeber",
-    "thanks": "Danke!"
+    "thanks": "Danke!",
+    "download-success": "Heruntergeladenes Dokument"
   },
   "search-address-field": {
     "search-btn": "Nach einer Adresse suchen",

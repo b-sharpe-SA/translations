@@ -892,7 +892,9 @@
     "female-label": "Sig.ra",
     "in-progress": "In corso",
     "your-employer": "Il tuo datore di lavoro",
-    "thanks": "Grazie!"
+    "thanks": "Grazie!",
+    "download-success": "Documento scaricato"
+  
   },
   "search-address-field": {
     "search-btn": "O cerca un indirizzo",
