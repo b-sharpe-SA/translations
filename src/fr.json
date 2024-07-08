@@ -191,7 +191,7 @@
     "Botswana": "Botswana",
     "Bouvet Island": "Bouvet Île",
     "Brazil": "Brésil",
-    "British Indian Ocean Territory": "Océan Indien Territoire britannique de l",
+    "British Indian Ocean Territory": "Territoire britannique de l'Océan Indien",
     "Brunei Darussalam": "Brunéi Darussalam",
     "Bulgaria": "Bulgarie",
     "Burkina Faso": "Burkina Faso",
@@ -897,7 +897,8 @@
     "female-label": "Mme",
     "in-progress": "En cours",
     "your-employer": "Votre employeur",
-    "thanks": "Merci !"
+    "thanks": "Merci !",
+    "download-success": "Document téléchargé"
   },
   "search-address-field": {
     "search-btn": "Ou rechercher une adresse",
