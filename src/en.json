@@ -1228,7 +1228,11 @@
     "email-confirmation-code-timer": "Retry in {{seconds}}",
     "admin-action-message": "Your request has been submitted successfully, we'll send you an email once it's processed.",
     "sign-up-receive-new-agreement": "I agree to receive the b-sharpe newsletter via email.",
-    "step-1-street-pop-up": "Make sure to provide your primary residential address, for which you will need to provide proof of residence."
+    "step-1-street-pop-up": "Make sure to provide your primary residential address, for which you will need to provide proof of residence.",
+    "email-verification": "",
+    "address-verification": "",
+    "usage": "",
+    "beneficiary":""
   },
   "registration-corporate": {
     "title": "Creating your business account",
@@ -1239,6 +1243,19 @@
     "form-about-reply": "Internet, professional network, ...",
     "form-agreement": "By registering, you accept our terms and conditions and acknowledge the accuracy of the information provided.",
     "form-title": "Contact Information"
+  },
+  "registration-remaining-steps": {
+    "page-title-not-completed": "",
+    "page-title-completed": "",
+    "stepper-title-not-completed": "",
+    "stepper-title-completed": "",
+    "todo": "",
+    "in-review": "",
+    "completed": "",
+    "alert-box-title-info-required":"",
+    "alert-box-desc-info-required":"",
+    "alert-box-title-waiting":"",
+    "alert-box-btn":""
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/en/general-terms-and-conditions/",

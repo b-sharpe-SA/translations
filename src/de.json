@@ -1228,7 +1228,11 @@
     "email-confirmation-code-timer": "Erneut versuchen in {{seconds}}",
     "admin-action-message": "Ihre Anfrage wurde erfolgreich übermittelt, wir senden Ihnen eine E-Mail, sobald sie bearbeitet wurde.",
     "sign-up-receive-new-agreement": "Ich stimme zu, den b-sharpe Newsletter per E-Mail zu erhalten.",
-    "step-1-street-pop-up": "Stellen Sie sicher, dass Sie Ihre Hauptwohnsitzadresse angeben, für die Sie einen Wohnsitznachweis vorlegen müssen."
+    "step-1-street-pop-up": "Stellen Sie sicher, dass Sie Ihre Hauptwohnsitzadresse angeben, für die Sie einen Wohnsitznachweis vorlegen müssen.",
+    "email-verification": "",
+    "address-verification": "",
+    "usage": "",
+    "beneficiary":""
   },
   "registration-corporate": {
     "title": "Erstellung Ihres Geschäftskontos",
@@ -1239,6 +1243,19 @@
     "form-about-reply": "Internet, berufliches Netzwerk, ...",
     "form-agreement": "Durch die Registrierung akzeptieren Sie unsere Allgemeinen Geschäftsbedingungen und bestätigen die Richtigkeit der bereitgestellten Informationen.",
     "form-title": "Kontaktinformationen"  
+  },
+  "registration-remaining-steps": {
+    "page-title-not-completed": "",
+    "page-title-completed": "",
+    "stepper-title-not-completed": "",
+    "stepper-title-completed": "",
+    "todo": "",
+    "in-review": "",
+    "completed": "",
+    "alert-box-title-info-required":"",
+    "alert-box-desc-info-required":"",
+    "alert-box-title-waiting":"",
+    "alert-box-btn":""
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/de/allgemeine-geschaftsbedingungen/",
