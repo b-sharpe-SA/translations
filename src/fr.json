@@ -1258,9 +1258,10 @@
     "in-review": "Validation en cours",
     "completed": "Complet",
     "alert-box-title-info-required":"Information importante",
-    "alert-box-desc-info-required":"Complétez votre profil pour accéder à toutes les fonctionnalités",
+    "alert-box-desc-info-required":"Bienvenue chez b-sharpe ! Pour pouvoir commencer à échanger vos fonds et respecter la réglementation bancaire, nous avons besoin que vous complétiez quelques informations en plus. 
+En attendant, vous pouvez toujours explorer notre application, créer des alertes de taux, inviter vos amis, etc.",
     "alert-box-title-waiting":"Votre profil est en cours de vérification",
-    "alert-box-btn":"Activer mon compte"
+    "alert-box-btn":"Finaliser mon inscription"
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/conditions-generales/",
