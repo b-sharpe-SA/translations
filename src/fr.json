@@ -1251,7 +1251,7 @@
   },
   "registration-remaining-steps": {
     "page-title-not-completed": "Activation du compte",
-    "page-title-completed": "Verification en cours",
+    "page-title-completed": "Vérification en cours",
     "stepper-title-not-completed": "Complétez votre profil pour accéder à toute les fonctionnalités",
     "stepper-title-completed": "Notre équipe est en train de vérifier votre profil. Vous recevrez une notification par e-mail une fois votre profil validé.",
     "todo": "À faire",
