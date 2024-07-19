@@ -411,7 +411,7 @@
     "internet-search": "Recherche internet",
     "social-networks": "Réseaux sociaux",
     "newspaper": "Médias (Radio, TV, journaux...)",
-    "advertising-display": "Affichage publicitaires",
+    "advertising-display": "Affichages publicitaires",
     "word-of-mouth": "Recommandation"
   },
   "app": {
@@ -427,9 +427,9 @@
     "error-pricing-disabled-description": "Si vous souhaitez bloquer le taux en direct avec notre équipe opérations, n'hésitez pas à nous contacter au +41 22 311 11 85",
     "Confirmed request": "Demande confirmée",
     "company-registration-success-description": "{{name}}, nous accusons réception de votre inscription.\nVous serez bientôt contacté par notre service client pour finaliser votre inscription.",
-    "Company information": "Informations concernant l'entreprise",
+    "Company information": "Informations sur l'entreprise",
     "company-registration-title": "Création de votre compte entreprise",
-    "company-registration-description": "Merci de remplir le formulaire ci-dessous afin d'effectuer votre demande d'inscription.",
+    "company-registration-description": "Merci de renseigner le formulaire ci-dessous pour effectuer votre demande d'inscription.",
     "Company Name": "Raison sociale",
     "By registering, you agree to our": "En vous inscrivant, vous acceptez ",
     "and acknowledge the accuracy of the information provided.": "et reconnaissez l'exactitude des informations fournies.",
@@ -667,7 +667,7 @@
     "profile-title": "Sélectionnez votre profil",
     "profile-details-title": "Détails du profil",
     "profile-details-change-hint": "Vous ne pouvez pas modifier votre profil sur l'application. Si vous devez le faire, veuillez contacter le support.",
-    "delete-account-message": "Voulez vous vraiment supprimer votre compte ? Vous ne pourrez plus utiliser les services de b-sharpe après cela.",
+    "delete-account-message": "Voulez vous vraiment supprimer votre compte ? Vous ne pourrez plus utiliser les services de b-sharpe sans vous réinscrire au préalable",
     "delete-account-success-message": "Votre demande a bien été prise en compte. Nous vous informerons dès que votre compte est supprimé. Cela peut prendre jusqu'à 7 jours ouvrés.",
     "select-account-currency-placeholder": "Sélectionnez une devise"
 
@@ -711,8 +711,8 @@
     "chat-with-us": "Discutez avec notre équipe",
     "call-us": "Appelez-nous",
     "need-help": "Besoin d'aide ?",
-    "contact-call-schedule": "Appelez nous du Lundi au Vendredi de 9h à 18h",
-    "contact-by-email": "Ou envoyez nous un email à",
+    "contact-call-schedule": "Appelez-nous du Lundi au Vendredi de 9h à 18h",
+    "contact-by-email": "Ou envoyez-nous un email à",
     "help-description": "Notre service client est disponible du lundi au vendredi de 9h00 à 18h00."
   },
   "history": {
@@ -753,8 +753,8 @@
   },
   "documents": {
     "title": "IBAN et documents",
-    "subtitle": "Vous trouverez ici notre IBAN surlequel envoyer l'argent et les documents qui y sont relatifs",
-    "subtitle-2": "Quel type de document cherchez vous ?",
+    "subtitle": "Vous trouverez ici notre IBAN vers lequel envoyer vos fonds et les documents qui y sont relatifs",
+    "subtitle-2": "Quel type de document cherchez-vous ?",
     "b-sharpe-iban": "IBAN b-sharpe",
     "b-sharpe-iban-description": "Pour nous envoyer l'argent que vous voulez changer.",
     "employer-document": "Document employeur",
@@ -990,8 +990,8 @@
     "pending-tooltip": "Ce compte bancaire est en cours de validation. Nous vous informerons dès que vous pourrez l'utiliser.",
     "keep-account-btn": "Conserver ce compte",
     "remove-definitely-btn": "Supprimer définitivement",
-    "see-disabled-btn": "Voir les compte bancaire désactivés",
-    "hide-disabled-btn": "Cacher les compte bancaire désactivés",
+    "see-disabled-btn": "Voir les comptes bancaires désactivés",
+    "hide-disabled-btn": "Cacher les comptes bancaires désactivés",
     "delete-are-you-sure": "Êtes-vous sûr de vouloir supprimer ce compte bancaire ?",
     "search-empty": "Aucun bénéficiaire",
     "swift": "SWIFT/BIC",
@@ -1018,7 +1018,7 @@
     "add-bank-account-btn": "Ajouter un compte bancaire",
     "empty-list":"Vous n'avez pas de compte bancaire pour le moment",
     "add-new-company":"Ou ajouter une nouvelle entreprise",
-    "add-new-beneficiary":"Ou ajouter un nouveau beneficiaire",
+    "add-new-beneficiary":"Ou ajouter un nouveau bénéficiaire",
     "select-company":"Sélectionner une entreprise",
     "select-beneficiary":"Sélectionner un bénéficiaire",
     "add-beneficiary-sub":"Veuillez fournir les coordonnées de la personne à qui vous souhaitez envoyer de l'argent",
@@ -1033,7 +1033,7 @@
     "company-address-form-label":"Adresse de l'entreprise",
     "home-address-form-label":"Adresse du domicile",
     "family-member-document":"Veuillez télécharger votre livret de famille ou votre acte de mariage.",
-    "company-document":"Veuillez télécharger une facture ou un contrat de l'entreprise que vous êtes prêt à payer",
+    "company-document":"Veuillez télécharger une facture ou un contrat de l’entreprise que vous êtes prêt à payer",
     "family-member-document-btn":"Ajouter mon document",
     "company-document-btn":"Ajouter ma fiche de salaire ou mon contrat",
     "company-name":"Nom de l'entreprise",
@@ -1065,7 +1065,7 @@
     "hover-zone-graph-details": "Survolez n'importe quel point sur le graphique pour obtenir les valeurs historiques",
     "my-alerts": "Mes alertes",
     "maximum-alerts": "Alertes maximales",
-    "maximum-alerts-info": "Vous ne pouvez définir que deux alertes par paire de devises. Veuillez en supprimer une si vous souhaitez en ajouter une nouvelle",
+    "maximum-alerts-info": "Vous ne pouvez définir que deux alertes par paire de devises. Veuillez en supprimer une avant d'en ajouter une nouvelle",
     "now": "Maintenant",
     "add-alert-btn": "Ajouter une alerte",
     "delete-currency-pair-btn": "Supprimer cette paire de devises",
@@ -1082,7 +1082,7 @@
   "login": {
     "welcome-txt": "Bienvenue chez b-sharpe",
     "welcome-txt-mobile": "Bonjour !",
-    "signin-or-create": "Connectez vous ou créez un compte",
+    "signin-or-create": "Connectez-vous ou créez un compte",
     "email-label": "Votre adresse e-mail",
     "password-label": "Mot de passe",
     "forgot-password-link": "Mot de passe oublié ?",
@@ -1108,7 +1108,7 @@
     "description": "Saisissez l'adresse e-mail associée à votre compte b-sharpe.",
     "email-label": "Votre adresse e-mail",
     "submit-button-label": "Suivant",
-    "email-hint": "Si votre e-mail est enregistré dans notre système, un code vous sera envoyé dans votre boite mail à l'étape suivante." 
+    "email-hint": "Si votre e-mail est enregistré dans notre système, vous recevrez un code dans votre boite mail après l'étape suivante." 
   },
   "registration": {
     "create-account": "Créer un compte",
@@ -1236,18 +1236,36 @@
     "email-confirmation-code-timer": "Réessayez dans {{seconds}}",
     "admin-action-message": "Votre demande a bien été soumise, nous vous enverrons un e-mail dès que celle-ci aura été traitée.",
     "sign-up-receive-new-agreement": "J'accepte de recevoir la newsletter b-sharpe par e-mail.",
-    "step-1-street-pop-up": "Assurez-vous d'indiquer votre adresse de résidence principale, pour laquelle vous devrez fournir un justificatif de domicile."
-   },
-   "registration-corporate":{
-      "title": "Création de votre compte entreprise",
-      "description": "Informations concernant l'entreprise",
-      "form-legal": "Forme légale",
-      "form-activity": "Secteur d'activité",
-      "form-about-title": "Comment avez-vous entendu parler de nous ?",
-      "form-about-reply": "Internet, réseau professionnel, ...",
-      "form-agreement": "En vous inscrivant, vous acceptez nos conditions générales d'utilisation et reconnaissez l'exactitude des informations fournies",
-      "form-title": "Informations de contact"
-    },
+    "step-1-street-pop-up": "Assurez-vous d'indiquer votre adresse de résidence principale, pour laquelle vous devrez fournir un justificatif de domicile.",
+    "email-verification": "Vérification E-mail",
+    "address-verification": "Vérification d’adresse",
+    "usage": "Votre usage",
+    "beneficiary":"Bénéficiaire des fonds"
+  },
+  "registration-corporate":{
+    "title": "Création de votre compte entreprise",
+    "description": "Informations concernant l'entreprise",
+    "form-legal": "Forme légale",
+    "form-activity": "Secteur d'activité",
+    "form-about-title": "Comment avez-vous entendu parler de nous ?",
+    "form-about-reply": "Internet, réseau professionnel, ...",
+    "form-agreement": "En vous inscrivant, vous acceptez nos conditions générales d'utilisation et reconnaissez l'exactitude des informations fournies",
+    "form-title": "Informations de contact"
+  },
+  "registration-remaining-steps": {
+    "page-title-not-completed": "Activation du compte",
+    "page-title-completed": "Vérification en cours",
+    "stepper-title-not-completed": "Complétez votre profil pour accéder à toutes les fonctionnalités",
+    "stepper-title-completed": "Notre équipe est en train de vérifier votre profil. Vous recevrez une notification par e-mail une fois votre profil validé.",
+    "todo": "À faire",
+    "in-review": "Validation en cours",
+    "completed": "Complet",
+    "alert-box-title-info-required":"Information importante",
+    "alert-box-desc-info-required":"Bienvenue chez b-sharpe ! Pour pouvoir commencer à échanger vos fonds et respecter la réglementation bancaire, nous avons besoin que vous complétiez quelques informations en plus. 
+En attendant, vous pouvez toujours explorer notre application, créer des alertes de taux, inviter vos amis, etc.",
+    "alert-box-title-waiting":"Votre profil est en cours de vérification",
+    "alert-box-btn":"Finaliser mon inscription"
+  },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/conditions-generales/",
     "amla-protection": "https://www.b-sharpe.com/dispositions-lba/",

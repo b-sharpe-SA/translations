@@ -1232,7 +1232,11 @@
     "email-confirmation-code-timer": "Riprova tra {{seconds}}",
     "admin-action-message": "La tua richiesta è stata inviata con successo, ti invieremo un'email una volta che sarà stata elaborata.",
     "sign-up-receive-new-agreement": "Accetto di ricevere la newsletter b-sharpe via email.",
-    "step-1-street-pop-up": "Assicurati di fornire il tuo indirizzo di residenza principale, per il quale dovrai fornire un documento comprovante la residenza."
+    "step-1-street-pop-up": "Assicurati di fornire il tuo indirizzo di residenza principale, per il quale dovrai fornire un documento comprovante la residenza.",
+    "email-verification": "Verifica email",
+    "address-verification": "Verifica indirizzo",
+    "usage": "Il tuo utilizzo",
+    "beneficiary":"Beneficiario"
   },
   "registration-corporate": {
     "title": "Creazione del tuo account aziendale",
@@ -1243,6 +1247,19 @@
     "form-about-reply": "Internet, rete professionale, ...",
     "form-agreement": "Registrandoti, accetti i nostri termini e condizioni e riconosci l'accuratezza delle informazioni fornite.",
     "form-title": "Informazioni di contatto"
+  },
+  "registration-remaining-steps": {
+    "page-title-not-completed": "Attivazione account",
+    "page-title-completed": "Verifica in corso",
+    "stepper-title-not-completed": "Completa il tuo profilo per accedere a tutte le funzionalità",
+    "stepper-title-completed": "Il nostro team sta verificando il tuo profilo. Riceverai una notifica via email una volta che il tuo profilo sarà stato.",
+    "todo": "Da fare",
+    "in-review": "Verifica in corso",
+    "completed": "Completato",
+    "alert-box-title-info-required":"Informazione importante",
+    "alert-box-desc-info-required":"Benvenuto su b-sharpe! Per iniziare a scambiare i tuoi fondi e rispettare le normative bancarie, abbiamo bisogno che tu completi alcune informazioni aggiuntive. Nel frattempo, puoi comunque esplorare la nostra app, impostare avvisi sui tassi, invitare i tuoi amici e altro ancora.",
+    "alert-box-title-waiting":"Stiamo verificando le tue informazioni",
+    "alert-box-btn":"Completa la mia registrazione"
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/it/termini-e-condizioni/",
