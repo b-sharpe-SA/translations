@@ -1229,10 +1229,10 @@
     "admin-action-message": "Ihre Anfrage wurde erfolgreich übermittelt, wir senden Ihnen eine E-Mail, sobald sie bearbeitet wurde.",
     "sign-up-receive-new-agreement": "Ich stimme zu, den b-sharpe Newsletter per E-Mail zu erhalten.",
     "step-1-street-pop-up": "Stellen Sie sicher, dass Sie Ihre Hauptwohnsitzadresse angeben, für die Sie einen Wohnsitznachweis vorlegen müssen.",
-    "email-verification": "",
-    "address-verification": "",
-    "usage": "",
-    "beneficiary":""
+    "email-verification": "E-Mail-Verifizierung",
+    "address-verification": "Adressverifizierung",
+    "usage": "Ihre Nutzung",
+    "beneficiary":"Begünstigter"
   },
   "registration-corporate": {
     "title": "Erstellung Ihres Geschäftskontos",
@@ -1245,17 +1245,17 @@
     "form-title": "Kontaktinformationen"  
   },
   "registration-remaining-steps": {
-    "page-title-not-completed": "",
-    "page-title-completed": "",
-    "stepper-title-not-completed": "",
-    "stepper-title-completed": "",
-    "todo": "",
-    "in-review": "",
-    "completed": "",
-    "alert-box-title-info-required":"",
-    "alert-box-desc-info-required":"",
-    "alert-box-title-waiting":"",
-    "alert-box-btn":""
+    "page-title-not-completed": "Kontoaktivierung",
+    "page-title-completed": "Laufende Überprüfung",
+    "stepper-title-not-completed": "Vervollständigen Sie Ihr Profil, um alle Funktionen nutzen zu können",
+    "stepper-title-completed": "Unser Team überprüft Ihr Profil. Sie erhalten eine E-Mail-Benachrichtigung, sobald Ihr Profil validiert wurde.",
+    "todo": "Zu erledigen",
+    "in-review": "Laufende Überprüfung",
+    "completed": "Abgeschlossen",
+    "alert-box-title-info-required":"Wichtige Information",
+    "alert-box-desc-info-required":"Willkommen bei b-sharpe! Um mit dem Umtausch Ihrer Gelder zu beginnen und den Bankvorschriften zu entsprechen, benötigen wir noch einige zusätzliche Informationen von Ihnen. In der Zwischenzeit können Sie unsere App erkunden, Kursalarme einrichten, Freunde einladen und vieles mehr.",
+    "alert-box-title-waiting":"Wir überprüfen Ihre Angaben",
+    "alert-box-btn":"Meine Registrierung abschließen"
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/de/allgemeine-geschaftsbedingungen/",
