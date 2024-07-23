@@ -1236,7 +1236,8 @@
     "email-verification": "Verifica email",
     "address-verification": "Verifica indirizzo",
     "usage": "Il tuo utilizzo",
-    "beneficiary":"Beneficiario"
+    "beneficiary":"Beneficiario",
+    "accept-contract-tooltip":"Devi completare le altre sezioni prima di poter firmare il tuo contratto"
   },
   "registration-corporate": {
     "title": "Creazione del tuo account aziendale",

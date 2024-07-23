@@ -1235,7 +1235,8 @@
     "email-verification": "E-Mail-Verifizierung",
     "address-verification": "Adressverifizierung",
     "usage": "Ihre Nutzung",
-    "beneficiary":"Begünstigter"
+    "beneficiary":"Begünstigter",
+    "accept-contract-tooltip":"Sie müssen die anderen Abschnitte ausfüllen, bevor Sie Ihren Vertrag unterschreiben können"
   },
   "registration-corporate": {
     "title": "Erstellung Ihres Geschäftskontos",

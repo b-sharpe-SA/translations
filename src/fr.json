@@ -1240,7 +1240,8 @@
     "email-verification": "Vérification E-mail",
     "address-verification": "Vérification d’adresse",
     "usage": "Votre usage",
-    "beneficiary":"Bénéficiaire des fonds"
+    "beneficiary":"Bénéficiaire des fonds",
+    "accept-contract-tooltip":"Vous devez compléter les autres sections avant de pouvoir signer votre contrat"
   },
   "registration-corporate":{
     "title": "Création de votre compte entreprise",

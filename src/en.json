@@ -1235,7 +1235,8 @@
     "email-verification": "Email verification",
     "address-verification": "Address verification",
     "usage": "Your usage",
-    "beneficiary":"Beneficiary"
+    "beneficiary":"Beneficiary",
+    "accept-contract-tooltip":"You must complete the other sections before you can sign your contract"
   },
   "registration-corporate": {
     "title": "Creating your business account",
