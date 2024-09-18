@@ -376,7 +376,7 @@
     "alert": "To continue enjoying our services, please update our IBAN.",
     "alert-cta": "Update now",
     "modal-title": "Update our IBAN",
-    "modal-subtitle": "To prevent your funds from being returned to the sender, please update our IBAN before May 31, 2024.",
+    "modal-subtitle": "To prevent your funds from being returned to the sender, please update our IBAN before September 30, 2024.",
     "modal-text-1": "Select the currency you wish to exchange and copy the new IBAN.",
     "modal-text-2": "Add the new IBAN to your own online bank account.",
     "modal-text-3": "You can now send us your funds, and we will convert them as usual!",
