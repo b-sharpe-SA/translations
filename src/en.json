@@ -494,23 +494,10 @@
     "beneficiary-received": "Your beneficiary received",
     "see-more-operations": "See more operations"
   },
-  "documents": {
+  "iban-documents": {
     "title": "IBAN and Documents",
-    "subtitle": "Here you will find our IBAN to which you can send money and the related documents",
-    "subtitle-2": "What type of document are you looking for?",
-    "b-sharpe-iban": "b-sharpe IBAN",
-    "b-sharpe-iban-description": "To send us the money you want to exchange.",
-    "employer-document": "Employer Document",
-    "employer-document-description": "Are you paid in a different currency? We can automate the exchange of your salary.",
-    "iban-currency-question": "Which currency are you sending us?",
-    "employer-currency-question": "In which currency do you receive your salary?",
-    "employer-document-info": "To enable b-sharpe to receive your salary directly from your employer, you must download the following employer document and send it to your employer. He will transfer your salary directly to us, we will make the exchange and transfer it to your account.",
-    "btn-download-employer-document-label": "Download Employer Document",
-    "qr-bill-credit-suisse-customer-info": "If you are a Credit Suisse customer, don't forget to uncheck the box \"I am paying for the account of another person\".",
-    "account-payable-by": "Payable by",
-    "account-payable-to": "Account / Payable to",
-    "reference-label": "Reference to use",
-    "psp-reference-hint": "We need the reference to send you the money."
+    "select-currency-to-view-documents": "Select a currency to view the associated documents",
+    "add-other-currency": "Add another currency"
   },
   "common": {
     "email": "Email",

@@ -494,23 +494,10 @@
     "beneficiary-received": "Il tuo beneficiario ha ricevuto",
     "see-more-operations": "Vedi altre operazioni"
   },
-  "documents": {
+  "iban-documents": {
     "title": "IBAN e documenti",
-    "subtitle": "Qui troverai il nostro IBAN a cui puoi inviare denaro e i documenti correlati",
-    "subtitle-2": "Di che tipo di documento hai bisogno?",
-    "b-sharpe-iban": "IBAN b-sharpe",
-    "b-sharpe-iban-description": "Per inviarci i soldi che desideri cambiare.",
-    "employer-document": "Documento del datore di lavoro",
-    "employer-document-description": "Sei pagato in una valuta diversa? Possiamo automatizzare lo scambio del tuo stipendio.",
-    "iban-currency-question": "Quale valuta ci stai inviando?",
-    "employer-currency-question": "In quale valuta ricevi il tuo stipendio?",
-    "employer-document-info": "Per consentire a b-sharpe di ricevere il tuo stipendio direttamente dal tuo datore di lavoro, devi scaricare il seguente documento del datore di lavoro e inviarlo al tuo datore di lavoro. Lui trasferirà il tuo stipendio direttamente a noi, noi faremo lo scambio e lo trasferiremo sul tuo conto.",
-    "btn-download-employer-document-label": "Scarica documento del datore di lavoro",
-    "qr-bill-credit-suisse-customer-info": "Se sei un cliente del Credit Suisse, non dimenticare di deselezionare la casella \"Sto pagando per il conto di un'altra persona\".",
-    "account-payable-by": "Pagabile da",
-    "account-payable-to": "Conto / Pagabile a",
-    "reference-label": "Riferimento da utilizzare",
-    "psp-reference-hint": "Abbiamo bisogno del riferimento per inviarti i soldi."
+    "select-currency-to-view-documents": "Seleziona una valuta per visualizzare il nostro IBAN e i documenti associati.",
+    "add-other-currency": "Aggiungi un'altra valuta"
   },
   "common": {
     "email": "Email",
