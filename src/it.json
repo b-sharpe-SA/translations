@@ -742,6 +742,15 @@
     "delete-beneficiary-modal-title": "Sei sicuro di voler eliminare questo beneficiario?",
     "see-more-beneficiaries": "Vedi altri beneficiari"
   },
+  "vban": {
+    "claim-info-box-title": "",
+    "claim-info-box-description": "",
+    "claim-info-box-btn-label": "",
+    "claim-page-title": "",
+    "activate-personal-account": "",
+    "do-it-later": "",
+    "generate": ""
+  },
   "new-bank-account": {
     "title": "Che tipo di account vuoi aggiungere?",
     "subtitle": "Chi è il titolare dell'account?",

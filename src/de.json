@@ -741,6 +741,15 @@
     "delete-beneficiary-modal-title": "Sind Sie sicher, dass Sie diesen Begünstigten löschen möchten?",
     "see-more-beneficiaries": "Weitere Begünstigte anzeigen"
   },
+  "vban": {
+    "claim-info-box-title": "",
+    "claim-info-box-description": "",
+    "claim-info-box-btn-label": "",
+    "claim-page-title": "",
+    "activate-personal-account": "",
+    "do-it-later": "",
+    "generate": ""
+  },
   "new-bank-account": {
     "title": "Welchen Kontotyp möchten Sie hinzufügen?",
     "subtitle": "Wer ist der Kontoinhaber?",

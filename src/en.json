@@ -741,6 +741,15 @@
     "delete-beneficiary-modal-title": "Are you sure you want to delete this beneficiary?",
     "see-more-beneficiaries": "See more beneficiaries"
   },
+  "vban": {
+    "claim-info-box-title": "For faster CHF transfers, activate your personal account!",
+    "claim-info-box-description": "list all the advantages, make it sound interesting but please do not be too long winded!",
+    "claim-info-box-btn-label": "Activate my personal account",
+    "claim-page-title": "For faster CHF transfers, get a personal account!",
+    "activate-personal-account": "Activate my personal account",
+    "do-it-later": "I will do it later",
+    "generate": "Generate"
+  },
   "new-bank-account": {
     "title": "What type of account do you want to add?",
     "subtitle": "Who is the account holder?",
