@@ -376,7 +376,7 @@
     "alert": "To continue enjoying our services, please update our IBAN.",
     "alert-cta": "Update now",
     "modal-title": "Update our IBAN",
-    "modal-subtitle": "To prevent your funds from being returned to the sender, please update our IBAN before September 30, 2024.",
+    "modal-subtitle": "Urgent: Take a quick look at your 'IBAN & Documents' section to make sure you're using the latest b-Sharpe IBAN. We noticed you used an outdated IBAN for your last transfer. Our banking partner will have to return any funds sent to this old IBAN and b-Sharpe won't be able to receive and process your next transaction. Please update our information as soon as possible to avoid delays.",
     "modal-text-1": "Select the currency you wish to exchange and copy the new IBAN.",
     "modal-text-2": "Add the new IBAN to your own online bank account.",
     "modal-text-3": "You can now send us your funds, and we will convert them as usual!",

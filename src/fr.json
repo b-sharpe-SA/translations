@@ -380,7 +380,7 @@
     "alert": "Pour continuer à profiter de nos services, mettez à jour notre IBAN.",
     "alert-cta": "Faire la mise à jour",
     "modal-title": "Mettez à jour notre IBAN",
-    "modal-subtitle": "Pour éviter que vos fonds retournent à l'envoyeur, nous vous invitons à mettre à jour notre IBAN avant le 30 Septembre 2024.",
+    "modal-subtitle": "Urgent : Vérifiez rapidement votre section 'IBAN & Documents' pour vous assurer d'utiliser le dernier IBAN b-Sharpe. Nous avons remarqué que vous avez utilisé un IBAN obsolète pour votre dernier transfert. Notre partenaire bancaire devra renvoyer tous les fonds envoyés à cet ancien IBAN et b-Sharpe ne pourra ni recevoir ni traiter votre prochaine transaction. Veuillez mettre à jour nos informations dès que possible pour éviter tout retard.",
     "modal-text-1": "Sélectionnez la devise que vous souhaitez échanger et copiez le nouvel IBAN.",
     "modal-text-2": "Ajoutez le nouvel IBAN sur votre propre compte bancaire en ligne.",
     "modal-text-3": "Vous pouvez désormais nous envoyer vos fonds et nous les convertirons comme d'habitude !",
