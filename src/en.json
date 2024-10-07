@@ -503,7 +503,7 @@
     "how-send-psp": "Here are our bank details if you send us {{currency}}. You'll need to use your bank to transfer your funds to b-Sharpe.",
     "how-send-vban": "Here are <strong>your new nominative Swiss IBAN</strong> if you send us {{currency}}. You'll need to use your bank to transfer your funds to b-sharpe.",
     "download-iban": "Download IBAN",
-    "download-employer-document": "Download Employer Document",
+    "download-employer-document": "Download employer document",
     "qr-bill": "QR Bill",
     "reminder-include-reference": "<strong>Don’t forget to include your reference</strong> as \"Reason for payment\"/\"Message for the beneficiary\". Not including those will cause important delays."
   },
