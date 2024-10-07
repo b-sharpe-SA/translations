@@ -519,6 +519,7 @@
     "address": "Adresse",
     "phone-number": "Telefonnummer",
     "reference": "Referenz",
+    "currency": "Währung",
     "customer-reference": "Kundenreferenz",
     "done": "Erledigt",
     "pending": "Ausstehend",

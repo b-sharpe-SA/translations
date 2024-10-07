@@ -519,6 +519,7 @@
     "address": "Indirizzo",
     "phone-number": "Numero di telefono",
     "reference": "Riferimento",
+    "currency": "Valuta",
     "customer-reference": "Riferimento cliente",
     "done": "Fatto",
     "pending": "In sospeso",

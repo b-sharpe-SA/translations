@@ -524,6 +524,7 @@
     "address": "Adresse",
     "phone-number": "Numéro de téléphone",
     "reference": "Référence",
+    "currency": "Devise",
     "customer-reference": "Référence client",
     "done": "Terminé",
     "pending": "En attente",
