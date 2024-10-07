@@ -502,7 +502,9 @@
   "iban-documents": {
     "title": "IBAN et documents",
     "select-currency-to-view-documents": "Sélectionnez une devise pour voir l'IBAN et les documents associés",
-    "add-other-currency": "Ajouter une autre devise"
+    "add-other-currency": "Ajouter une autre devise",
+    "account-payable-by": "Payable par",
+    "account-payable-to": "Compte / Payable à"
   },
   "common": {
     "email": "Email",

@@ -497,7 +497,9 @@
   "iban-documents": {
     "title": "IBAN und Dokumente",
     "select-currency-to-view-documents": "Wählen Sie eine Währung aus, um die IBAN und die Dokumente zu sehen",
-    "add-other-currency": "Fügen Sie eine andere Währung hinzu"
+    "add-other-currency": "Fügen Sie eine andere Währung hinzu",
+    "account-payable-by": "Zahlbar durch",
+    "account-payable-to": "Konto / Zahlbar an"
   },
   "common": {
     "email": "Email",
