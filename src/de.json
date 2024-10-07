@@ -499,7 +499,8 @@
     "select-currency-to-view-documents": "Wählen Sie eine Währung aus, um die IBAN und die Dokumente zu sehen",
     "add-other-currency": "Fügen Sie eine andere Währung hinzu",
     "account-payable-by": "Zahlbar durch",
-    "account-payable-to": "Konto / Zahlbar an"
+    "account-payable-to": "Konto / Zahlbar an",
+    "warning-credit-swiss-customer": "Wenn Sie Kunde der Credit Suisse sind, vergessen Sie nicht, das Kästchen 'Ich zahle im Namen einer anderen Person' zu deaktivieren"
   },
   "common": {
     "email": "Email",

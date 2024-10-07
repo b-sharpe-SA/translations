@@ -499,7 +499,8 @@
     "select-currency-to-view-documents": "Select a currency to view the associated documents",
     "add-other-currency": "Add another currency",
     "account-payable-by": "Payable by",
-    "account-payable-to": "Account / Payable to"
+    "account-payable-to": "Account / Payable to",
+    "warning-credit-swiss-customer": "If you are a Credit Suisse customer, don't forget to uncheck the box 'I am paying on behalf of someone else'"
   },
   "common": {
     "email": "Email",
