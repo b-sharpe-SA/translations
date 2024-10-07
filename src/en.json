@@ -496,11 +496,22 @@
   },
   "iban-documents": {
     "title": "IBAN and Documents",
-    "select-currency-to-view-documents": "Select a currency to view the associated documents",
+    "select-currency-to-view-documents": "Choose the currency you’re sending and we’ll show you b-Sharpe's bank details and any helpful documents",
     "add-other-currency": "Add another currency",
+    "add-favorite-currency": "Add a favorite currency",
+    "how-to-send": "How to send your {{currency}}",
+    "how-send-psp": "Here are our bank details if you send us {{currency}}. You'll need to use your bank to transfer your funds to b-Sharpe.",
+    "how-send-vban": "Here are <b>your new nominative Swiss IBAN</b> if you send us {{currency}}. You'll need to use your bank to transfer your funds to b-sharpe.",
+    "download-iban": "Download IBAN",
+    "download-employer-document": "Download Employer Document",
+    "qr-bill": "QR Bill",
+    "reminder-include-reference": "<b>Don’t forget to include your reference</a> as \"Reason for payment\"/\"Message for the beneficiary\". Not including those will cause important delays."
+  },
+  "qr-bill-modal": {
+    "qr-bill": "QR Bill",
     "account-payable-by": "Payable by",
     "account-payable-to": "Account / Payable to",
-    "warning-credit-swiss-customer": "If you are a Credit Suisse customer, don't forget to uncheck the box 'I am paying on behalf of someone else'"
+    "reminder-credit-suisse": "If you are a Credit Suisse customer, don't forget to uncheck the box 'I am paying on behalf of someone else'"
   },
   "common": {
     "email": "Email",
