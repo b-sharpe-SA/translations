@@ -380,7 +380,7 @@
     "modal-text-1": "Wählen Sie die Währung aus, die Sie tauschen möchten, und kopieren Sie die neue IBAN.",
     "modal-text-2": "Fügen Sie die neue IBAN Ihrem eigenen Online-Bankkonto hinzu.",
     "modal-text-3": "Sie können uns jetzt Ihre Gelder senden, und wir werden sie wie gewohnt umwandeln!",
-    "modal-alert": "Sie erreichen uns unter <b>+41 22 311 11 82</b> von Montag bis Freitag, 9 bis 18 Uhr.",
+    "modal-alert": "Sie erreichen uns unter <strong>+41 22 311 11 82</strong> von Montag bis Freitag, 9 bis 18 Uhr.",
     "modal-cta": "Sehen Sie die neue IBAN"
   },  
   "account": {
@@ -788,7 +788,7 @@
     "my-currencies": "Meine Währungen",
     "disclaimer-interbank-rate": "Der angezeigte Kurs ist der Interbankkurs und beinhaltet nicht den Aufschlag von b-sharpe.",
     "alert-info": "Benachrichtigungen informieren Sie, wenn Ihr Ziel erreicht ist, damit Sie Ihre Transaktion zum besten Kurs durchführen können.",
-    "alert-info-add": "Klicken Sie auf \"<b>Hinzufügen +</b>\", um eine neue Benachrichtigung zu erstellen.",
+    "alert-info-add": "Klicken Sie auf \"<strong>Hinzufügen +</strong>\", um eine neue Benachrichtigung zu erstellen.",
     "save-rate-alert-btn": "Diese Benachrichtigung erstellen",
     "save-rate-alert-info": "Legen Sie Ihre Benachrichtigung direkt im Diagramm fest oder geben Sie einen Wert in das Feld unten ein",
     "empty-message": "Sie haben derzeit kein Währungspaar.\nFügen Sie eines hinzu, indem Sie auf \"Hinzufügen\" klicken",

@@ -380,7 +380,7 @@
     "modal-text-1": "Seleziona la valuta che desideri scambiare e copia il nuovo IBAN.",
     "modal-text-2": "Aggiungi il nuovo IBAN al tuo conto bancario online personale.",
     "modal-text-3": "Ora puoi inviarci i tuoi fondi e li convertiremo come al solito!",
-    "modal-alert": "Puoi raggiungerci al <b>+41 22 311 11 82</b> dal lunedì al venerdì, dalle 9:00 alle 18:00.",
+    "modal-alert": "Puoi raggiungerci al <strong>+41 22 311 11 82</strong> dal lunedì al venerdì, dalle 9:00 alle 18:00.",
     "modal-cta": "Vedi il nuovo IBAN"
   },  
   "account": {
@@ -789,7 +789,7 @@
     "my-currencies": "Le mie valute",
     "disclaimer-interbank-rate": "Il tasso visualizzato è il tasso interbancario e non include il margine di b-sharpe.",
     "alert-info": "Gli avvisi ti avviseranno quando il tuo obiettivo sarà raggiunto in modo che tu possa effettuare la transazione al miglior tasso.",
-    "alert-info-add": "Clicca su \"<b>Aggiungi +</b>\" per creare un nuovo avviso.",
+    "alert-info-add": "Clicca su \"<strong>Aggiungi +</strong>\" per creare un nuovo avviso.",
     "save-rate-alert-btn": "Crea questo avviso",
     "save-rate-alert-info": "Imposta il tuo avviso direttamente sul grafico o inserisci un valore nel campo sottostante",
     "empty-message": "Al momento non hai alcuna coppia di valute.\nAggiungine una cliccando su \"Aggiungi\"",
