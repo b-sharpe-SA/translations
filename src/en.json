@@ -505,7 +505,10 @@
     "download-iban": "Download IBAN",
     "download-employer-document": "Download employer document",
     "qr-bill": "QR Bill",
-    "reminder-include-reference": "<strong>Don’t forget to include your reference</strong> as \"Reason for payment\"/\"Message for the beneficiary\". Not including those will cause important delays."
+    "reminder-include-reference": "<strong>Don’t forget to include your reference</strong> as \"Reason for payment\"/\"Message for the beneficiary\". Not including those will cause important delays.",
+    "failed-download-iban": "Failed to download IBAN",
+    "failed-download-employer-doc": "Failed to download employer document",
+    "no-iban-for-currency": "We couldn't find any bank details for {{currency}}. Please contact support for help."
   },
   "qr-bill-modal": {
     "qr-bill": "QR Bill",
