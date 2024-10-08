@@ -765,7 +765,8 @@
     "information-page-question-1": "Have you understood that this Swiss IBAN can <strong>only receive CHF</strong>?",
     "information-page-question-2": "Do you already have a Swiss bank account in CHF in your name?",
     "information-page-question-3": "Do you confirm that you’ll <strong>only receive money on this IBAN from legitimate Swiss organizations</strong> or from a bank account in your name?",
-    "information-page-info": "We may suspend or close your account if funds received on your nominative IBAN comes from any other sources."
+    "information-page-info": "We may suspend or close your account if funds received on your nominative IBAN comes from any other sources.",
+    "error-creating-vban":"Unable to set up nominative IBAN. Please try again."
   },
   "new-bank-account": {
     "title": "What type of account do you want to add?",
