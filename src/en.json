@@ -747,9 +747,11 @@
     "see-more-beneficiaries": "See more beneficiaries"
   },
   "vban": {
-    "claim-info-box-title": "For faster CHF transfers, activate your personal account!",
-    "claim-info-box-description": "list all the advantages, make it sound interesting but please do not be too long winded!",
-    "claim-info-box-btn-label": "Activate my personal account",
+    "claim-info-box-title": "Get even faster CHF transfers with a FREE nomative Swiss IBAN!",
+    "claim-info-box-description-item-1": "Accepted by all Swiss employers, pensions, Health insurances, and more.",
+    "claim-info-box-description-item-2": "Faster & seamless salary reception",
+    "claim-info-box-description-item-3": "Completely Free!",
+    "claim-info-box-btn-label": "Claim my Swiss nominative IBAN",
     "claim-page-title": "For faster CHF transfers, get a personal account!",
     "activate-personal-account": "Activate my personal account",
     "do-it-later": "I will do it later",
