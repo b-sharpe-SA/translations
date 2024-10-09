@@ -508,7 +508,7 @@
     "reminder-include-reference": "<strong>Ricorda di includere il tuo riferimento</strong> nei dettagli del pagamento. L'omissione potrebbe causare ritardi significativi.",
     "failed-download-iban": "Download IBAN non riuscito",
     "failed-download-employer-doc": "Download del documento per il datore di lavoro fallito",
-    "no-iban-for-currency": "Non abbiamo trovato dettagli bancari per {{currency}}. Contatta il nostro team di supporto per assistenza."
+    "no-iban-for-currency": "Non abbiamo trovato dettagli bancari per {{currency}}. Contatta il nostro team di supporto per assistenza.",
     "account-payable-by": "Pagabile da",
     "account-payable-to": "Conto / Pagabile a",
     "warning-credit-swiss-customer": "Se sei un cliente Credit Suisse, non dimenticare di deselezionare la casella 'Sto pagando per conto di qualcun altro'"

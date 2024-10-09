@@ -508,7 +508,7 @@
     "reminder-include-reference": "<strong>Vergessen Sie nicht, Ihre Referenz</strong> im Verwendungszweck anzugeben. Ohne diese könnte es zu erheblichen Verzögerungen kommen.",
     "failed-download-iban": "IBAN-Download fehlgeschlagen",
     "failed-download-employer-doc": "Abruf des Arbeitgeberdokuments fehlgeschlagen",
-    "no-iban-for-currency": "Leider keine Bankdaten für {{currency}} gefunden. Bitte kontaktieren Sie unseren Support."
+    "no-iban-for-currency": "Leider keine Bankdaten für {{currency}} gefunden. Bitte kontaktieren Sie unseren Support.",
     "account-payable-by": "Zahlbar durch",
     "account-payable-to": "Konto / Zahlbar an",
     "warning-credit-swiss-customer": "Wenn Sie Kunde der Credit Suisse sind, vergessen Sie nicht, das Kästchen 'Ich zahle im Namen einer anderen Person' zu deaktivieren"

@@ -513,7 +513,7 @@
     "reminder-include-reference" : "<strong>N'oubliez pas d'inclure votre référence</strong> dans les détails du paiement. Son oubli pourrait entraîner des retards importants de traitement.",
     "failed-download-iban" : "Échec du téléchargement du RIB",
     "failed-download-employer-doc" : "Échec du téléchargement du document employeur",
-    "no-iban-for-currency" : "Nous n'avons pas trouvé de coordonnées bancaires pour envoyer des {{currency}}. Veuillez contacter notre support."
+    "no-iban-for-currency" : "Nous n'avons pas trouvé de coordonnées bancaires pour envoyer des {{currency}}. Veuillez contacter notre support.",
     "account-payable-by": "Payable par",
     "account-payable-to": "Compte / Payable à",
     "warning-credit-swiss-customer": "Si vous êtes un client Credit Suisse, n'oubliez pas de décocher la case 'Je paie pour le compte de quelqu'un d'autre'"
