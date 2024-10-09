@@ -761,6 +761,7 @@
     "claim-page-button-claim": "Claim my Swiss CHF IBAN",
     "do-it-later": "I don’t need one right now",
     "generate": "Generate",
+    "generating": "Generating",
     "information-page-title": "We just need a few more information ",
     "information-page-question-1": "Have you understood that this Swiss IBAN can <strong>only receive CHF</strong>?",
     "information-page-question-2": "Do you already have a Swiss bank account in CHF in your name?",
