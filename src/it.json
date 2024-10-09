@@ -495,9 +495,20 @@
     "see-more-operations": "Vedi altre operazioni"
   },
   "iban-documents": {
-    "title": "IBAN e documenti",
-    "select-currency-to-view-documents": "Seleziona una valuta per visualizzare il nostro IBAN e i documenti associati.",
+    "title": "Dettagli bancari e Documentazione",
+    "select-currency-to-view-documents": "Seleziona la valuta di trasferimento per visualizzare le informazioni bancarie di b-Sharpe e i documenti pertinenti",
     "add-other-currency": "Aggiungi un'altra valuta",
+    "add-favorite-currency": "Salva una valuta preferita",
+    "how-to-send": "Come inviare i tuoi {{currency}}",
+    "how-send-psp": "Ecco i nostri dettagli bancari per i trasferimenti in {{currency}}. Utilizza la tua banca per effettuare il bonifico a b-Sharpe.",
+    "how-send-vban": "Ecco il tuo <strong>IBAN svizzero personalizzato</strong> per l'invio di {{currency}}. Usa la tua banca per trasferire i fondi a b-Sharpe.",
+    "download-iban": "Scarica i dettagli IBAN",
+    "download-employer-document": "Ottieni il documento per il datore di lavoro",
+    "qr-bill": "Fattura QR",
+    "reminder-include-reference": "<strong>Ricorda di includere il tuo riferimento</strong> nei dettagli del pagamento. L'omissione potrebbe causare ritardi significativi.",
+    "failed-download-iban": "Download IBAN non riuscito",
+    "failed-download-employer-doc": "Download del documento per il datore di lavoro fallito",
+    "no-iban-for-currency": "Non abbiamo trovato dettagli bancari per {{currency}}. Contatta il nostro team di supporto per assistenza."
     "account-payable-by": "Pagabile da",
     "account-payable-to": "Conto / Pagabile a",
     "warning-credit-swiss-customer": "Se sei un cliente Credit Suisse, non dimenticare di deselezionare la casella 'Sto pagando per conto di qualcun altro'"
@@ -734,13 +745,27 @@
     "see-more-beneficiaries": "Vedi altri beneficiari"
   },
   "vban": {
-    "claim-info-box-title": "",
-    "claim-info-box-description": "",
-    "claim-info-box-btn-label": "",
-    "claim-page-title": "",
-    "activate-personal-account": "",
-    "do-it-later": "",
-    "generate": ""
+    "claim-info-box-title": "Velocizza i trasferimenti in CHF con un IBAN svizzero personale GRATUITO!",
+    "claim-info-box-description-item-1": "Accettato da datori di lavoro svizzeri, fondi pensione, assicurazioni sanitarie e altro.",
+    "claim-info-box-description-item-2": "Ricezione dello stipendio rapida e senza sforzo",
+    "claim-info-box-description-item-3": "Completamente gratuito!",
+    "claim-info-box-btn-label": "Ottieni il mio IBAN svizzero personale",
+    "claim-page-title": "Semplifica i trasferimenti in CHF con il tuo IBAN svizzero",
+    "claim-page-description": "Ottieni un IBAN svizzero a tuo nome per ricevere CHF da entità svizzere. Convertiremo e trasferiremo automaticamente i fondi sul tuo conto preferito (EUR, ecc.) senza problemi.",
+    "claim-page-description-list-item-1": "<strong>Accettato da tutti i datori di lavoro svizzeri</strong>, assicurazioni sanitarie e altro.",
+    "claim-page-description-list-item-2": "Ci permette di elaborare i tuoi fondi <strong>ancora più velocemente</strong>!",
+    "claim-page-description-list-item-3": "Hai solo un conto destinatario attivo? Perfetto! b-Sharpe convertirà e invierà automaticamente il tuo denaro - <strong>senza passaggi aggiuntivi</strong>.",
+    "claim-page-description-list-item-4": "Il tuo IBAN svizzero in CHF è <strong>completamente gratuito</strong>!",
+    "claim-page-button-claim": "Richiedi il mio IBAN svizzero in CHF",
+    "do-it-later": "Lo farò più tardi",
+    "generate": "Crea",
+    "information-page-title": "Abbiamo bisogno di alcune informazioni in più",
+    "information-page-question-1": "Hai capito che questo IBAN svizzero è <strong>esclusivamente per ricevere CHF</strong>?",
+    "information-page-question-2": "Hai attualmente un conto bancario svizzero in CHF a tuo nome?",
+    "information-page-question-3": "Puoi confermare che <strong>riceverai fondi su questo IBAN solo da organizzazioni svizzere autorizzate</strong> o da un conto bancario a tuo nome?",
+    "information-page-info": "Potremmo sospendere o chiudere il tuo conto se i fondi ricevuti sul tuo IBAN personale provengono da fonti non autorizzate.",
+    "error-creating-vban": "Non siamo riusciti a configurare il tuo IBAN personale. Riprova.",
+    "field-must-be-set-to-yes": "Per qualificarti per un IBAN personale, rispondi 'Sì' a questa domanda."
   },
   "new-bank-account": {
     "title": "Che tipo di account vuoi aggiungere?",
