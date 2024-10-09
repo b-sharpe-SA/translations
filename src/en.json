@@ -380,7 +380,7 @@
     "modal-text-1": "Select the currency you wish to exchange and copy the new IBAN.",
     "modal-text-2": "Add the new IBAN to your own online bank account.",
     "modal-text-3": "You can now send us your funds, and we will convert them as usual!",
-    "modal-alert": "You can reach us at <b>+41 22 311 11 82</b> from Monday to Friday, 9am to 6pm.",
+    "modal-alert": "You can reach us at <strong>+41 22 311 11 82</strong> from Monday to Friday, 9am to 6pm.",
     "modal-cta": "See the new IBAN"
   },  
   "account": {
@@ -494,23 +494,27 @@
     "beneficiary-received": "Your beneficiary received",
     "see-more-operations": "See more operations"
   },
-  "documents": {
+  "iban-documents": {
     "title": "IBAN and Documents",
-    "subtitle": "Here you will find our IBAN to which you can send money and the related documents",
-    "subtitle-2": "What type of document are you looking for?",
-    "b-sharpe-iban": "b-sharpe IBAN",
-    "b-sharpe-iban-description": "To send us the money you want to exchange.",
-    "employer-document": "Employer Document",
-    "employer-document-description": "Are you paid in a different currency? We can automate the exchange of your salary.",
-    "iban-currency-question": "Which currency are you sending us?",
-    "employer-currency-question": "In which currency do you receive your salary?",
-    "employer-document-info": "To enable b-sharpe to receive your salary directly from your employer, you must download the following employer document and send it to your employer. He will transfer your salary directly to us, we will make the exchange and transfer it to your account.",
-    "btn-download-employer-document-label": "Download Employer Document",
-    "qr-bill-credit-suisse-customer-info": "If you are a Credit Suisse customer, don't forget to uncheck the box \"I am paying for the account of another person\".",
+    "select-currency-to-view-documents": "Choose the currency you’re sending and we’ll show you b-Sharpe's bank details and any helpful documents",
+    "add-other-currency": "Add another currency",
+    "add-favorite-currency": "Add a favorite currency",
+    "how-to-send": "How to send your {{currency}}",
+    "how-send-psp": "Here are our bank details if you send us {{currency}}. You'll need to use your bank to transfer your funds to b-Sharpe.",
+    "how-send-vban": "Here are <strong>your new nominative Swiss IBAN</strong> if you send us {{currency}}. You'll need to use your bank to transfer your funds to b-sharpe.",
+    "download-iban": "Download IBAN",
+    "download-employer-document": "Download employer document",
+    "qr-bill": "QR Bill",
+    "reminder-include-reference": "<strong>Don’t forget to include your reference</strong> as \"Reason for payment\"/\"Message for the beneficiary\". Not including those will cause important delays.",
+    "failed-download-iban": "Failed to download IBAN",
+    "failed-download-employer-doc": "Failed to download employer document",
+    "no-iban-for-currency": "We couldn't find any bank details for {{currency}}. Please contact support for help."
+  },
+  "qr-bill-modal": {
+    "qr-bill": "QR Bill",
     "account-payable-by": "Payable by",
     "account-payable-to": "Account / Payable to",
-    "reference-label": "Reference to use",
-    "psp-reference-hint": "We need the reference to send you the money."
+    "reminder-credit-suisse": "If you are a Credit Suisse customer, don't forget to uncheck the box 'I am paying on behalf of someone else'"
   },
   "common": {
     "email": "Email",
@@ -532,6 +536,7 @@
     "address": "Address",
     "phone-number": "Phone Number",
     "reference": "Reference",
+    "currency": "Currency",
     "customer-reference": "Customer Reference",
     "done": "Done",
     "pending": "Pending",
@@ -741,6 +746,30 @@
     "delete-beneficiary-modal-title": "Are you sure you want to delete this beneficiary?",
     "see-more-beneficiaries": "See more beneficiaries"
   },
+  "vban": {
+    "claim-info-box-title": "Get even faster CHF transfers with a FREE nominative Swiss IBAN!",
+    "claim-info-box-description-item-1": "Accepted by all Swiss employers, pensions, Health insurances, and more.",
+    "claim-info-box-description-item-2": "Faster & seamless salary reception",
+    "claim-info-box-description-item-3": "Completely Free!",
+    "claim-info-box-btn-label": "Claim my Swiss nominative IBAN",
+    "claim-page-title": "Speed up CHF transfers with a Swiss IBAN in your name",
+    "claim-page-description": "Get your own Swiss IBAN to receive CHF from Swiss companies and organisations, change it automatically and receive it in your own bank account (EUR, etc.) without thinking about it.",
+    "claim-page-description-list-item-1":"It’s <strong>accepted by all Swiss employers</strong>, Health insurances, etc.",
+    "claim-page-description-list-item-2":"It allows us to process your money <strong>even faster</strong> !",
+    "claim-page-description-list-item-3":"Got just one active recipient account in your name?  Perfect ! b-sharpe will automatically convert and send your money there - <strong>no extra steps needed</strong>.",
+    "claim-page-description-list-item-4":"Your Swiss CHF IBAN is <strong>free</strong> ! ",
+    "claim-page-button-claim": "Claim my Swiss CHF IBAN",
+    "do-it-later": "I don’t need one right now",
+    "generate": "Generate",
+    "generating": "Generating",
+    "information-page-title": "We just need a few more information ",
+    "information-page-question-1": "Have you understood that this Swiss IBAN can <strong>only receive CHF</strong>?",
+    "information-page-question-2": "Do you already have a Swiss bank account in CHF in your name?",
+    "information-page-question-3": "Do you confirm that you’ll <strong>only receive money on this IBAN from legitimate Swiss organizations</strong> or from a bank account in your name?",
+    "information-page-info": "We may suspend or close your account if funds received on your nominative IBAN comes from any other sources.",
+    "error-creating-vban":"Couldn't create your nominative IBAN. Please try again.",
+    "field-must-be-set-to-yes": "To qualify for a nominative IBAN, please select 'Yes'."
+  },
   "new-bank-account": {
     "title": "What type of account do you want to add?",
     "subtitle": "Who is the account holder?",
@@ -788,7 +817,7 @@
     "my-currencies": "My Currencies",
     "disclaimer-interbank-rate": "The displayed rate is the interbank rate and does not include b-sharpe's margin.",
     "alert-info": "Alerts will notify you when your target is reached so you can make your transaction at the best rate.",
-    "alert-info-add": "Click on \"<b>Add +</b>\" to create a new alert.",
+    "alert-info-add": "Click on \"<strong>Add +</strong>\" to create a new alert.",
     "save-rate-alert-btn": "Create this alert",
     "save-rate-alert-info": "Set your alert directly on the chart or enter a value in the field below",
     "empty-message": "You don't have any currency pairs at the moment.\nAdd one by clicking on \"Add\"",
