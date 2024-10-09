@@ -759,6 +759,7 @@
     "claim-page-button-claim": "Richiedi il mio IBAN svizzero in CHF",
     "do-it-later": "Lo farò più tardi",
     "generate": "Crea",
+    "generating": "Generazione in corso",
     "information-page-title": "Abbiamo bisogno di alcune informazioni in più",
     "information-page-question-1": "Hai capito che questo IBAN svizzero è <strong>esclusivamente per ricevere CHF</strong>?",
     "information-page-question-2": "Hai attualmente un conto bancario svizzero in CHF a tuo nome?",
