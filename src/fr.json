@@ -335,6 +335,7 @@
     "input-amount-receive-label": "Montant exact",
     "input-origin-country-label": "Pays d'où proviennent les fonds",
     "btn-review-label": "Vérifier",
+    "review-details": "",
     "btn-confirm-label": "Confirmer",
     "you-send": "Vous nous envoyez",
     "you-receive": "Vous recevez",
@@ -377,7 +378,13 @@
     "modal-confirm-buy-no-real-rate-content": "Nous ne pouvons vous fournir un taux pour cette opération pour le moment. Si vous confirmez quand même, cela signifie que vous acceptez le taux que nous vous donnerons. Sinon, vous pouvez contacter notre équipe trading pour bloquer le taux.",
     "document": "Document",
     "document-legal-reason": "Pour des raisons légales, nous avons besoin d'un document expliquant la raison de cette opération. Cela peut être une facture ou un contrat.",
-    "document-btn": "Ajouter mon document"
+    "document-btn": "Ajouter mon document",
+    "give-account-info-to-sender": "",
+    "receive-flow-send-money-vban": "",
+    "receive-flow-send-money": "",
+    "pay-by-manual-bank-transfer": "",
+    "send-flow-send-money-vban": "",
+    "send-flow-send-money": ""
   },
   "rib-updated": {
     "alert": "Pour continuer à profiter de nos services, mettez à jour notre IBAN.",

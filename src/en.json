@@ -308,7 +308,7 @@
     "btn-receive-money-label": "Receive money from a third party",
     "btn-receive-money-description": "Receive your salary or other payments",
     "send-money-subtitle": "Enter the amount you want to exchange or the amount your beneficiary should receive.",
-    "btn-select-beneficiary-label": "Choose a beneficiary",
+    "btn-select-beneficiary-label": "Add a recipient",
     "beneficiary-step-subtitle": "Select the bank account where you want to send the money.",
     "receive-money-title": "Receive money",
     "receive-money-subtitle": "Tell us more about the money you are expecting",
@@ -331,7 +331,8 @@
     "input-amount-receive-label": "Exact amount",
     "input-origin-country-label": "Country where the funds originate",
     "btn-review-label": "Review",
-    "btn-confirm-label": "Confirm",
+    "review-details": "Review details",
+    "btn-confirm-label": "Continue to instructions",
     "you-send": "You send us",
     "you-receive": "You receive",
     "you-should-receive": "You should receive",
@@ -373,7 +374,13 @@
     "modal-confirm-buy-no-real-rate-content": "We cannot provide a rate for this operation right now. If you confirm anyway, it means that you accept the rate that we will give you. Otherwise, you can contact our trading team to lock the rate.",
     "document": "Document",
     "document-legal-reason": "For legal reasons, we need a document explaining the reason for this operation. This can be an invoice or a contract.",
-    "document-btn": "Add my document"
+    "document-btn": "Add my document",
+    "give-account-info-to-sender": "Give these account details to the Sender",
+    "receive-flow-send-money-vban": "Ask them to send your CHF by bank transfer to <strong>your new nominative Swiss IBAN in CHF</strong> detailed below. You can also find these information in the IBAN & documents section later on.",
+    "receive-flow-send-money": "Ask them to <strong>send exactly  {{amount}} by bank transfer to b-sharpe’s account detailed below.</strong> You can also find these information in the IBAN & documents section later on.",
+    "pay-by-manual-bank-transfer": "Pay by manual bank transfer",
+    "send-flow-send-money-vban": "Connect to your online banking or contact you bank. Make sure you’re paying in {{currency}} and transfer <strong>exactly {{amount}}</strong> to your <strong>new nominative Swiss IBAN in {{currency}}</strong> detailed below.",
+    "send-flow-send-money": "Connect to your online banking or contact you bank. Make sure you’re paying in {{currency}} and transfer <strong>exactly {{amount}}</strong> to b-sharpe’s {{currency}} account."
   },
   "rib-updated": {
     "alert": "To continue enjoying our services, please update our IBAN.",

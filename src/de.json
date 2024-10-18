@@ -331,6 +331,7 @@
     "input-amount-receive-label": "Exakter Betrag",
     "input-origin-country-label": "Land, aus dem die Mittel stammen",
     "btn-review-label": "Überprüfen",
+    "review-details": "",
     "btn-confirm-label": "Bestätigen",
     "you-send": "Sie senden uns",
     "you-receive": "Sie erhalten",
@@ -373,7 +374,13 @@
     "modal-confirm-buy-no-real-rate-content": "Wir können Ihnen im Moment keinen Kurs für diese Operation zur Verfügung stellen. Wenn Sie trotzdem bestätigen, bedeutet dies, dass Sie den von uns angegebenen Kurs akzeptieren. Andernfalls können Sie sich an unser Handelsteam wenden, um den Kurs zu sperren.",
     "document": "Dokument",
     "document-legal-reason": "Aus rechtlichen Gründen benötigen wir ein Dokument, das den Grund für diese Operation erläutert. Dies kann eine Rechnung oder ein Vertrag sein.",
-    "document-btn": "Mein Dokument hinzufügen"
+    "document-btn": "Mein Dokument hinzufügen",
+    "give-account-info-to-sender": "",
+    "receive-flow-send-money-vban": "",
+    "receive-flow-send-money": "",
+    "pay-by-manual-bank-transfer": "",
+    "send-flow-send-money-vban": "",
+    "send-flow-send-money": ""
   },
   "rib-updated": {
     "alert": "Um weiterhin unsere Dienste zu genießen, aktualisieren Sie bitte unsere IBAN.",
