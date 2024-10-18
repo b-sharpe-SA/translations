@@ -303,7 +303,6 @@
   },
   "new-operation": {
     "title": "Cambio Valuta",
-    "alert-flow-changed": "Abbiamo ridisegnato il modo di creare un'operazione. Speriamo ti piaccia!",
     "btn-send-money-label": "Invia denaro per il cambio",
     "btn-send-money-description": "Fai un bonifico dalla tua banca",
     "btn-receive-money-label": "Ricevi denaro da un terzo",
@@ -313,8 +312,12 @@
     "beneficiary-step-subtitle": "Seleziona il conto bancario dove desideri inviare i soldi.",
     "receive-money-title": "Ricevi denaro",
     "receive-money-subtitle": "Raccontaci di più sul denaro che ti aspetti",
-    "receive-money-info": "Come funziona? Vuoi ricevere denaro da un terzo in una valuta specifica ma non hai un conto bancario in quella valuta. Possiamo riceverlo, cambiarlo e trasferirti i soldi. Se vuoi ricevere il tuo stipendio, non dimenticare di fornire prima il documento dell'azienda al tuo datore di lavoro.",
-    "receive-money-disclaimer": "Accettiamo solo denaro da uno dei seguenti terzi:",
+    "receive-money-info-title": "",
+    "receive-money-info-description-item-1": "",
+    "receive-money-info-description-item-2": "",
+    "receive-money-info-description-item-3": "",
+    "receive-money-info-disclaimer-title": "",
+    "receive-money-info-disclaimer-end": "",
     "source-funds-employer": "Datore di lavoro",
     "source-funds-health-insurance": "Assicurazione sanitaria (Lamal)",
     "source-funds-tax-administration": "Amministrazione fiscale",
@@ -1039,7 +1042,7 @@
     "data-protection": "https://www.b-sharpe.com/it/protezione-dei-dati/",
     "legal-notice": "https://www.b-sharpe.com/it/note-legali/",
     "customer-service": "https://www.b-sharpe.com/it/contatti/",
-    "rate": "https://www.b-sharpe.com/it/tasso/"
+    "rate": "https://www.b-sharpe.com/it/tasso/",
     "services": "https://www.b-sharpe.com/it/come-funziona/",
     "pricing": "https://www.b-sharpe.com/it/spese-di-cambio/",
     "about-us": "https://www.b-sharpe.com/it/chi-siamo/"
