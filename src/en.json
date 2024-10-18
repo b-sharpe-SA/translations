@@ -929,7 +929,7 @@
     "enter-address": "Please enter your address",
     "add-address-manually": "Manually add my address",
     "proof-of-residence": "Proof of residence",
-    "proof-of-residence-description": "Please upload a proof of address dated within the last 3 months. It can be one of the following documents:",
+    "proof-of-residence-description": "Please upload a proof of address dated within the last 6 months. It can be one of the following documents:",
     "proof-of-residence-item-1": "Water, electricity, gas, phone, or internet bill",
     "proof-of-residence-item-2": "Bank statement",
     "proof-of-residence-item-3": "Insurance certificate (health, home, vehicle)",
