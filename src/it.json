@@ -927,7 +927,7 @@
     "enter-address": "Inserisci il tuo indirizzo",
     "add-address-manually": "Aggiungi manualmente il mio indirizzo",
     "proof-of-residence": "Documento comprovante la residenza",
-    "proof-of-residence-description": "Carica un documento comprovante la residenza datato entro gli ultimi 3 mesi. Può essere uno dei seguenti documenti:",
+    "proof-of-residence-description": "Carica un documento comprovante la residenza datato entro gli ultimi 6 mesi. Può essere uno dei seguenti documenti:",
     "proof-of-residence-item-1": "Fattura dell'acqua, dell'elettricità, del gas, del telefono o di internet",
     "proof-of-residence-item-2": "Estratto conto bancario",
     "proof-of-residence-item-3": "Certificato di assicurazione (salute, casa, veicolo)",
