@@ -926,7 +926,7 @@
     "enter-address": "Bitte geben Sie Ihre Adresse ein",
     "add-address-manually": "Adresse manuell hinzufügen",
     "proof-of-residence": "Wohnsitznachweis",
-    "proof-of-residence-description": "Bitte laden Sie einen Wohnsitznachweis hoch, der innerhalb der letzten 3 Monate datiert ist. Es kann sich um eines der folgenden Dokumente handeln:",
+    "proof-of-residence-description": "Bitte laden Sie einen Wohnsitznachweis hoch, der innerhalb der letzten 6 Monate datiert ist. Es kann sich um eines der folgenden Dokumente handeln:",
     "proof-of-residence-item-1": "Wasser-, Strom-, Gas-, Telefon- oder Internetrechnung",
     "proof-of-residence-item-2": "Kontoauszug",
     "proof-of-residence-item-3": "Versicherungsnachweis (Gesundheit, Wohnung, Fahrzeug)",
