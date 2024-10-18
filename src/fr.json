@@ -931,7 +931,7 @@
     "enter-address": "Veuillez entrer votre adresse",
     "add-address-manually": "Ajouter manuellement mon adresse",
     "proof-of-residence": "Justificatif de domicile",
-    "proof-of-residence-description": "Veuillez télécharger un justificatif de domicile datant de moins de 3 mois. Il peut s'agir de l'un des documents suivants :",
+    "proof-of-residence-description": "Veuillez télécharger un justificatif de domicile datant de moins de 6 mois. Il peut s'agir de l'un des documents suivants :",
     "proof-of-residence-item-1": "Facture d'eau, d'électricité, de gaz, de téléphone ou internet",
     "proof-of-residence-item-2": "Courrier bancaire",
     "proof-of-residence-item-3": "Attestation d'assurance (santé, habitation, véhicule)",
