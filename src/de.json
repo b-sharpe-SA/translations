@@ -188,7 +188,7 @@
     "phone-changed-contact-us": "Haben Sie Ihre Telefonnummer geändert? Kontaktieren Sie unseren Kundenservice unter {{phone}}",
     "Submit my request": "Meine Anfrage absenden",
     "company-registration-hear-about-us-placeholder": "Internet, berufliches Netzwerk...",
-    "404-title": "Seite nicht gefunden :(",
+    "404-title": "Seite nicht gefunden:(",
     "404-description": "Hoppla! Sie scheinen verloren zu sein.",
     "404-back-button": "Zurück zum Index",
     "qr-bill": "QR-Rechnung",
@@ -1137,7 +1137,7 @@
     "consent-modal-content":"Um die bestmögliche Erfahrung mit unserer App zu bieten, müssen wir einige Navigationsinformationen sammeln.",
     "consent-modal-disagree":"Ich stimme nicht zu",
     "consent-modal-tell-me-more":"Erzähl mir mehr",
-    "consent-modal-agree":"Okay !",
+    "consent-modal-agree":"Okay!",
     "consent-modal-url":"https://www.b-sharpe.com/de/datenschutz-richtlinien/",
     "use-password-title": "Verwenden Sie Ihr Passwort",
     "document-selector": {
