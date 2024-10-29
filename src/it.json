@@ -325,11 +325,11 @@
     "source-funds-pension": "Pensione/AVS/AI",
     "receive-money-checkbox-no-show-label": "Non mostrare più questo messaggio",
     "btn-receive-money-now-label": "Ricevi denaro",
-    "input-source-funds-label": "Origine dei fondi",
+    "input-source-funds-label": "",
     "input-source-funds-ref-placeholder-employer": "Nome del datore di lavoro",
     "input-source-funds-ref-placeholder": "Riferimento",
     "input-amount-receive-label": "Importo esatto",
-    "input-origin-country-label": "Paese di provenienza dei fondi",
+    "input-origin-country-label": "",
     "btn-review-label": "Rivedi",
     "review-details": "",
     "btn-confirm-label": "Conferma",
@@ -337,7 +337,7 @@
     "you-receive": "Ricevi",
     "you-should-receive": "Dovresti ricevere",
     "you-should-send": "Dovresti inviare",
-    "you-expect": "Ti aspetti",
+    "receive-expected-amount":"",
     "btn-change-amount-label": "Cambia importo",
     "btn-change-recipient-label": "Cambia beneficiario",
     "in-account": "Nel conto",
@@ -380,7 +380,8 @@
     "receive-flow-send-money": "",
     "pay-by-manual-bank-transfer": "",
     "send-flow-send-money-vban": "",
-    "send-flow-send-money": ""
+    "send-flow-send-money": "",
+    "add-beneficiary-type-title":""
   },
   "rib-updated": {
     "alert": "Per continuare a godere dei nostri servizi, si prega di aggiornare il nostro IBAN.",

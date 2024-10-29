@@ -325,11 +325,11 @@
     "source-funds-pension": "Rente/AVS/AI",
     "receive-money-checkbox-no-show-label": "Diesen Hinweis nicht mehr anzeigen",
     "btn-receive-money-now-label": "Geld erhalten",
-    "input-source-funds-label": "Herkunft der Mittel",
+    "input-source-funds-label": "",
     "input-source-funds-ref-placeholder-employer": "Name des Arbeitgebers",
     "input-source-funds-ref-placeholder": "Referenz",
     "input-amount-receive-label": "Exakter Betrag",
-    "input-origin-country-label": "Land, aus dem die Mittel stammen",
+    "input-origin-country-label": "",
     "btn-review-label": "Überprüfen",
     "review-details": "",
     "btn-confirm-label": "Bestätigen",
@@ -337,7 +337,7 @@
     "you-receive": "Sie erhalten",
     "you-should-receive": "Sie sollten erhalten",
     "you-should-send": "Sie sollten senden",
-    "you-expect": "Sie erwarten",
+    "receive-expected-amount":"",
     "btn-change-amount-label": "Betrag ändern",
     "btn-change-recipient-label": "Begünstigten ändern",
     "in-account": "Im Konto",
@@ -380,7 +380,8 @@
     "receive-flow-send-money": "",
     "pay-by-manual-bank-transfer": "",
     "send-flow-send-money-vban": "",
-    "send-flow-send-money": ""
+    "send-flow-send-money": "",
+    "add-beneficiary-type-title":""
   },
   "rib-updated": {
     "alert": "Um weiterhin unsere Dienste zu genießen, aktualisieren Sie bitte unsere IBAN.",

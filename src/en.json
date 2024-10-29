@@ -325,11 +325,11 @@
     "source-funds-pension": "Pension/AVS/AI",
     "receive-money-checkbox-no-show-label": "Don’t show again",
     "btn-receive-money-now-label": "Receive money now",
-    "input-source-funds-label": "Origin of funds",
+    "input-source-funds-label": "Sender",
     "input-source-funds-ref-placeholder-employer": "Employer's name",
     "input-source-funds-ref-placeholder": "Reference",
     "input-amount-receive-label": "Exact amount",
-    "input-origin-country-label": "Country where the funds originate",
+    "input-origin-country-label": "Sender's country",
     "btn-review-label": "Review",
     "review-details": "Review details",
     "btn-confirm-label": "Continue to instructions",
@@ -337,7 +337,7 @@
     "you-receive": "You receive",
     "you-should-receive": "You should receive",
     "you-should-send": "You should send",
-    "you-expect": "You expect",
+    "receive-expected-amount":"They send us exactly",
     "btn-change-amount-label": "Change amount",
     "btn-change-recipient-label": "Change beneficiary",
     "in-account": "In the account",
@@ -380,7 +380,8 @@
     "receive-flow-send-money": "Ask them to <strong>send exactly  {{amount}} by bank transfer to b-sharpe’s account detailed below.</strong> You can also find these information in the IBAN & documents section later on.",
     "pay-by-manual-bank-transfer": "Pay by manual bank transfer",
     "send-flow-send-money-vban": "Connect to your online banking or contact you bank. Make sure you’re paying in {{currency}} and transfer <strong>exactly {{amount}}</strong> to your <strong>new nominative Swiss IBAN in {{currency}}</strong> detailed below.",
-    "send-flow-send-money": "Connect to your online banking or contact you bank. Make sure you’re paying in {{currency}} and transfer <strong>exactly {{amount}}</strong> to b-sharpe’s {{currency}} account."
+    "send-flow-send-money": "Connect to your online banking or contact you bank. Make sure you’re paying in {{currency}} and transfer <strong>exactly {{amount}}</strong> to b-sharpe’s {{currency}} account.",
+    "add-beneficiary-type-title": "Who shall receive money?"
   },
   "rib-updated": {
     "alert": "To continue enjoying our services, please update our IBAN.",
