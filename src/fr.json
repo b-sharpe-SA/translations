@@ -383,7 +383,7 @@
     "receive-flow-send-money-vban": "Partagez votre <strong>IBAN suisse personnel</strong> ci-dessous pour les virements en CHF 🇨🇭 (retrouvez-le aussi dans IBAN & Documents)",
     "receive-flow-send-money": "Demandez le transfert d'<strong>exactement {{amount}} vers le compte de b-sharpe ci-dessous</strong> ⬇️ (retrouvez-le aussi dans IBAN & Documents)",
     "pay-by-manual-bank-transfer": "Payer par virement bancaire classique",
-    "send-flow-send-money-vban": "Envoyez exactement <strong>{{amount}} {{currency}} </strong> sur votre IBAN suisse ci-dessous.",
+    "send-flow-send-money-vban": "Envoyez exactement <strong>{{amount}}</strong> sur votre IBAN suisse ci-dessous.",
     "send-flow-send-money": "Connectez-vous à votre e-banking ou contactez votre banque. Assurez-vous de payer en {{currency}} et transférez <strong>exactement {{amount}}</strong> sur votre <strong>nouvel IBAN suisse nominatif en {{currency}}</strong> détaillé ci-dessous.",
     "add-beneficiary-type-title":"Qui va recevoir cet argent ?"
   },
