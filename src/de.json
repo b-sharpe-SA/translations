@@ -1131,7 +1131,9 @@
     "error-biometry-unavailable": "{{sensor}} derzeit nicht verfügbar. Bitte versuchen Sie es später noch einmal",
     "error-invalid-phone-number": "Telefonnummer ungültig",
     "error-iban-already-exist": "Ein Begünstigter mit diesem IBAN existiert bereits",
-    "error-biometry-not-enrolled": "Sie sollten die Biometrie in Ihren Geräteeinstellungen einrichten."
+    "error-biometry-not-enrolled": "Sie sollten die Biometrie in Ihren Geräteeinstellungen einrichten.",
+    "max-length-exceeded": "Dieses Feld darf nicht mehr als {{max}} Zeichen enthalten.",
+    "forbidden-characters": "Dieses Feld enthält ungültige Zeichen: {{characters}}."
   },
   "currencies":{
     "EUR": "Euro",
