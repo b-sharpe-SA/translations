@@ -662,7 +662,9 @@
     "search-btn": "O cerca un indirizzo",
     "manually-btn": "O inseriscilo manualmente",
     "search-placeholder": "Cerca un indirizzo",
-    "no-options": "Nessun indirizzo corrisponde alla tua ricerca"
+    "no-options": "Nessun indirizzo corrisponde alla tua ricerca",
+    "loading": "Caricamento...",
+    "type-address": "Inserisci un indirizzo"
   },
   "rewards": {
     "rewards-details": "Dettagli ricompense",

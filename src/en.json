@@ -664,7 +664,9 @@
     "search-btn": "Or search for an address",
     "manually-btn": "Or enter it manually",
     "search-placeholder": "Search for an address",
-    "no-options": "No addresses match your search"
+    "no-options": "No addresses match your search",
+    "loading": "Loading...",
+    "type-address": "Type an address"
   },
   "rewards": {
     "rewards-details": "Rewards details",
