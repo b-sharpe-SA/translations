@@ -664,7 +664,8 @@
     "search-placeholder": "Cerca un indirizzo",
     "no-options": "Nessun indirizzo corrisponde alla tua ricerca",
     "loading": "Caricamento...",
-    "type-address": "Inserisci un indirizzo"
+    "type-address": "Inserisci un indirizzo",
+    "error-search-validation": "L'indirizzo è incompleto o non valido. Controlla i campi obbligatori o clicca su 'Inserisci indirizzo manualmente' per maggiori dettagli."
   },
   "rewards": {
     "rewards-details": "Dettagli ricompense",

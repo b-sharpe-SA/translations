@@ -666,7 +666,8 @@
     "search-placeholder": "Search for an address",
     "no-options": "No addresses match your search",
     "loading": "Loading...",
-    "type-address": "Type an address"
+    "type-address": "Type an address",
+    "error-search-validation": "The address is incomplete or invalid. Please review the required fields or click 'Enter Address Manually' for more details."
   },
   "rewards": {
     "rewards-details": "Rewards details",
