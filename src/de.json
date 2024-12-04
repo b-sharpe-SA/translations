@@ -663,7 +663,8 @@
     "search-placeholder": "Adresse suchen",
     "no-options": "Keine Adresse entspricht Ihrer Suche",
     "loading": "Laden...",
-    "type-address": "Geben Sie eine Adresse ein"
+    "type-address": "Geben Sie eine Adresse ein",
+    "error-search-validation": "Die Adresse ist unvollständig oder ungültig. Bitte überprüfen Sie die erforderlichen Felder oder klicken Sie auf 'Adresse manuell eingeben' für weitere Details."
   },
   "rewards": {
     "rewards-details": "Détails der Belohnungen",

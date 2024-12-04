@@ -668,7 +668,8 @@
     "search-placeholder": "Rechercher une adresse",
     "no-options": "Aucune adresse ne correspond à votre recherche",
     "loading": "Chargement...",
-    "type-address": "Saisissez une adresse"
+    "type-address": "Saisissez une adresse",
+    "error-search-validation": "L'adresse est incomplète ou invalide. Veuillez vérifier les champs requis ou cliquer sur 'Entrer l'adresse manuellement' pour plus de détails."
   },
   "rewards": {
     "rewards-details": "Détails de vos rewards",
