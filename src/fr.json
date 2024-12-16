@@ -1070,6 +1070,25 @@
       "list_header_webcam": "Utilisez votre téléphone pour prendre une photo de : "
     }
   },
+  "alerts":{
+    "hollidays":{
+      "banner": {
+        "notice": "Horaires exceptionnels pour les fêtes de fin d'année",
+        "cta": "Voir les horaires"
+      },
+      "modal": {
+        "title": "Horaires exceptionnels",
+        "subtitle": "Nos bureaux fermeront exceptionnellement :",
+        "dates": {
+          "dec_24": "Le mardi 24 Décembre 2024 à partir de 15h",
+          "dec_25_26": "Le mercredi 25 et jeudi 26 Décembre 2024 toute la journée",
+          "dec_31_jan_1": "Le mardi 31 Décembre et le mercredi 1er Janvier 2025 toute la journée"
+        },
+        "alert":"Nous vous souhaitons d'excellentes fêtes de fin d'année !\nL'équipe b-sharpe\nVous pouvez nous joindre au <strong>+41 22 311 11 82</strong> du lundi au vendredi de 9h à 18h"
+     },
+     "close": "Fermer"
+    }
+  },
   "error":{
     "error-required": "Requis",
     "error-min8Letters": "8 caractères minimum",
