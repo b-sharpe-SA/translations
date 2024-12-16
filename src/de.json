@@ -1065,6 +1065,25 @@
       "list_header_webcam": "Verwenden Sie Ihr Handy, um ein Bild aufzunehmen von:"
     }
   },
+  "alerts":{
+    "hollidays":{
+      "banner": {
+        "notice": "Orari speciali per le festività",
+        "cta": "Visualizza orari"
+      },
+      "modal": {
+        "title": "Orari speciali",
+        "subtitle": "I nostri uffici saranno eccezionalmente chiusi:",
+        "dates": {
+          "dec_24": "Martedì 24 Dicembre 2024 dalle ore 15",
+          "dec_25_26": "Mercoledì 25 e Giovedì 26 Dicembre 2024 tutto il giorno",
+          "dec_31_jan_1": "Martedì 31 Dicembre e Mercoledì 1 Gennaio 2025 tutto il giorno"
+        },
+      "alert":"Vi auguriamo buone feste!\nLa squadra B-sharpe\nPotete contattarci al <strong>+41 22 311 11 82</strong> dal lunedì al venerdì dalle 9 alle 18"
+     },
+     "close": "Chiudi"
+    }
+  },
   "error":{
     "error-required": "Pflichtfeld",
     "error-min8Letters": "Mindestlänge: 8 Zeichen",

@@ -1068,6 +1068,25 @@
       "list_header_webcam": "Use your phone to take a picture of:"
     }
   },
+  "alerts":{
+    "hollidays":{
+      "banner": {
+        "notice": "Special opening hours for the holiday season",
+        "cta": "View hours"
+      },
+      "modal": {
+        "title": "Special hours",
+        "subtitle": "Our offices will be exceptionally closed:",
+        "dates": {
+          "dec_24": "Tuesday, December 24, 2024 from 3 PM",
+          "dec_25_26": "Wednesday 25 and Thursday 26 December 2024 all day", 
+          "dec_31_jan_1": "Tuesday, December 31 and Wednesday, January 1, 2025 all day"
+        },
+        "alert":"We wish you wonderful holidays!\nThe B-sharpe Team\nYou can reach us at <strong>+41 22 311 11 82</strong> from Monday to Friday, 9 AM to 6 PM"
+     },
+     "close": "Close"
+    }
+  },
   "error":{
     "error-required": "Required",
     "error-min8Letters": "8 characters minimum",
