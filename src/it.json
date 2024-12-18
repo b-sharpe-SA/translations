@@ -1069,20 +1069,20 @@
   "alerts":{
     "hollidays":{
       "banner": {
-        "notice": "Besondere Öffnungszeiten für die Feiertage",
-        "cta": "Öffnungszeiten anzeigen"
-        },
+        "notice": "Orari speciali per le festività",
+        "cta": "Visualizza orari"
+      },
       "modal": {
-        "title": "Sonderöffnungszeiten",
-        "subtitle": "Unsere Büros bleiben ausnahmsweise geschlossen:",
+        "title": "Orari speciali",
+        "subtitle": "I nostri uffici saranno eccezionalmente chiusi:",
         "dates": {
-          "dec_24": "Dienstag, 24. Dezember 2024 ab 15 Uhr",
-          "dec_25_26": "Mittwoch 25. und Donnerstag 26. Dezember 2024 ganztägig",
-          "dec_31_jan_1": "Dienstag, 31. Dezember und Mittwoch, 1. Januar 2025 ganztägig"
+          "dec_24": "Martedì 24 Dicembre 2024 dalle ore 15",
+          "dec_25_26": "Mercoledì 25 e Giovedì 26 Dicembre 2024 tutto il giorno",
+          "dec_31_jan_1": "Martedì 31 Dicembre e Mercoledì 1 Gennaio 2025 tutto il giorno"
         },
-      "alert":"Wir wünschen Ihnen schöne Feiertage!\nDas B-sharpe Team\nSie erreichen uns unter <strong>+41 22 311 11 82</strong> von Montag bis Freitag, 9 bis 18 Uhr"
+      "alert":"Vi auguriamo buone feste!\nLa squadra B-sharpe\nPotete contattarci al <strong>+41 22 311 11 82</strong> dal lunedì al venerdì dalle 9 alle 18"
      },
-     "close": "Schließen"
+     "close": "Chiudi"
     }
   },
   "error":{
