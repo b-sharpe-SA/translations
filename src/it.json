@@ -662,7 +662,10 @@
     "search-btn": "O cerca un indirizzo",
     "manually-btn": "O inseriscilo manualmente",
     "search-placeholder": "Cerca un indirizzo",
-    "no-options": "Nessun indirizzo corrisponde alla tua ricerca"
+    "no-options": "Nessun indirizzo corrisponde alla tua ricerca",
+    "loading": "Caricamento...",
+    "type-address": "Inserisci un indirizzo",
+    "error-search-validation": "L'indirizzo è incompleto o non valido. Controlla i campi obbligatori o clicca su 'Inserisci indirizzo manualmente' per maggiori dettagli."
   },
   "rewards": {
     "rewards-details": "Dettagli ricompense",
@@ -1132,7 +1135,9 @@
     "error-biometry-unavailable": "{{sensor}} attualmente non disponibile. Per favore riprova più tardi",
     "error-invalid-phone-number": "Numero di telefono non valido",
     "error-iban-already-exist": "Un beneficiario con questo IBAN esiste già",
-    "error-biometry-not-enrolled": "Imposta i dati biometrici sul tuo dispositivo"
+    "error-biometry-not-enrolled": "Imposta i dati biometrici sul tuo dispositivo",
+    "max-length-exceeded": "Questo campo non può superare i {{max}} caratteri.",
+    "forbidden-characters": "Questo campo contiene caratteri non validi: {{characters}}."
   },
   "currencies":{
     "EUR": "Euro",

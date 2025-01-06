@@ -666,7 +666,10 @@
     "search-btn": "Ou rechercher une adresse",
     "manually-btn": "Ou la saisir manuellement",
     "search-placeholder": "Rechercher une adresse",
-    "no-options": "Aucune adresse ne correspond à votre recherche"
+    "no-options": "Aucune adresse ne correspond à votre recherche",
+    "loading": "Chargement...",
+    "type-address": "Saisissez une adresse",
+    "error-search-validation": "L'adresse est incomplète ou invalide. Veuillez vérifier les champs requis ou cliquer sur 'Entrer l'adresse manuellement' pour plus de détails."
   },
   "rewards": {
     "rewards-details": "Détails de vos rewards",
@@ -1136,8 +1139,9 @@
     "error-biometry-unavailable": "{{sensor}} actuellement indisponible. Veuillez réessayer plus tard",
     "error-invalid-phone-number": "Numéro de téléphone invalide",
     "error-iban-already-exist": "Un bénéficiaire avec cet IBAN existe déjà",
-    "error-biometry-not-enrolled": "Vous devez configurer la biométrie dans les paramètres de votre appareil"
-
+    "error-biometry-not-enrolled": "Vous devez configurer la biométrie dans les paramètres de votre appareil",
+    "max-length-exceeded": "Ce champ ne peut pas dépasser {{max}} caractères.",
+    "forbidden-characters": "Ce champ contient des caractères non valides : {{characters}}."
   },
   "currencies":{
     "EUR": "Euro",
