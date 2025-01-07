@@ -173,11 +173,6 @@
     "error-min-age": "18 years and older",
     "error-http-not-auth": "Your session has expired. Please log in again.",
     "error-pricing-disabled-description": "If you wish to block the live rate with our operations team, feel free to contact us at +41 22 311 11 85",
-    "Confirmed request": "Confirmed request",
-    "company-registration-success-description": "{{name}}, we have received your registration.\nYou will soon be contacted by our customer service to finalize your registration.",
-    
-    "By registering, you agree to our": "By registering, you agree to our ",
-    "and acknowledge the accuracy of the information provided.": "and acknowledge the accuracy of the information provided.",
     "forgot-password": "Forgot your password?",
     "You did not receive the email? Resend": "Did not receive the email? Resend.",
     "Check your sms": "Check your SMS",
@@ -1032,7 +1027,9 @@
     "submit-btn-label": "Submit my request",
     "terms-conditions-link": "terms and conditions",
     "terms-conditions-label": "By registering, you agree to our",
-    "terms-conditions-label-2": "and acknowledge the accuracy of the information provided."
+    "terms-conditions-label-2": "and acknowledge the accuracy of the information provided.",
+    "success-title": "Confirmed request",
+    "success-description": "{{name}}, we have received your registration.\nYou will soon be contacted by our customer service to finalize your registration."
   },
   "registration-remaining-steps": {
     "page-title-not-completed": "Account activation",
