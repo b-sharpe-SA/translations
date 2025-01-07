@@ -1034,6 +1034,24 @@
     "form-agreement": "Durch die Registrierung akzeptieren Sie unsere Allgemeinen Geschäftsbedingungen und bestätigen die Richtigkeit der bereitgestellten Informationen.",
     "form-title": "Kontaktinformationen"  
   },
+  "registration-company": {
+    "title": "Erstellen Sie Ihr Firmenkonto",
+    "description": "Bitte füllen Sie das untenstehende Formular aus, um Ihre Registrierungsanfrage zu senden.",
+    "company-information": "Firmeninformationen",
+    "company-name": "Firmenname",
+    "legal-form-label": "Rechtsform",
+    "country-label": "Registrierungsland",
+    "activity-label": "Geschäftsbereich",
+    "hear-about-us-label": "Wie haben Sie von uns gehört?",
+    "hear-about-us-helper-text": "Internet, berufliches Netzwerk...",
+    "personal-information": "Persönliche Informationen",
+    "submit-btn-label": "Meine Anfrage senden",
+    "terms-conditions-link": "Allgemeine Geschäftsbedingungen",
+    "terms-conditions-label": "Mit Ihrer Registrierung stimmen Sie unseren",
+    "terms-conditions-label-2": "zu und bestätigen die Richtigkeit der angegebenen Informationen.",
+    "success-title": "Anfrage bestätigt",
+    "success-description": "{{name}}, wir haben Ihre Registrierung erhalten.\nUnser Kundenservice wird Sie bald kontaktieren, um Ihre Registrierung abzuschließen."
+  },
   "registration-remaining-steps": {
     "page-title-not-completed": "Kontoaktivierung",
     "page-title-completed": "Laufende Überprüfung",

@@ -1039,6 +1039,24 @@
     "form-agreement": "En vous inscrivant, vous acceptez nos conditions générales d'utilisation et reconnaissez l'exactitude des informations fournies",
     "form-title": "Informations de contact"
   },
+  "registration-company": {
+    "title": "Créez votre compte entreprise",
+    "description": "Veuillez remplir le formulaire ci-dessous pour soumettre votre demande d'inscription.",
+    "company-information": "Informations sur l'entreprise",
+    "company-name": "Nom de l'entreprise",
+    "legal-form-label": "Forme juridique",
+    "country-label": "Pays d'enregistrement",
+    "activity-label": "Secteur d'activité",
+    "hear-about-us-label": "Comment avez-vous entendu parler de nous?",
+    "hear-about-us-helper-text": "Internet, réseau professionnel...",
+    "personal-information": "Informations personnelles",
+    "submit-btn-label": "Soumettre ma demande",
+    "terms-conditions-link": "termes et conditions",
+    "terms-conditions-label": "En vous inscrivant, vous acceptez nos",
+    "terms-conditions-label-2": "et reconnaissez l'exactitude des informations fournies.",
+    "success-title": "Demande confirmée",
+    "success-description": "{{name}}, nous avons reçu votre inscription.\nVous serez bientôt contacté par notre service client pour finaliser votre inscription."
+  },
   "registration-remaining-steps": {
     "page-title-not-completed": "Activation du compte",
     "page-title-completed": "Vérification en cours",

@@ -1035,6 +1035,24 @@
     "form-agreement": "Registrandoti, accetti i nostri termini e condizioni e riconosci l'accuratezza delle informazioni fornite.",
     "form-title": "Informazioni di contatto"
   },
+  "registration-company": {
+    "title": "Crea il tuo account aziendale",
+    "description": "Si prega di compilare il modulo sottostante per inviare la richiesta di registrazione.",
+    "company-information": "Informazioni sull'azienda",
+    "company-name": "Nome dell'azienda",
+    "legal-form-label": "Forma giuridica",
+    "country-label": "Paese di registrazione",
+    "activity-label": "Settore di attività",
+    "hear-about-us-label": "Come hai sentito parlare di noi?",
+    "hear-about-us-helper-text": "Internet, rete professionale...",
+    "personal-information": "Informazioni personali",
+    "submit-btn-label": "Invia la mia richiesta",
+    "terms-conditions-link": "termini e condizioni",
+    "terms-conditions-label": "Registrandoti, accetti i nostri",
+    "terms-conditions-label-2": "e riconosci l'accuratezza delle informazioni fornite.",
+    "success-title": "Richiesta confermata",
+    "success-description": "{{name}}, abbiamo ricevuto la tua registrazione.\nSarai presto contattato dal nostro servizio clienti per finalizzare la tua registrazione."
+  },
   "registration-remaining-steps": {
     "page-title-not-completed": "Attivazione account",
     "page-title-completed": "Verifica in corso",
