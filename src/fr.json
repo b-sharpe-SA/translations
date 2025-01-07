@@ -627,6 +627,7 @@
     "your-name": "Votre nom",
     "your-gender": "Votre genre",
     "field-required": "Ce champ est obligatoire",
+    "invalid-email": "Adresse e-mail invalide",
     "back": "Retour",
     "save": "Enregistrer",
     "promo-code": "Code promotionnel",

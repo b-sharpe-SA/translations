@@ -625,6 +625,7 @@
     "your-name": "Your name",
     "your-gender": "Your gender",
     "field-required": "This field is required",
+    "invalid-email": "Invalid email",
     "back": "Back",
     "save": "Save",
     "promo-code": "Promo Code",
