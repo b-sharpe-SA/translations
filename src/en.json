@@ -810,7 +810,9 @@
     "family-member-document-btn": "Add my document",
     "company-document-btn": "Add my payslip or contract",
     "company-name": "Company name",
-    "the-company": "The company"
+    "the-company": "The company",
+    "invalid-iban": "Invalid IBAN",
+    "invalid-swift": "Invalid SWIFT/BIC"
   },
   "rate-alert": {
     "currency-pair-unavailable": "Rate not available for this currency pair",

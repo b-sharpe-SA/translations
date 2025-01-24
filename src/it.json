@@ -808,7 +808,9 @@
     "family-member-document-btn": "Aggiungi il mio documento",
     "company-document-btn": "Aggiungi la mia busta paga o il mio contratto",
     "company-name": "Nome dell'azienda",
-    "the-company": "L'azienda"
+    "the-company": "L'azienda",
+    "invalid-iban": "IBAN non valido",
+    "invalid-swift": "SWIFT/BIC non valido"
   },
   "rate-alert": {
     "currency-pair-unavailable": "Tasso non disponibile per questa coppia di valute",

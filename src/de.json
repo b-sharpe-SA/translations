@@ -807,7 +807,9 @@
     "family-member-document-btn": "Mein Dokument hinzufügen",
     "company-document-btn": "Meine Gehaltsabrechnung oder meinen Vertrag hinzufügen",
     "company-name": "Name des Unternehmens",
-    "the-company": "Das Unternehmen"
+    "the-company": "Das Unternehmen",
+    "invalid-iban": "Ungültige IBAN",
+    "invalid-swift": "Ungültiger SWIFT/BIC"
 },
   "rate-alert": {
     "currency-pair-unavailable": "Rate nicht verfügbar für dieses Währungspaar",

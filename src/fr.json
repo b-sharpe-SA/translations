@@ -810,7 +810,9 @@
     "family-member-document-btn":"Ajouter mon document",
     "company-document-btn":"Ajouter ma fiche de salaire ou mon contrat",
     "company-name":"Nom de l'entreprise",
-    "the-company": "La société"
+    "the-company": "La société",
+    "invalid-iban": "IBAN invalide",
+    "invalid-swift": "SWIFT/BIC invalide"
   },
   "rate-alert": {
     "currency-pair-unavailable": "Taux non disponible pour cette paire de devises",
