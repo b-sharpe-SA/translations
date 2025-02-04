@@ -1090,6 +1090,18 @@
      "close": "Close"
     }
   },
+  "preference": {
+    "title": "Preferences",
+    "subtitle": "Customize your b-sharpe experience",
+    "notification": "Notifications",
+    "notification-description": "Stay informed about the latest news and real-time exchange rates.",
+    "newsletter": "Newsletters",
+    "newsletter-description": "I want to receive information about exchange rates, promotions, and b-sharpe news.",
+    "trackers": "Trackers",
+    "trackers-description": "I allow the collection of certain browsing information to improve my user experience.",
+    "biometrie": "Biometrics",
+    "biometrie-description": "I want to log in quickly and securely using my fingerprint or facial recognition."
+},
   "error":{
     "error-required": "Required",
     "error-min8Letters": "8 characters minimum",

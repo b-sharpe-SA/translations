@@ -1100,6 +1100,18 @@
      "close": "Fermer"
     }
   },
+  "preference":{
+    "title": "Préférences",
+    "subtitle": "Personnalisez votre expérience b-sharpe",
+    "notification": "Notifications",
+    "notification-description": "Soyez informé des dernières actualités et des taux de change en temps réel",
+    "newsletter": "Newsletters",
+    "newsletter-description": "Je souhaite recevoir des informations sur les taux de change, les promotions et les nouveautés b-sharpe.",
+    "trackers": "Trackers",
+    "trackers-description":"Je permet la collecte de certaines informations de navigation pour améliorer mon expérience d'utilisation.",
+    "biometrie": "Biometrie",
+    "biometrie-description": "Je souhaite me connecter rapidement et en toute sécurité avec mon empreinte digitale ou ma reconnaissance faciale."
+  },
   "error":{
     "error-required": "Requis",
     "error-min8Letters": "8 caractères minimum",
