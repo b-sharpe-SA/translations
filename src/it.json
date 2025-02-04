@@ -1011,7 +1011,10 @@
     "address-verification": "Verifica indirizzo",
     "usage": "Il tuo utilizzo",
     "beneficiary":"Beneficiario",
-    "accept-contract-tooltip":"Devi completare le altre sezioni prima di poter firmare il tuo contratto"
+    "accept-contract-tooltip":"Devi completare le altre sezioni prima di poter firmare il tuo contratto",
+    "invalid-date": "Data non valida",
+    "min-date-1900": "La data deve essere successiva al 01/01/1900",
+    "min-age-18": "Devi avere almeno 18 anni per creare un account"
   },
   "registration-corporate": {
     "title": "Creazione del tuo account aziendale",

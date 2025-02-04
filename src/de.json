@@ -1010,7 +1010,10 @@
     "address-verification": "Adressverifizierung",
     "usage": "Ihre Nutzung",
     "beneficiary":"Begünstigter",
-    "accept-contract-tooltip":"Sie müssen die anderen Abschnitte ausfüllen, bevor Sie Ihren Vertrag unterschreiben können"
+    "accept-contract-tooltip":"Sie müssen die anderen Abschnitte ausfüllen, bevor Sie Ihren Vertrag unterschreiben können",
+    "invalid-date": "Ungültiges Datum",
+    "min-date-1900": "Das Datum muss nach 1900 liegen",
+    "min-age-18": "Sie müssen mindestens 18 Jahre alt sein"
   },
   "registration-corporate": {
     "title": "Erstellung Ihres Geschäftskontos",

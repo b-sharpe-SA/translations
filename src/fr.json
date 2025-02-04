@@ -1013,7 +1013,10 @@
     "address-verification": "Vérification d’adresse",
     "usage": "Votre usage",
     "beneficiary":"Bénéficiaire des fonds",
-    "accept-contract-tooltip":"Vous devez compléter les autres sections avant de pouvoir signer votre contrat"
+    "accept-contract-tooltip":"Vous devez compléter les autres sections avant de pouvoir signer votre contrat",
+    "invalid-date": "Date invalide",
+    "min-date-1900": "La date doit être supérieure à 1900",
+    "min-age-18": "Vous devez avoir au moins 18 ans pour vous inscrire"
   },
   "registration-corporate":{
     "title": "Création de votre compte entreprise",

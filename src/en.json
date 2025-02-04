@@ -1013,7 +1013,10 @@
     "address-verification": "Address verification",
     "usage": "Your usage",
     "beneficiary":"Beneficiary",
-    "accept-contract-tooltip":"You must complete the other sections before you can sign your contract"
+    "accept-contract-tooltip":"You must complete the other sections before you can sign your contract",
+    "invalid-date": "Date is invalid",
+    "min-date-1900": "Date should be after 1900",
+    "min-age-18": "You must be at least 18 years old"
   },
   "registration-company": {
     "title": "Create your company account",
