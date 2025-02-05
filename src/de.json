@@ -642,7 +642,8 @@
     "in-progress": "In Bearbeitung",
     "your-employer": "Ihr Arbeitgeber",
     "thanks": "Danke!",
-    "download-success": "Heruntergeladenes Dokument"
+    "download-success": "Heruntergeladenes Dokument",
+    "preference": "Präferenzen"
   },
   "search-address-field": {
     "search-btn": "Nach einer Adresse suchen",
@@ -1097,6 +1098,18 @@
      "close": "Schließen"
     }
   },
+  "preference": {
+    "title": "Präferenzen",
+    "subtitle": "Passen Sie Ihr b-sharpe Erlebnis an",
+    "notification": "Benachrichtigungen",
+    "notification-description": "Bleiben Sie über die neuesten Nachrichten und Echtzeit-Wechselkurse informiert.",
+    "newsletter": "Newsletter",
+    "newsletter-description": "Ich möchte Informationen zu Wechselkursen, Aktionen und Neuigkeiten von b-sharpe erhalten.",
+    "trackers": "Datenerfassung",
+    "trackers-description": "Ich erlaube die Erfassung bestimmter Browserinformationen, um meine Benutzererfahrung zu verbessern.",
+    "biometrie": "Biometrie",
+    "biometrie-description": "Ich möchte mich schnell und sicher mit meinem Fingerabdruck oder meiner Gesichtserkennung anmelden."
+},
   "error":{
     "error-required": "Pflichtfeld",
     "error-min8Letters": "Mindestlänge: 8 Zeichen",
