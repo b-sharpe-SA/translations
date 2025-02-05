@@ -642,8 +642,8 @@
     "in-progress": "In corso",
     "your-employer": "Il tuo datore di lavoro",
     "thanks": "Grazie!",
-    "download-success": "Documento scaricato"
-  
+    "download-success": "Documento scaricato",
+    "preference": "Preferenze"
   },
   "search-address-field": {
     "search-btn": "O cerca un indirizzo",
@@ -1105,7 +1105,7 @@
     "notification-description": "Rimani informato sulle ultime notizie e sui tassi di cambio in tempo reale.",
     "newsletter": "Newsletter",
     "newsletter-description": "Desidero ricevere informazioni sui tassi di cambio, le promozioni e le novità di b-sharpe.",
-    "trackers": "Tracker",
+    "trackers": "Raccolta dati",
     "trackers-description": "Consento la raccolta di alcune informazioni di navigazione per migliorare la mia esperienza utente.",
     "biometrie": "Biometria",
     "biometrie-description": "Desidero accedere rapidamente e in sicurezza utilizzando la mia impronta digitale o il riconoscimento facciale."

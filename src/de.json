@@ -642,7 +642,8 @@
     "in-progress": "In Bearbeitung",
     "your-employer": "Ihr Arbeitgeber",
     "thanks": "Danke!",
-    "download-success": "Heruntergeladenes Dokument"
+    "download-success": "Heruntergeladenes Dokument",
+    "preference": "Präferenzen"
   },
   "search-address-field": {
     "search-btn": "Nach einer Adresse suchen",
@@ -1104,7 +1105,7 @@
     "notification-description": "Bleiben Sie über die neuesten Nachrichten und Echtzeit-Wechselkurse informiert.",
     "newsletter": "Newsletter",
     "newsletter-description": "Ich möchte Informationen zu Wechselkursen, Aktionen und Neuigkeiten von b-sharpe erhalten.",
-    "trackers": "Tracker",
+    "trackers": "Datenerfassung",
     "trackers-description": "Ich erlaube die Erfassung bestimmter Browserinformationen, um meine Benutzererfahrung zu verbessern.",
     "biometrie": "Biometrie",
     "biometrie-description": "Ich möchte mich schnell und sicher mit meinem Fingerabdruck oder meiner Gesichtserkennung anmelden."
