@@ -646,7 +646,8 @@
     "your-employer": "Votre employeur",
     "thanks": "Merci !",
     "download-success": "Document téléchargé",
-    "preference": "Préférences"
+    "preference": "Préférences",
+    "disabled": "Désactivé"
   },
   "search-address-field": {
     "search-btn": "Ou rechercher une adresse",
@@ -866,7 +867,8 @@
     "create-account-btn": "Créer un compte",
     "email-incorrect": "E-mail incorrect",
     "error-bad-credentials": "Le nom d'utilisateur est inconnu ou le mot de passe est incorrect.",
-    "initial-create-account": "Pas encore client ? Créez votre compte"
+    "initial-create-account": "Pas encore client ? Créez votre compte",
+    "select-customer": "Sélectionnez votre profil"
   },
   "reset-password": {
     "email-step-title": "Réinitialisez le mot de passe",

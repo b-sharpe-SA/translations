@@ -643,7 +643,8 @@
     "your-employer": "Il tuo datore di lavoro",
     "thanks": "Grazie!",
     "download-success": "Documento scaricato",
-    "preference": "Preferenze"
+    "preference": "Preferenze",
+    "disabled": "Disabilitato"
   },
   "search-address-field": {
     "search-btn": "O cerca un indirizzo",
@@ -863,7 +864,8 @@
     "create-account-btn": "Crea un account",
     "email-incorrect": "Email incorretta",
     "error-bad-credentials": "Nome utente sconosciuto o password errata.",
-    "initial-create-account": "Non sei ancora cliente? Crea il tuo account"
+    "initial-create-account": "Non sei ancora cliente? Crea il tuo account",
+    "select-customer": "Seleziona il tuo profilo"
   },
   "reset-password": {
     "email-step-title": "Ripristina Password",

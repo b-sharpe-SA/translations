@@ -646,7 +646,8 @@
     "your-employer": "Your employer",
     "thanks": "Thanks!",
     "download-success": "File downloaded",
-    "preference": "Preferences"
+    "preference": "Preferences",
+    "disabled": "Disabled"
   },
   "search-address-field": {
     "search-btn": "Or search for an address",
@@ -866,7 +867,8 @@
     "create-account-btn": "Create an account",
     "email-incorrect": "Incorrect email",
     "error-bad-credentials": "Unknown username or incorrect password.",
-    "initial-create-account": "Not a customer yet? Create your account"
+    "initial-create-account": "Not a customer yet? Create your account",
+    "select-customer": "Select your profile"
   },
   "reset-password": {
     "email-step-title": "Reset Password",
