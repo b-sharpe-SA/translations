@@ -731,7 +731,7 @@
     "add-btn": "Bankkonto hinzufügen",
     "no-data": "Sie haben derzeit kein Bankkonto.\nFügen Sie Ihr erstes Bankkonto hinzu, indem Sie oben rechts auf \"Bankkonto hinzufügen\" klicken.",
     "tooltip-pending": "Dieses Bankkonto befindet sich in der Warteschleife zur Validierung. Wir informieren Sie, sobald Sie es verwenden können.",
-    "add-beneficiary-success-message": "Ihr Bankkonto wurde erfolgreich hinzugefügt. Sie können es jetzt hinzufügen.",
+    "add-beneficiary-success-message": "Ihr Bankkonto wurde erfolgreich hinzugefügt. Sie können es jetzt verwenden.",
     "add-beneficiary-not-myself-success-message": "Ihr Bankkonto wurde erfolgreich hinzugefügt und befindet sich in der Warteschleife zur Validierung. Wir informieren Sie, sobald Sie es verwenden können.",
     "details-modal-title": "Bankkontodetails",
     "delete-beneficiary-btn": "Dieses Bankkonto löschen",

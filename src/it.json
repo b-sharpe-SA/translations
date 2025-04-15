@@ -731,7 +731,7 @@
     "add-btn": "Aggiungi un conto bancario",
     "no-data": "Al momento non hai alcun conto bancario.\nAggiungi il tuo primo conto bancario facendo clic su \"Aggiungi un conto bancario\" in alto a destra.",
     "tooltip-pending": "Questo conto bancario è in attesa di validazione. Ti informeremo non appena potrai utilizzarlo.",
-    "add-beneficiary-success-message": "Il tuo conto bancario è stato aggiunto con successo. Puoi aggiungerlo ora.",
+    "add-beneficiary-success-message": "Il tuo conto bancario è stato aggiunto con successo. Ora puoi utilizzarlo.",
     "add-beneficiary-not-myself-success-message": "Il tuo conto bancario è stato aggiunto con successo ed è in attesa di validazione. Ti informeremo non appena potrai utilizzarlo.",
     "details-modal-title": "Dettagli del conto bancario",
     "delete-beneficiary-btn": "Elimina questo conto bancario",

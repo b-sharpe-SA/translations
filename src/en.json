@@ -734,7 +734,7 @@
     "add-btn": "Add a bank account",
     "no-data": "You don't have any bank account at the moment.\nAdd your first bank account by clicking on \"Add a bank account\" at the top right.",
     "tooltip-pending": "This bank account is pending validation. We will inform you as soon as you can use it.",
-    "add-beneficiary-success-message": "Your bank account has been successfully added. You can add it now.",
+    "add-beneficiary-success-message": "Your bank account has been successfully added. You can use it now.",
     "add-beneficiary-not-myself-success-message": "Your bank account has been successfully added and is pending validation. We will inform you as soon as you can use it.",
     "details-modal-title": "Bank Account Details",
     "delete-beneficiary-btn": "Delete this bank account",

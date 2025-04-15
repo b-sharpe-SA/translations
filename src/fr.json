@@ -734,7 +734,7 @@
     "add-btn": "Ajouter un compte bancaire",
     "no-data": "Vous n'avez aucun compte bancaire pour le moment. \nAjoutez votre premier compte bancaire en cliquant sur \"Ajouter un compte bancaire\" en haut à droite.",
     "tooltip-pending": "Ce compte bancaire est en cours de validation. Nous vous informerons dès que vous pourrez l'utiliser.",
-    "add-beneficiary-success-message": "Votre compte bancaire a bien été ajouté. Vous pouvez l'ajouter dès maintenant.",
+    "add-beneficiary-success-message": "Votre compte bancaire a été ajouté avec succès. Vous pouvez l'utiliser dès maintenant.",
     "add-beneficiary-not-myself-success-message": "Votre compte bancaire a bien été ajouté et est en cours de validation. Nous vous informerons dès que vous pouvez l'utiliser",
     "details-modal-title": "Détails du compte bancaire",
     "delete-beneficiary-btn": "Supprimer ce compte bancaire",
