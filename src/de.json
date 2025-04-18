@@ -815,7 +815,7 @@
 },
   "rate-alert": {
     "currency-pair-unavailable": "Rate nicht verfügbar für dieses Währungspaar",
-    "title": "Kurse und Benachrichtigungen",
+    "title": "Wechselkurse\n & Warnungen",
     "my-currencies": "Meine Währungen",
     "disclaimer-interbank-rate": "Der angezeigte Kurs ist der Interbankkurs und beinhaltet nicht den Aufschlag von b-sharpe.",
     "alert-info": "Benachrichtigungen informieren Sie, wenn Ihr Ziel erreicht ist, damit Sie Ihre Transaktion zum besten Kurs durchführen können.",
