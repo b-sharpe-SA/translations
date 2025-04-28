@@ -767,7 +767,6 @@
     "generating": "Generating",
     "information-page-title": "We just need a few more information ",
     "information-page-question-1": "Have you understood that this Swiss IBAN can <strong>only receive CHF</strong>?",
-    "information-page-question-2": "Do you already have a Swiss bank account in CHF in your name?",
     "information-page-question-3": "Do you confirm that you’ll <strong>only receive money on this IBAN from legitimate Swiss organizations</strong> or from a bank account in your name?",
     "information-page-info": "We may suspend or close your account if funds received on your nominative IBAN comes from any other sources.",
     "error-creating-vban":"Couldn't create your nominative IBAN. Please try again.",

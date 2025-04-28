@@ -764,7 +764,6 @@
     "generating": "Generazione in corso",
     "information-page-title": "Abbiamo bisogno di alcune informazioni in più",
     "information-page-question-1": "Hai capito che questo IBAN svizzero è <strong>esclusivamente per ricevere CHF</strong>?",
-    "information-page-question-2": "Hai attualmente un conto bancario svizzero in CHF a tuo nome?",
     "information-page-question-3": "Puoi confermare che <strong>riceverai fondi su questo IBAN solo da organizzazioni svizzere autorizzate</strong> o da un conto bancario a tuo nome?",
     "information-page-info": "Potremmo sospendere o chiudere il tuo conto se i fondi ricevuti sul tuo IBAN personale provengono da fonti non autorizzate.",
     "error-creating-vban": "Non siamo riusciti a configurare il tuo IBAN personale. Riprova.",
