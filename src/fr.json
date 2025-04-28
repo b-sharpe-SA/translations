@@ -767,7 +767,6 @@
     "generating" : "Demande en cours",
     "information-page-title" : "Nous avons besoin de quelques informations supplémentaires",
     "information-page-question-1" : "Avez-vous compris que cet IBAN suisse est <strong>exclusivement réservé à la réception de CHF</strong> ?",
-    "information-page-question-2" : "Avez-vous actuellement un compte bancaire suisse en CHF à votre nom ?",
     "information-page-question-3" : "Confirmez-vous que vous <strong>ne recevrez des fonds sur cet IBAN que d'organisations suisses autorisées</strong> ou d'un compte bancaire à votre nom ?",
     "information-page-info" : "Nous nous réservons le droit de suspendre ou fermer votre compte si les fonds reçus sur votre IBAN personnel proviennent d'autres sources.",
     "error-creating-vban" : "Nous avons rencontré une erreur et n'avons pas pu configurer votre IBAN personnel. Veuillez réessayer.",

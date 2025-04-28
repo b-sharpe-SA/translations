@@ -764,7 +764,6 @@
     "generating": "Wird erstellt",
     "information-page-title": "Wir benötigen noch einige Informationen",
     "information-page-question-1": "Haben Sie verstanden, dass diese auf Ihren Namen lautende Schweizer IBAN <strong>nur CHF empfangen</strong> kann?",
-    "information-page-question-2": "Besitzen Sie bereits ein Schweizer Bankkonto in CHF auf Ihren Namen?",
     "information-page-question-3": "Bestätigen Sie, dass Sie <strong>nur Geld von legalen Schweizer Organisationen</strong> oder von einem Konto in Ihrem Namen auf diese IBAN erhalten?",
     "information-page-info": "Wir behalten uns vor, Ihr Konto bei Eingängen aus anderen Quellen auf Ihrer auf Ihren Namen lautenden IBAN zu sperren oder zu schließen.",
     "error-creating-vban": "Auf Ihren Namen lautende IBAN konnte nicht erstellt werden. Bitte versuchen Sie es erneut.",
