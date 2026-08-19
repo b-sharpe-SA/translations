@@ -566,6 +566,7 @@
     "alerts": "Alertes",
     "more": "Plus",
     "iban-documents": "IBAN & Documents",
+    "iban-b-sharpe": "IBAN B-Sharpe",
     "new-operation": "Nouvelle opération",
     "my-account": "Mon compte",
     "close": "Fermer",
@@ -648,7 +649,9 @@
     "thanks": "Merci !",
     "download-success": "Document téléchargé",
     "preference": "Préférences",
-    "disabled": "Désactivé"
+    "disabled": "Désactivé",
+    "settings": "Paramètres",
+    "welcome": "Bienvenue"
   },
   "search-address-field": {
     "search-btn": "Ou rechercher une adresse",
@@ -1258,6 +1261,30 @@
     "app-lock":{
       "sign-in-return": "Je ne suis pas",
       "sign-in-title": "Ravi de vous revoir, "
+    },
+    "settings-screen": {
+      "title": "Paramètres",
+      "personal-information": {
+        "title": "Informations personnelles",
+        "description": "Pour toute modification, veuillez contacter notre service client en cliquant sur le bouton d'aide en haut à droite de votre écran.",
+        "reference-field-label": "Référence",
+        "first-name-field-label": "Prénom",
+        "last-name-field-label": "Nom",
+        "email-field-label": "E-mail"
+      },
+      "language": {
+        "title": "Langue",
+        "description": "Changez la langue d'affichage et correspondance",
+        "language-field-label": "Votre langue"
+      },
+      "legal": {
+        "title": "Mentions légales",
+        "description": "Informations legales"
+      },
+      "delete-account": {
+        "title": "Supprimer votre compte",
+        "description": "Cette action supprimera définitivement votre compte personnel."
+      }
     }
   }
 }

@@ -566,6 +566,7 @@
     "alerts": "Alerts",
     "more": "More",
     "iban-documents": "IBAN & Documents",
+    "iban-b-sharpe": "IBAN B-Sharpe",
     "new-operation": "New operation",
     "my-account": "My account",
     "close": "Close",
@@ -648,7 +649,9 @@
     "thanks": "Thanks!",
     "download-success": "File downloaded",
     "preference": "Preferences",
-    "disabled": "Disabled"
+    "disabled": "Disabled",
+    "settings": "Settings",
+    "welcome": "Welcome"
   },
   "search-address-field": {
     "search-btn": "Or search for an address",
@@ -1248,6 +1251,30 @@
     "app-lock": {
       "sign-in-return": "I'm not",
       "sign-in-title": "Glad to see you again, "
+    },
+    "settings-screen": {
+      "title": "Settings",
+      "personal-information": {
+        "title": "Personal information",
+        "description": "For further modifications, please contact our customer service by clicking on the help button at the top right of your screen.",
+        "reference-field-label": "Reference",
+        "first-name-field-label": "First name",
+        "last-name-field-label": "Last name",
+        "email-field-label": "Email"
+      },
+      "language": {
+        "title": "Language",
+        "description": "Change the display and correspondence language",
+        "language-field-label": "Your language"
+      },
+      "legal": {
+        "title": "Legal",
+        "description": "Legal information"
+      },
+      "delete-account": {
+        "title": "Delete your account",
+        "description": "This action will permanently delete your personal account."
+      }
     }
   }
 }
