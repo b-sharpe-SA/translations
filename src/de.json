@@ -1258,30 +1258,30 @@
     "app-lock": {
       "sign-in-return": "Ich bin nicht",
       "sign-in-title": "Freut mich, dich wiederzusehen, "
+    }
+  },
+  "settings-screen": {
+    "title": "Einstellungen",
+    "personal-information": {
+      "title": "Persönliche Informationen",
+      "description": "Für weitere Änderungen wenden Sie sich bitte an unseren Kundenservice, indem Sie oben rechts auf Ihrer Bildschirmseite auf die Hilfe-Schaltfläche klicken.",
+      "reference-field-label": "Referenz",
+      "first-name-field-label": "Vorname",
+      "last-name-field-label": "Nachname",
+      "email-field-label": "E-Mail"
     },
-    "settings-screen": {
-      "title": "Einstellungen",
-      "personal-information": {
-        "title": "Persönliche Informationen",
-        "description": "Für weitere Änderungen wenden Sie sich bitte an unseren Kundenservice, indem Sie oben rechts auf Ihrer Bildschirmseite auf die Hilfe-Schaltfläche klicken.",
-        "reference-field-label": "Referenz",
-        "first-name-field-label": "Vorname",
-        "last-name-field-label": "Nachname",
-        "email-field-label": "E-Mail"
-      },
-      "language": {
-        "title": "Sprache",
-        "description": "Ändern Sie die Anzeige- und Korrespondenzsprache",
-        "language-field-label": "Ihre Sprache"
-      },
-      "legal": {
-        "title": "Rechtliches",
-        "description": "Rechtliche Informationen"
-      },
-      "delete-account": {
-        "title": "Konto löschen",
-        "description": "Diese Aktion löscht Ihr persönliches Konto dauerhaft."
-      }
+    "language": {
+      "title": "Sprache",
+      "description": "Ändern Sie die Anzeige- und Korrespondenzsprache",
+      "language-field-label": "Ihre Sprache"
+    },
+    "legal": {
+      "title": "Rechtliches",
+      "description": "Rechtliche Informationen"
+    },
+    "delete-account": {
+      "title": "Konto löschen",
+      "description": "Diese Aktion löscht Ihr persönliches Konto dauerhaft."
     }
   }
 }

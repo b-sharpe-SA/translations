@@ -1225,30 +1225,30 @@
       "app-lock": {
          "sign-in-return": "Não sou eu",
          "sign-in-title": "Que bom ver você de novo, "
+      }
+   },
+   "settings-screen": {
+      "title": "Configurações",
+      "personal-information": {
+         "title": "Informações pessoais",
+         "description": "Para outras modificações, entre em contato com nosso atendimento ao cliente clicando no botão de ajuda no canto superior direito da tela.",
+         "reference-field-label": "Referência",
+         "first-name-field-label": "Nome",
+         "last-name-field-label": "Sobrenome",
+         "email-field-label": "Email"
       },
-      "settings-screen": {
-         "title": "Configurações",
-         "personal-information": {
-            "title": "Informações pessoais",
-            "description": "Para outras modificações, entre em contato com nosso atendimento ao cliente clicando no botão de ajuda no canto superior direito da tela.",
-            "reference-field-label": "Referência",
-            "first-name-field-label": "Nome",
-            "last-name-field-label": "Sobrenome",
-            "email-field-label": "Email"
-         },
-         "language": {
-            "title": "Idioma",
-            "description": "Altere o idioma de exibição e correspondência",
-            "language-field-label": "Seu idioma"
-         },
-         "legal": {
-            "title": "Legal",
-            "description": "Informações legais"
-         },
-         "delete-account": {
-            "title": "Excluir sua conta",
-            "description": "Esta ação excluirá permanentemente sua conta pessoal."
-         }
+      "language": {
+         "title": "Idioma",
+         "description": "Altere o idioma de exibição e correspondência",
+         "language-field-label": "Seu idioma"
+      },
+      "legal": {
+         "title": "Legal",
+         "description": "Informações legais"
+      },
+      "delete-account": {
+         "title": "Excluir sua conta",
+         "description": "Esta ação excluirá permanentemente sua conta pessoal."
       }
    }
 }

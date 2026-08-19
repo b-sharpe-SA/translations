@@ -1258,30 +1258,30 @@
     "app-lock": {
       "sign-in-return": "Non sono",
       "sign-in-title": "Felice di rivederti, "
+    }
+  },
+  "settings-screen": {
+    "title": "Impostazioni",
+    "personal-information": {
+      "title": "Informazioni personali",
+      "description": "Per ulteriori modifiche, contatta il nostro servizio clienti cliccando sul pulsante di aiuto in alto a destra dello schermo.",
+      "reference-field-label": "Riferimento",
+      "first-name-field-label": "Nome",
+      "last-name-field-label": "Cognome",
+      "email-field-label": "Email"
     },
-    "settings-screen": {
-      "title": "Impostazioni",
-      "personal-information": {
-        "title": "Informazioni personali",
-        "description": "Per ulteriori modifiche, contatta il nostro servizio clienti cliccando sul pulsante di aiuto in alto a destra dello schermo.",
-        "reference-field-label": "Riferimento",
-        "first-name-field-label": "Nome",
-        "last-name-field-label": "Cognome",
-        "email-field-label": "Email"
-      },
-      "language": {
-        "title": "Lingua",
-        "description": "Cambia la lingua di visualizzazione e corrispondenza",
-        "language-field-label": "La tua lingua"
-      },
-      "legal": {
-        "title": "Note legali",
-        "description": "Informazioni legali"
-      },
-      "delete-account": {
-        "title": "Elimina il tuo account",
-        "description": "Questa azione eliminerà definitivamente il tuo account personale."
-      }
+    "language": {
+      "title": "Lingua",
+      "description": "Cambia la lingua di visualizzazione e corrispondenza",
+      "language-field-label": "La tua lingua"
+    },
+    "legal": {
+      "title": "Note legali",
+      "description": "Informazioni legali"
+    },
+    "delete-account": {
+      "title": "Elimina il tuo account",
+      "description": "Questa azione eliminerà definitivamente il tuo account personale."
     }
   }
 }
