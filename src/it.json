@@ -648,7 +648,10 @@
     "preference": "Preferenze",
     "disabled": "Disabilitato",
     "settings": "Impostazioni",
-    "welcome": "Benvenuto"
+    "welcome": "Benvenuto",
+    "good-morning": "Buongiorno",
+    "good-afternoon": "Buon pomeriggio",
+    "good-evening": "Buonasera"
   },
   "search-address-field": {
     "search-btn": "O cerca un indirizzo",
@@ -1285,5 +1288,14 @@
       "title": "Elimina il tuo account",
       "description": "Questa azione eliminerà definitivamente il tuo account personale."
     }
+  },
+  "get-app-button": {
+    "title": "Scarica b·sharpe sul tuo telefono",
+    "subtitle": "Scarica l'app mobile"
+  },
+  "promo-box": {
+    "title": "Invita i tuoi amici!",
+    "description": "Ricevi 30 CHF una volta che hanno cambiato 4000 CHF.",
+    "button": "Invita un amico"
   }
 }

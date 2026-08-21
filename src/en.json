@@ -323,7 +323,7 @@
     "you-receive": "You receive",
     "you-should-receive": "You should receive",
     "you-should-send": "You should send",
-    "receive-expected-amount":"They send us exactly",
+    "receive-expected-amount": "They send us exactly",
     "btn-change-amount-label": "Change amount",
     "btn-change-recipient-label": "Change beneficiary",
     "in-account": "In the account",
@@ -379,7 +379,7 @@
     "modal-text-3": "You can now send us your funds, and we will convert them as usual!",
     "modal-alert": "You can reach us at <strong>+41 22 311 11 82</strong> from Monday to Friday, 9am to 6pm.",
     "modal-cta": "See the new IBAN"
-  },  
+  },
   "account": {
     "finish-setup": "{{firstName}}, Finish setting up your account to unlock all features.",
     "personal-information": "Personal information",
@@ -651,7 +651,10 @@
     "preference": "Preferences",
     "disabled": "Disabled",
     "settings": "Settings",
-    "welcome": "Welcome"
+    "welcome": "Welcome",
+    "good-morning": "Good morning",
+    "good-afternoon": "Good afternoon",
+    "good-evening": "Good evening"
   },
   "search-address-field": {
     "search-btn": "Or search for an address",
@@ -673,7 +676,7 @@
     "your-reward": "Your rewards",
     "referral": "Referral",
     "rate-referral": "Discount on rate",
-    "complimentary-fees":"Complimentary fees",
+    "complimentary-fees": "Complimentary fees",
     "referral-details-receive": "🎉 Thanks to your rewards, <strong>you will receive {{amount}} more<strong> on your account.",
     "referral-details-send": "🎉 Thanks to your rewards, <strong>you will send {{amount}} less<strong> from your account.",
     "referral-details-2": "🏦 With our preferential rate, you save approximately {{amount}} compared to a traditional bank."
@@ -761,10 +764,10 @@
     "claim-info-box-btn-label": "Claim my Swiss nominative IBAN",
     "claim-page-title": "Speed up CHF transfers with a Swiss IBAN in your name",
     "claim-page-description": "Get your own Swiss IBAN to receive CHF from Swiss companies and organisations, change it automatically and receive it in your own bank account (EUR, etc.) without thinking about it.",
-    "claim-page-description-list-item-1":"It’s <strong>accepted by all Swiss employers</strong>, Health insurances, etc.",
-    "claim-page-description-list-item-2":"It allows us to process your money <strong>even faster</strong>!",
-    "claim-page-description-list-item-3":"Got just one active recipient account in your name?  Perfect! b-sharpe will automatically convert and send your money there - <strong>no extra steps needed</strong>.",
-    "claim-page-description-list-item-4":"Your Swiss CHF IBAN is <strong>free</strong>! ",
+    "claim-page-description-list-item-1": "It’s <strong>accepted by all Swiss employers</strong>, Health insurances, etc.",
+    "claim-page-description-list-item-2": "It allows us to process your money <strong>even faster</strong>!",
+    "claim-page-description-list-item-3": "Got just one active recipient account in your name?  Perfect! b-sharpe will automatically convert and send your money there - <strong>no extra steps needed</strong>.",
+    "claim-page-description-list-item-4": "Your Swiss CHF IBAN is <strong>free</strong>! ",
     "claim-page-button-claim": "Claim my Swiss CHF IBAN",
     "do-it-later": "I don’t need one right now",
     "generate": "Generate",
@@ -773,7 +776,7 @@
     "information-page-question-1": "Have you understood that this Swiss IBAN can <strong>only receive CHF</strong>?",
     "information-page-question-3": "Do you confirm that you’ll <strong>only receive money on this IBAN from legitimate Swiss organizations</strong> or from a bank account in your name?",
     "information-page-info": "We may suspend or close your account if funds received on your nominative IBAN comes from any other sources.",
-    "error-creating-vban":"Couldn't create your nominative IBAN. Please try again.",
+    "error-creating-vban": "Couldn't create your nominative IBAN. Please try again.",
     "field-must-be-set-to-yes": "To qualify for a nominative IBAN, please select 'Yes'."
   },
   "new-bank-account": {
@@ -886,12 +889,12 @@
     "password-requirements": "Use a minimum of 8 characters, including at least one number and one special character (@$!%* #?&.,-)",
     "password-step-btn": "Set a new password"
   },
-  "forgot-password":{
+  "forgot-password": {
     "title": "Forgot Password? You can create a new one here",
     "description": "Enter the email address associated with your b-sharpe account.",
     "email-label": "Your email address",
     "submit-button-label": "Next",
-    "email-hint": "If your email is registered in our system, a code will be sent to you in your email inbox in the next step." 
+    "email-hint": "If your email is registered in our system, a code will be sent to you in your email inbox in the next step."
   },
   "registration": {
     "create-account": "Create an account",
@@ -976,7 +979,7 @@
     "accept-and-sign": "Accept and sign",
     "us-status-checked": "Our services are not available to US citizens or residents of the United States.",
     "proof-of-identity-desc": "Get ready! You'll need a valid passport or national identity card with an MRZ code.",
-    "proof-of-identity-button":"Start the identity verification",
+    "proof-of-identity-button": "Start the identity verification",
     "proof-of-identity-button-passport": "Check my passport",
     "proof-of-identity-button-id-card": "Check my ID card",
     "basic-informations": "Basic information",
@@ -1020,8 +1023,8 @@
     "email-verification": "Email verification",
     "address-verification": "Address verification",
     "usage": "Your usage",
-    "beneficiary":"Beneficiary",
-    "accept-contract-tooltip":"You must complete the other sections before you can sign your contract",
+    "beneficiary": "Beneficiary",
+    "accept-contract-tooltip": "You must complete the other sections before you can sign your contract",
     "invalid-date": "Date is invalid",
     "min-date-1900": "Date should be after 1900",
     "min-age-18": "You must be at least 18 years old"
@@ -1052,10 +1055,10 @@
     "todo": "To do",
     "in-review": "Ongoing check",
     "completed": "Completed",
-    "alert-box-title-info-required":"Important notice",
-    "alert-box-desc-info-required":"Welcome to b-sharpe! To start exchanging your funds and comply with banking regulations, we need you to complete some additional information. In the meantime, you can still explore our app, set up rate alerts, invite your friends, and more.",
-    "alert-box-title-waiting":"We're verifying your information",
-    "alert-box-btn":"Complete my registration"
+    "alert-box-title-info-required": "Important notice",
+    "alert-box-desc-info-required": "Welcome to b-sharpe! To start exchanging your funds and comply with banking regulations, we need you to complete some additional information. In the meantime, you can still explore our app, set up rate alerts, invite your friends, and more.",
+    "alert-box-title-waiting": "We're verifying your information",
+    "alert-box-btn": "Complete my registration"
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/en/general-terms-and-conditions/",
@@ -1073,14 +1076,14 @@
       "subtitle": "We cannot accept pictures of screens and photocopies.",
       "title": "Choose the document you want to use to verify your identity",
       "button_passport_detail": "Photo page",
-      "button_id_detail":"Front and back"      
+      "button_id_detail": "Front and back"
     },
     "welcome": {
       "list_header_webcam": "Use your phone to take a picture of:"
     }
   },
-  "alerts":{
-    "hollidays":{
+  "alerts": {
+    "hollidays": {
       "banner": {
         "notice": "Special opening hours for the holiday season",
         "cta": "View hours"
@@ -1090,12 +1093,12 @@
         "subtitle": "Our offices will be exceptionally closed:",
         "dates": {
           "dec_24": "Tuesday, December 24, 2024 from 3 PM",
-          "dec_25_26": "Wednesday 25 and Thursday 26 December 2024 all day", 
+          "dec_25_26": "Wednesday 25 and Thursday 26 December 2024 all day",
           "dec_31_jan_1": "Tuesday, December 31 and Wednesday, January 1, 2025 all day"
         },
-        "alert":"We wish you wonderful holidays!\nThe B-sharpe Team\nYou can reach us at <strong>+41 22 311 11 82</strong> from Monday to Friday, 9 AM to 6 PM"
-     },
-     "close": "Close"
+        "alert": "We wish you wonderful holidays!\nThe B-sharpe Team\nYou can reach us at <strong>+41 22 311 11 82</strong> from Monday to Friday, 9 AM to 6 PM"
+      },
+      "close": "Close"
     }
   },
   "preference": {
@@ -1109,8 +1112,8 @@
     "trackers-description": "I allow the collection of certain browsing information to improve my user experience.",
     "biometrie": "Biometrics",
     "biometrie-description": "I want to log in quickly and securely using my fingerprint or facial recognition."
-},
-  "error":{
+  },
+  "error": {
     "error-required": "Required",
     "error-min8Letters": "8 characters minimum",
     "error-matchPassword": "Passwords must match",
@@ -1161,7 +1164,7 @@
     "max-length-exceeded": "This field cannot exceed {{max}} characters.",
     "forbidden-characters": "This field contains invalid characters: {{characters}}."
   },
-  "currencies":{
+  "currencies": {
     "EUR": "Euro",
     "CHF": "Swiss Franc",
     "USD": "US Dollar",
@@ -1190,13 +1193,13 @@
     "TND": "Tunisian Dinar",
     "RUB": "Russian Ruble"
   },
-  "mobile":{
-    "consent-modal-title":"We take your privacy seriously",
-    "consent-modal-content":"To provide the best experience using our app, we need to collect some navigation information.",
-    "consent-modal-disagree":"I disagree",
-    "consent-modal-tell-me-more":"Tell me more",
-    "consent-modal-agree":"Okay!",
-    "consent-modal-url":"https://www.b-sharpe.com/en/data-protection-and-confidentiality/",
+  "mobile": {
+    "consent-modal-title": "We take your privacy seriously",
+    "consent-modal-content": "To provide the best experience using our app, we need to collect some navigation information.",
+    "consent-modal-disagree": "I disagree",
+    "consent-modal-tell-me-more": "Tell me more",
+    "consent-modal-agree": "Okay!",
+    "consent-modal-url": "https://www.b-sharpe.com/en/data-protection-and-confidentiality/",
     "use-password-title": "Use your password",
     "document-selector": {
       "title": "Select a document from",
@@ -1278,5 +1281,14 @@
       "title": "Delete your account",
       "description": "This action will permanently delete your personal account."
     }
+  },
+  "get-app-button": {
+    "title": "Get b·sharpe on your phone",
+    "subtitle": "Download the mobile app"
+  },
+  "promo-box": {
+    "title": "Refer your friends!",
+    "description": "You receive CHF 30 once they've exchanged CHF 4,000.",
+    "button": "Invite a friend"
   }
 }

@@ -648,7 +648,10 @@
     "preference": "Präferenzen",
     "disabled": "Deaktiviert",
     "settings": "Einstellungen",
-    "welcome": "Willkommen"
+    "welcome": "Willkommen",
+    "good-morning": "Guten Morgen",
+    "good-afternoon": "Guten Tag",
+    "good-evening": "Guten Abend"
   },
   "search-address-field": {
     "search-btn": "Nach einer Adresse suchen",
@@ -1285,5 +1288,14 @@
       "title": "Konto löschen",
       "description": "Diese Aktion löscht Ihr persönliches Konto dauerhaft."
     }
+  },
+  "get-app-button": {
+    "title": "Hol dir b·sharpe auf dein Handy",
+    "subtitle": "Lade die mobile App herunter"
+  },
+  "promo-box": {
+    "title": "Werben Sie Ihre Freunde!",
+    "description": "Sie erhalten 30 CHF, sobald diese 4000 CHF gewechselt haben.",
+    "button": "Freund einladen"
   }
 }
