@@ -859,6 +859,7 @@
   "login": {
     "welcome-txt": "Willkommen bei b-sharpe",
     "welcome-txt-mobile": "Hallo!",
+    "company-description": "Der Schweizer Geldwechseldienst",
     "signin-or-create": "Anmelden oder Konto erstellen",
     "email-label": "Ihre E-Mail-Adresse",
     "password-label": "Passwort",
@@ -868,7 +869,8 @@
     "email-incorrect": "Falsche E-Mail",
     "error-bad-credentials": "Unbekannter Benutzername oder falsches Passwort.",
     "initial-create-account": "Noch kein Kunde? Erstellen Sie Ihr Konto",
-    "select-customer": "Wählen Sie Ihr Profil"
+    "select-customer": "Wählen Sie Ihr Profil",
+    "continue-btn": "Weiter"
   },
   "reset-password": {
     "email-step-title": "Passwort zurücksetzen",

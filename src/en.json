@@ -862,6 +862,7 @@
   "login": {
     "welcome-txt": "Welcome to b-sharpe",
     "welcome-txt-mobile": "Hello!",
+    "company-description": "The Swiss Currency Exchange Service",
     "signin-or-create": "Sign in or create an account",
     "email-label": "Your email address",
     "password-label": "Password",
@@ -871,7 +872,8 @@
     "email-incorrect": "Incorrect email",
     "error-bad-credentials": "Unknown username or incorrect password.",
     "initial-create-account": "Not a customer yet? Create your account",
-    "select-customer": "Select your profile"
+    "select-customer": "Select your profile",
+    "continue-btn": "Continue"
   },
   "reset-password": {
     "email-step-title": "Reset Password",

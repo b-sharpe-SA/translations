@@ -862,6 +862,7 @@
   "login": {
     "welcome-txt": "Bienvenue chez b-sharpe",
     "welcome-txt-mobile": "Bonjour !",
+    "company-description": "Le service suisse de change de devises",
     "signin-or-create": "Connectez-vous ou créez un compte",
     "email-label": "Votre adresse e-mail",
     "password-label": "Mot de passe",
@@ -871,7 +872,8 @@
     "email-incorrect": "E-mail incorrect",
     "error-bad-credentials": "Le nom d'utilisateur est inconnu ou le mot de passe est incorrect.",
     "initial-create-account": "Pas encore client ? Créez votre compte",
-    "select-customer": "Sélectionnez votre profil"
+    "select-customer": "Sélectionnez votre profil",
+    "continue-btn": "Continuer"
   },
   "reset-password": {
     "email-step-title": "Réinitialisez le mot de passe",

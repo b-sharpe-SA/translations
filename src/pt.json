@@ -836,6 +836,7 @@
    "login": {
       "welcome-txt": "Bem-vindo à b-sharpe",
       "welcome-txt-mobile": "Olá!",
+      "company-description": "O serviço suíço de câmbio de moeda",
       "signin-or-create": "Entrar ou criar uma conta",
       "email-label": "Seu endereço de e-mail",
       "password-label": "Senha",
@@ -845,7 +846,8 @@
       "email-incorrect": "E-mail incorreto",
       "error-bad-credentials": "Nome de usuário desconhecido ou senha incorreta.",
       "initial-create-account": "Ainda não é cliente? Crie sua conta",
-      "select-customer": "Selecione seu perfil"
+      "select-customer": "Selecione seu perfil",
+      "continue-btn": "Continuar"
    },
    "reset-password": {
       "email-step-title": "Redefinir senha",
