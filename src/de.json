@@ -323,7 +323,7 @@
     "you-receive": "Sie erhalten",
     "you-should-receive": "Sie sollten erhalten",
     "you-should-send": "Sie sollten senden",
-    "receive-expected-amount":"Sie müssen genau überweisen",
+    "receive-expected-amount": "Sie müssen genau überweisen",
     "btn-change-amount-label": "Betrag ändern",
     "btn-change-recipient-label": "Begünstigten ändern",
     "in-account": "Im Konto",
@@ -367,7 +367,7 @@
     "pay-by-manual-bank-transfer": "Per Banküberweisung bezahlen",
     "send-flow-send-money-vban": "Loggen Sie sich in Ihr E-Banking ein oder kontaktieren Sie Ihre Bank. Stellen Sie sicher, dass Sie in {{currency}} zahlen und überweisen Sie <strong>genau {{amount}}</strong> auf Ihre <strong>neue persönliche Schweizer IBAN in {{currency}}</strong> wie unten angegeben.",
     "send-flow-send-money": "Loggen Sie sich in Ihr E-Banking ein oder kontaktieren Sie Ihre Bank. Stellen Sie sicher, dass Sie in {{currency}} zahlen und überweisen Sie <strong>genau {{amount}}</strong> auf das {{currency}}-Konto von b-sharpe.",
-    "add-beneficiary-type-title":"Wer bekommt das Geld?"
+    "add-beneficiary-type-title": "Wer bekommt das Geld?"
   },
   "rib-updated": {
     "alert": "Um weiterhin unsere Dienste zu genießen, aktualisieren Sie bitte unsere IBAN.",
@@ -379,7 +379,7 @@
     "modal-text-3": "Sie können uns jetzt Ihre Gelder senden, und wir werden sie wie gewohnt umwandeln!",
     "modal-alert": "Sie erreichen uns unter <strong>+41 22 311 11 82</strong> von Montag bis Freitag, 9 bis 18 Uhr.",
     "modal-cta": "Sehen Sie die neue IBAN"
-  },  
+  },
   "account": {
     "finish-setup": "{{firstName}}, Beenden Sie die Einrichtung Ihres Kontos, um alle Funktionen freizuschalten.",
     "personal-information": "Persönliche Informationen",
@@ -428,6 +428,7 @@
     "savings-reception-amount-sell-label": "Ich sollte empfangen",
     "savings-reception-amount-buy-label": "Ich möchte empfangen",
     "simulator-bsp-rate": "b-sharpe-Satz",
+    "simulator-exchange-rate": "Wechselkurs",
     "simulator-operation-fees": "Betriebsgebühren",
     "simulator-tooltip-rate": "Wechselkurs unterliegt Marktschwankungen und Bedingungen",
     "simulator-tooltip-rate-link": "Weitere Informationen zum b-sharpe-Satz",
@@ -653,6 +654,15 @@
     "good-afternoon": "Guten Tag",
     "good-evening": "Guten Abend"
   },
+  "sidebar": {
+    "home": "Startseite",
+    "history": "Verlauf",
+    "ratesAndAlerts": "Kurse und Warnungen",
+    "beneficiaries": "Ihre Begünstigten",
+    "iban": "IBAN B-Sharpe",
+    "referral": "Freunde einladen",
+    "settings": "Einstellungen"
+  },
   "search-address-field": {
     "search-btn": "Nach einer Adresse suchen",
     "manually-btn": "Manuelle Eingabe",
@@ -673,7 +683,7 @@
     "your-reward": "Ihre Belohnungen",
     "referral": "Empfehlung",
     "rate-referral": "Rabatt auf Wechselkurs",
-    "complimentary-fees":"Gebührenbefreiung",
+    "complimentary-fees": "Gebührenbefreiung",
     "referral-details-receive": "🎉 Dank Ihrer Belohnungen erhalten Sie <strong>{{amount}}<strong> mehr auf Ihr Konto.",
     "referral-details-send": "🎉 Dank Ihrer Belohnungen werden Sie <strong>{{amount}}<strong> weniger von Ihrem Konto senden.",
     "referral-details-2": "🏦 Mit unserem Vorzugstarif sparen Sie etwa {{amount}} im Vergleich zu einer herkömmlichen Bank."
@@ -818,7 +828,7 @@
     "the-company": "Das Unternehmen",
     "invalid-iban": "Ungültige IBAN",
     "invalid-swift": "Ungültiger SWIFT/BIC"
-},
+  },
   "rate-alert": {
     "currency-pair-unavailable": "Rate nicht verfügbar für dieses Währungspaar",
     "title": "Wechselkurse\n & Warnungen",
@@ -886,12 +896,12 @@
     "password-requirements": "Verwenden Sie mindestens 8 Zeichen, einschließlich mindestens einer Zahl und eines Sonderzeichens (@$!%* #?&.,-)",
     "password-step-btn": "Setzen Sie ein neues Passwort"
   },
-  "forgot-password":{
+  "forgot-password": {
     "title": "Passwort vergessen? Sie können hier ein neues erstellen",
     "description": "Geben Sie die E-Mail-Adresse Ihres b-sharpe-Kontos ein.",
     "email-label": "Ihre E-Mail-Adresse",
     "submit-button-label": "Weiter",
-    "email-hint": "Wenn Ihre E-Mail-Adresse in unserem System registriert ist, wird im nächsten Schritt ein Code an Sie gesendet." 
+    "email-hint": "Wenn Ihre E-Mail-Adresse in unserem System registriert ist, wird im nächsten Schritt ein Code an Sie gesendet."
   },
   "registration": {
     "create-account": "Konto erstellen",
@@ -1020,8 +1030,8 @@
     "email-verification": "E-Mail-Verifizierung",
     "address-verification": "Adressverifizierung",
     "usage": "Ihre Nutzung",
-    "beneficiary":"Begünstigter",
-    "accept-contract-tooltip":"Sie müssen die anderen Abschnitte ausfüllen, bevor Sie Ihren Vertrag unterschreiben können",
+    "beneficiary": "Begünstigter",
+    "accept-contract-tooltip": "Sie müssen die anderen Abschnitte ausfüllen, bevor Sie Ihren Vertrag unterschreiben können",
     "invalid-date": "Ungültiges Datum",
     "min-date-1900": "Das Datum muss nach 1900 liegen",
     "min-age-18": "Sie müssen mindestens 18 Jahre alt sein"
@@ -1034,7 +1044,7 @@
     "form-about-title": "Wie haben Sie von uns erfahren?",
     "form-about-reply": "Internet, berufliches Netzwerk, ...",
     "form-agreement": "Durch die Registrierung akzeptieren Sie unsere Allgemeinen Geschäftsbedingungen und bestätigen die Richtigkeit der bereitgestellten Informationen.",
-    "form-title": "Kontaktinformationen"  
+    "form-title": "Kontaktinformationen"
   },
   "registration-company": {
     "title": "Erstellen Sie Ihr Firmenkonto",
@@ -1062,10 +1072,10 @@
     "todo": "Zu erledigen",
     "in-review": "Laufende Überprüfung",
     "completed": "Abgeschlossen",
-    "alert-box-title-info-required":"Wichtige Information",
-    "alert-box-desc-info-required":"Willkommen bei b-sharpe! Um mit dem Umtausch Ihrer Gelder zu beginnen und den Bankvorschriften zu entsprechen, benötigen wir noch einige zusätzliche Informationen von Ihnen. In der Zwischenzeit können Sie unsere App erkunden, Kursalarme einrichten, Freunde einladen und vieles mehr.",
-    "alert-box-title-waiting":"Wir überprüfen Ihre Angaben",
-    "alert-box-btn":"Meine Registrierung abschließen"
+    "alert-box-title-info-required": "Wichtige Information",
+    "alert-box-desc-info-required": "Willkommen bei b-sharpe! Um mit dem Umtausch Ihrer Gelder zu beginnen und den Bankvorschriften zu entsprechen, benötigen wir noch einige zusätzliche Informationen von Ihnen. In der Zwischenzeit können Sie unsere App erkunden, Kursalarme einrichten, Freunde einladen und vieles mehr.",
+    "alert-box-title-waiting": "Wir überprüfen Ihre Angaben",
+    "alert-box-btn": "Meine Registrierung abschließen"
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/de/allgemeine-geschaftsbedingungen/",
@@ -1074,7 +1084,7 @@
     "legal-notice": "https://www.b-sharpe.com/de/impressum/",
     "customer-service": "https://www.b-sharpe.com/de/kontakt/",
     "services": "https://www.b-sharpe.com/de/prozess/",
-    "rate": "https://www.b-sharpe.com/de/kurse/", 
+    "rate": "https://www.b-sharpe.com/de/kurse/",
     "pricing": "https://www.b-sharpe.com/de/preise/",
     "about-us": "https://www.b-sharpe.com/de/uber-uns/"
   },
@@ -1083,18 +1093,18 @@
       "subtitle": "Wir können keine Bilder von Bildschirmen (Screenshots) und Fotokopien akzeptieren.",
       "title": "Wählen Sie das Dokument, das Sie zur Überprüfung Ihrer Identität verwenden möchten",
       "button_passport_detail": "Foto Seite",
-      "button_id_detail":"Vorder- und Rückseite"      
+      "button_id_detail": "Vorder- und Rückseite"
     },
     "welcome": {
       "list_header_webcam": "Verwenden Sie Ihr Handy, um ein Bild aufzunehmen von:"
     }
   },
-  "alerts":{
-    "hollidays":{
+  "alerts": {
+    "hollidays": {
       "banner": {
         "notice": "Besondere Öffnungszeiten für die Feiertage",
         "cta": "Öffnungszeiten anzeigen"
-        },
+      },
       "modal": {
         "title": "Sonderöffnungszeiten",
         "subtitle": "Unsere Büros bleiben ausnahmsweise geschlossen:",
@@ -1103,9 +1113,9 @@
           "dec_25_26": "Mittwoch 25. und Donnerstag 26. Dezember 2024 ganztägig",
           "dec_31_jan_1": "Dienstag, 31. Dezember und Mittwoch, 1. Januar 2025 ganztägig"
         },
-      "alert":"Wir wünschen Ihnen schöne Feiertage!\nDas B-sharpe Team\nSie erreichen uns unter <strong>+41 22 311 11 82</strong> von Montag bis Freitag, 9 bis 18 Uhr"
-     },
-     "close": "Schließen"
+        "alert": "Wir wünschen Ihnen schöne Feiertage!\nDas B-sharpe Team\nSie erreichen uns unter <strong>+41 22 311 11 82</strong> von Montag bis Freitag, 9 bis 18 Uhr"
+      },
+      "close": "Schließen"
     }
   },
   "preference": {
@@ -1119,8 +1129,8 @@
     "trackers-description": "Ich erlaube die Erfassung bestimmter Browserinformationen, um meine Benutzererfahrung zu verbessern.",
     "biometrie": "Biometrie",
     "biometrie-description": "Ich möchte mich schnell und sicher mit meinem Fingerabdruck oder meiner Gesichtserkennung anmelden."
-},
-  "error":{
+  },
+  "error": {
     "error-required": "Pflichtfeld",
     "error-min8Letters": "Mindestlänge: 8 Zeichen",
     "error-matchPassword": "Die Passwörter müssen übereinstimmen",
@@ -1171,7 +1181,7 @@
     "max-length-exceeded": "Dieses Feld darf nicht mehr als {{max}} Zeichen enthalten.",
     "forbidden-characters": "Dieses Feld enthält ungültige Zeichen: {{characters}}."
   },
-  "currencies":{
+  "currencies": {
     "EUR": "Euro",
     "CHF": "Schweizer Franken",
     "USD": "US-Dollar",
@@ -1200,13 +1210,13 @@
     "TND": "Tunesischer Dinar",
     "RUB": "Russischer Rubel"
   },
-  "mobile":{
-    "consent-modal-title":"Wir nehmen Ihre Privatsphäre ernst",
-    "consent-modal-content":"Um die bestmögliche Erfahrung mit unserer App zu bieten, müssen wir einige Navigationsinformationen sammeln.",
-    "consent-modal-disagree":"Ich stimme nicht zu",
-    "consent-modal-tell-me-more":"Erzähl mir mehr",
-    "consent-modal-agree":"Okay!",
-    "consent-modal-url":"https://www.b-sharpe.com/de/datenschutz-richtlinien/",
+  "mobile": {
+    "consent-modal-title": "Wir nehmen Ihre Privatsphäre ernst",
+    "consent-modal-content": "Um die bestmögliche Erfahrung mit unserer App zu bieten, müssen wir einige Navigationsinformationen sammeln.",
+    "consent-modal-disagree": "Ich stimme nicht zu",
+    "consent-modal-tell-me-more": "Erzähl mir mehr",
+    "consent-modal-agree": "Okay!",
+    "consent-modal-url": "https://www.b-sharpe.com/de/datenschutz-richtlinien/",
     "use-password-title": "Verwenden Sie Ihr Passwort",
     "document-selector": {
       "title": "Wählen Sie ein Dokument aus",

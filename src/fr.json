@@ -188,10 +188,10 @@
     "Didn't receive the sms? Resend": "Vous n'avez pas reçu le SMS ? Renvoyer un nouveau.",
     "select-currency-see-all": "Voir toutes les devises",
     "common-back": "Retour",
-    "common-password": "Mot de passe", 
+    "common-password": "Mot de passe",
     "common-first-name": "Prénom",
     "common-last-name": "Nom",
-    
+
     "error-required": "Requis",
     "error-min8Letters": "8 caractères minimum",
     "error-matchPassword": "Les mots de passe doivent correspondre",
@@ -239,16 +239,16 @@
     "error-invalid-phone-number": "Numéro de téléphone invalide",
     "error-iban-already-exist": "Un bénéficiaire avec cet IBAN existe déjà",
     "error-biometry-not-enrolled": "Vous devez configurer la biométrie dans les paramètres de votre appareil",
-    "savings-payment-amount-sell-label": "Je veux envoyer", 
-    "savings-payment-amount-buy-label": "Je devrais envoyer", 
-    "savings-reception-amount-sell-label": "Je devrais recevoir", 
-    "savings-reception-amount-buy-label": "Je veux recevoir", 
-    "simulator-bsp-rate": "Taux b-sharpe", 
-    "simulator-operation-fees": "Frais d'opération", 
-    "simulator-tooltip-rate": "Taux de change soumis aux variations et conditions de marché", 
+    "savings-payment-amount-sell-label": "Je veux envoyer",
+    "savings-payment-amount-buy-label": "Je devrais envoyer",
+    "savings-reception-amount-sell-label": "Je devrais recevoir",
+    "savings-reception-amount-buy-label": "Je veux recevoir",
+    "simulator-bsp-rate": "Taux b-sharpe",
+    "simulator-operation-fees": "Frais d'opération",
+    "simulator-tooltip-rate": "Taux de change soumis aux variations et conditions de marché",
     "simulator-tooltip-rate-link": "Plus d'informations sur le taux b-sharpe",
     "simulator-tooltip-fees-link": "Plus d'informations sur nos tarifs",
-    
+
     "EUR": "Euro",
     "CHF": "Franc suisse",
     "USD": "Dollar américain",
@@ -276,7 +276,7 @@
     "SAR": "Rial saoudien",
     "TND": "Dinar tunisien",
     "RUB": "Rouble russe",
-    "sign-up-individual-email": "Adresse e-mail", 
+    "sign-up-individual-email": "Adresse e-mail",
     "real-time-price-unavailable-title": "Taux en temps réel indisponible",
     "real-time-price-unavailable-message": "Cette fonctionnalité est disponible pendant nos horaires d'ouverture, de 9h à 18h, du lundi au vendredi hors jours fériés.",
     "error-pricing-amount-limit-description": "Taux en temps réel indisponible pour ce montant.",
@@ -369,7 +369,7 @@
     "pay-by-manual-bank-transfer": "Payer par virement bancaire classique",
     "send-flow-send-money-vban": "Connectez-vous à votre e-banking ou contactez votre banque. Assurez-vous de payer en {{currency}} et transférez <strong>exactement {{amount}}</strong> sur votre <strong>nouvel IBAN suisse nominatif en {{currency}}</strong> détaillé ci-dessous.",
     "send-flow-send-money": "Envoyez exactement <strong>{{amount}}</strong> sur votre IBAN suisse ci-dessous.",
-    "add-beneficiary-type-title":"Qui va recevoir cet argent ?"
+    "add-beneficiary-type-title": "Qui va recevoir cet argent ?"
   },
   "rib-updated": {
     "alert": "Pour continuer à profiter de nos services, mettez à jour notre IBAN.",
@@ -413,7 +413,6 @@
     "delete-account-message": "Voulez vous vraiment supprimer votre compte ? Vous ne pourrez plus utiliser les services de b-sharpe sans vous réinscrire au préalable",
     "delete-account-success-message": "Votre demande a bien été prise en compte. Nous vous informerons dès que votre compte est supprimé. Cela peut prendre jusqu'à 7 jours ouvrés.",
     "select-account-currency-placeholder": "Sélectionnez une devise"
-
   },
   "simulator": {
     "title": "Simulateur",
@@ -431,6 +430,7 @@
     "savings-reception-amount-sell-label": "Je devrais recevoir",
     "savings-reception-amount-buy-label": "Je veux recevoir",
     "simulator-bsp-rate": "Taux b-sharpe",
+    "simulator-exchange-rate": "Taux de change",
     "simulator-operation-fees": "Frais d'opération",
     "simulator-tooltip-rate": "Taux de change soumis aux variations et conditions de marché",
     "simulator-tooltip-rate-link": "Plus d'informations sur le taux b-sharpe",
@@ -498,17 +498,17 @@
     "title": "IBAN et documents",
     "select-currency-to-view-documents": "Sélectionnez une devise pour afficher les informations bancaires pour envoyer vos fonds (IBAN et les documents associés)",
     "add-other-currency": "Ajouter une autre devise",
-    "add-favorite-currency" : "Enregistrer une devise préférée",
-    "how-to-send" : "Comment envoyer vos {{currency}}",
-    "how-send-psp" : "Voici nos coordonnées bancaires pour les transferts en {{currency}}. Veuillez utiliser votre application bancaire ou contacter votre banque pour transférer vos fonds à b-Sharpe.",
-    "how-send-vban" : "Voici <strong>votre IBAN suisse personnalisé</strong> pour l'envoi de {{currency}}. Veuillez utiliser votre application bancaire ou contacter votre banque pour transférer vos fonds à b-Sharpe.",
-    "download-iban" : "Télécharger le RIB",
-    "download-employer-document" : "Obtenir le document employeur",
-    "qr-bill" : "Facture QR",
-    "reminder-include-reference" : "<strong>N'oubliez pas d'inclure votre référence</strong> dans les détails du paiement. Son oubli pourrait entraîner des retards importants de traitement.",
-    "failed-download-iban" : "Échec du téléchargement du RIB",
-    "failed-download-employer-doc" : "Échec du téléchargement du document employeur",
-    "no-iban-for-currency" : "Nous n'avons pas trouvé de coordonnées bancaires pour envoyer des {{currency}}. Veuillez contacter notre support.",
+    "add-favorite-currency": "Enregistrer une devise préférée",
+    "how-to-send": "Comment envoyer vos {{currency}}",
+    "how-send-psp": "Voici nos coordonnées bancaires pour les transferts en {{currency}}. Veuillez utiliser votre application bancaire ou contacter votre banque pour transférer vos fonds à b-Sharpe.",
+    "how-send-vban": "Voici <strong>votre IBAN suisse personnalisé</strong> pour l'envoi de {{currency}}. Veuillez utiliser votre application bancaire ou contacter votre banque pour transférer vos fonds à b-Sharpe.",
+    "download-iban": "Télécharger le RIB",
+    "download-employer-document": "Obtenir le document employeur",
+    "qr-bill": "Facture QR",
+    "reminder-include-reference": "<strong>N'oubliez pas d'inclure votre référence</strong> dans les détails du paiement. Son oubli pourrait entraîner des retards importants de traitement.",
+    "failed-download-iban": "Échec du téléchargement du RIB",
+    "failed-download-employer-doc": "Échec du téléchargement du document employeur",
+    "no-iban-for-currency": "Nous n'avons pas trouvé de coordonnées bancaires pour envoyer des {{currency}}. Veuillez contacter notre support.",
     "account-payable-by": "Payable par",
     "account-payable-to": "Compte / Payable à",
     "warning-credit-swiss-customer": "Si vous êtes un client Credit Suisse, n'oubliez pas de décocher la case 'Je paie pour le compte de quelqu'un d'autre'"
@@ -656,6 +656,15 @@
     "good-afternoon": "Bon après-midi",
     "good-evening": "Bonsoir"
   },
+  "sidebar": {
+    "home": "Accueil",
+    "history": "Historique",
+    "ratesAndAlerts": "Taux et alertes",
+    "beneficiaries": "Vos bénéficiaires",
+    "iban": "IBAN B-Sharpe",
+    "referral": "Invitez vos amis",
+    "settings": "Paramètres"
+  },
   "search-address-field": {
     "search-btn": "Ou rechercher une adresse",
     "manually-btn": "Ou la saisir manuellement",
@@ -676,7 +685,7 @@
     "your-reward": "Vos rewards",
     "referral": "Parrainage",
     "rate-referral": "Réduction sur le taux",
-    "complimentary-fees":"Frais offerts",
+    "complimentary-fees": "Frais offerts",
     "referral-details-receive": "🎉 Grace à vos rewards, <strong>vous allez recevoir {{amount}} de plus <strong>sur votre compte.",
     "referral-details-send": "🎉 Grace à vos rewards, <strong>vous devez envoyer {{amount}} de moins <strong>depuis votre compte.",
     "referral-details-2": "🏦 Avec notre taux avantageux, vous économisez environ {{amount}} comparé à une banque traditionnelle."
@@ -757,27 +766,27 @@
     "see-more-beneficiaries": "Voir plus de bénéficiaires"
   },
   "vban": {
-    "claim-info-box-title" : "Accélérez vos transferts en CHF avec un IBAN suisse nominatif GRATUIT !",
-    "claim-info-box-description-item-1" : "Accepté par tous les employeurs suisses, caisses de retraite, assurances maladie, et bien plus encore.",
-    "claim-info-box-description-item-2" : "Réception de salaire rapide et sans effort",
-    "claim-info-box-description-item-3" : "Totalement gratuit !",
-    "claim-info-box-btn-label" : "Obtenir mon propre IBAN suisse",
-    "claim-page-title" : "Simplifiez vos transferts en CHF avec votre propre IBAN suisse",
-    "claim-page-description" : "Obtenez un IBAN suisse à votre nom pour recevoir des CHF d'organisations suisses. Nous convertirons et transférerons automatiquement les fonds sur votre compte préféré (EUR, etc.) sans tracas.",
-    "claim-page-description-list-item-1" : "<strong>Accepté par tous les employeurs suisses</strong>, assurances maladie, etc.",
-    "claim-page-description-list-item-2" : "Un temps de traitement de vos fonds <strong>encore plus rapide</strong> !",
-    "claim-page-description-list-item-3" : "Vous n'avez qu'un seul bénéficiaire enregistré ? Parfait ! b-Sharpe convertira et y enverra automatiquement vos fonds  - <strong>sans étapes supplémentaires</strong>.",
-    "claim-page-description-list-item-4" : "Votre IBAN suisse en CHF est <strong>totalement gratuit</strong> !",
-    "claim-page-button-claim" : "Je veux mon IBAN suisse en CHF",
-    "do-it-later" : "Peut-être plus tard",
-    "generate" : "Faire la demande",
-    "generating" : "Demande en cours",
-    "information-page-title" : "Nous avons besoin de quelques informations supplémentaires",
-    "information-page-question-1" : "Avez-vous compris que cet IBAN suisse est <strong>exclusivement réservé à la réception de CHF</strong> ?",
-    "information-page-question-3" : "Confirmez-vous que vous <strong>ne recevrez des fonds sur cet IBAN que d'organisations suisses autorisées</strong> ou d'un compte bancaire à votre nom ?",
-    "information-page-info" : "Nous nous réservons le droit de suspendre ou fermer votre compte si les fonds reçus sur votre IBAN personnel proviennent d'autres sources.",
-    "error-creating-vban" : "Nous avons rencontré une erreur et n'avons pas pu configurer votre IBAN personnel. Veuillez réessayer.",
-    "field-must-be-set-to-yes" : "Pour être éligible à votre propre IBAN, merci de répondre 'Oui' à cette question."
+    "claim-info-box-title": "Accélérez vos transferts en CHF avec un IBAN suisse nominatif GRATUIT !",
+    "claim-info-box-description-item-1": "Accepté par tous les employeurs suisses, caisses de retraite, assurances maladie, et bien plus encore.",
+    "claim-info-box-description-item-2": "Réception de salaire rapide et sans effort",
+    "claim-info-box-description-item-3": "Totalement gratuit !",
+    "claim-info-box-btn-label": "Obtenir mon propre IBAN suisse",
+    "claim-page-title": "Simplifiez vos transferts en CHF avec votre propre IBAN suisse",
+    "claim-page-description": "Obtenez un IBAN suisse à votre nom pour recevoir des CHF d'organisations suisses. Nous convertirons et transférerons automatiquement les fonds sur votre compte préféré (EUR, etc.) sans tracas.",
+    "claim-page-description-list-item-1": "<strong>Accepté par tous les employeurs suisses</strong>, assurances maladie, etc.",
+    "claim-page-description-list-item-2": "Un temps de traitement de vos fonds <strong>encore plus rapide</strong> !",
+    "claim-page-description-list-item-3": "Vous n'avez qu'un seul bénéficiaire enregistré ? Parfait ! b-Sharpe convertira et y enverra automatiquement vos fonds  - <strong>sans étapes supplémentaires</strong>.",
+    "claim-page-description-list-item-4": "Votre IBAN suisse en CHF est <strong>totalement gratuit</strong> !",
+    "claim-page-button-claim": "Je veux mon IBAN suisse en CHF",
+    "do-it-later": "Peut-être plus tard",
+    "generate": "Faire la demande",
+    "generating": "Demande en cours",
+    "information-page-title": "Nous avons besoin de quelques informations supplémentaires",
+    "information-page-question-1": "Avez-vous compris que cet IBAN suisse est <strong>exclusivement réservé à la réception de CHF</strong> ?",
+    "information-page-question-3": "Confirmez-vous que vous <strong>ne recevrez des fonds sur cet IBAN que d'organisations suisses autorisées</strong> ou d'un compte bancaire à votre nom ?",
+    "information-page-info": "Nous nous réservons le droit de suspendre ou fermer votre compte si les fonds reçus sur votre IBAN personnel proviennent d'autres sources.",
+    "error-creating-vban": "Nous avons rencontré une erreur et n'avons pas pu configurer votre IBAN personnel. Veuillez réessayer.",
+    "field-must-be-set-to-yes": "Pour être éligible à votre propre IBAN, merci de répondre 'Oui' à cette question."
   },
   "new-bank-account": {
     "title": "Quel type de compte voulez-vous ajouter?",
@@ -797,27 +806,27 @@
     "select-currency": "Sélectionnez une devise",
     "add-this-bank-account-btn": "Ajouter ce compte bancaire",
     "add-bank-account-btn": "Ajouter un compte bancaire",
-    "empty-list":"Vous n'avez pas de compte bancaire pour le moment",
-    "add-new-company":"Ou ajouter une nouvelle entreprise",
-    "add-new-beneficiary":"Ou ajouter un nouveau bénéficiaire",
-    "select-company":"Sélectionner une entreprise",
-    "select-beneficiary":"Sélectionner un bénéficiaire",
-    "add-beneficiary-sub":"Veuillez fournir les coordonnées de la personne à qui vous souhaitez envoyer de l'argent",
-    "add-family-member":"Ajouter un membre de votre famille",
-    "add-company":"Ajouter une entreprise",
-    "beneficiary-address":"Adresse du beneficiaire",
-    "company-address":"Adresse de l'entreprise",
+    "empty-list": "Vous n'avez pas de compte bancaire pour le moment",
+    "add-new-company": "Ou ajouter une nouvelle entreprise",
+    "add-new-beneficiary": "Ou ajouter un nouveau bénéficiaire",
+    "select-company": "Sélectionner une entreprise",
+    "select-beneficiary": "Sélectionner un bénéficiaire",
+    "add-beneficiary-sub": "Veuillez fournir les coordonnées de la personne à qui vous souhaitez envoyer de l'argent",
+    "add-family-member": "Ajouter un membre de votre famille",
+    "add-company": "Ajouter une entreprise",
+    "beneficiary-address": "Adresse du beneficiaire",
+    "company-address": "Adresse de l'entreprise",
     "company-address-sub": "Veuillez fournir les détails de la personne à qui vous souhaitez envoyer de l'argent",
-    "add-beneficiary-btn":"Ajouter le bénéficiaire",
-    "add-company-btn":"Ajouter l'entreprise",
-    "disclaimer-family-member":"Uniquement les personnes de votre famille proche : Conjoint, enfant, parent ou frère/sœur.",
-    "company-address-form-label":"Adresse de l'entreprise",
-    "home-address-form-label":"Adresse du domicile",
-    "family-member-document":"Veuillez télécharger votre livret de famille ou votre acte de mariage.",
-    "company-document":"Veuillez télécharger une facture ou un contrat de l’entreprise que vous êtes prêt à payer",
-    "family-member-document-btn":"Ajouter mon document",
-    "company-document-btn":"Ajouter ma fiche de salaire ou mon contrat",
-    "company-name":"Nom de l'entreprise",
+    "add-beneficiary-btn": "Ajouter le bénéficiaire",
+    "add-company-btn": "Ajouter l'entreprise",
+    "disclaimer-family-member": "Uniquement les personnes de votre famille proche : Conjoint, enfant, parent ou frère/sœur.",
+    "company-address-form-label": "Adresse de l'entreprise",
+    "home-address-form-label": "Adresse du domicile",
+    "family-member-document": "Veuillez télécharger votre livret de famille ou votre acte de mariage.",
+    "company-document": "Veuillez télécharger une facture ou un contrat de l’entreprise que vous êtes prêt à payer",
+    "family-member-document-btn": "Ajouter mon document",
+    "company-document-btn": "Ajouter ma fiche de salaire ou mon contrat",
+    "company-name": "Nom de l'entreprise",
     "the-company": "La société",
     "invalid-iban": "IBAN invalide",
     "invalid-swift": "SWIFT/BIC invalide"
@@ -889,12 +898,12 @@
     "password-requirements": "Utilisez au minimum 8 caractères, avec au moins un chiffre et un caractère spécial (@$!%* #?&.,-)",
     "password-step-btn": "Définir un nouveau de mot de passe"
   },
-  "forgot-password":{
+  "forgot-password": {
     "title": "Mot de passe oublié ? Vous pouvez en créer un nouveau ici",
     "description": "Saisissez l'adresse e-mail associée à votre compte b-sharpe.",
     "email-label": "Votre adresse e-mail",
     "submit-button-label": "Suivant",
-    "email-hint": "Si votre e-mail est enregistré dans notre système, vous recevrez un code dans votre boite mail après l'étape suivante." 
+    "email-hint": "Si votre e-mail est enregistré dans notre système, vous recevrez un code dans votre boite mail après l'étape suivante."
   },
   "registration": {
     "create-account": "Créer un compte",
@@ -923,8 +932,8 @@
     "gender-description": "Veuillez choisir votre genre tel qu'il apparaît sur votre document d'identité.",
     "birth-date-description": "Vous devez avoir plus de 18 ans pour créer un compte.",
     "review-and-validate": "Validez vos informations",
-    "admin-wait-modal-title":"Vous n'avez pas encore accès à cette feature",
-    "admin-wait-modal-desc":"Nos équipes sont en train de vérifier vos pièces justificatives. Vous recevrez une notification par mail quand vous pourrez accéder à cet écran.",
+    "admin-wait-modal-title": "Vous n'avez pas encore accès à cette feature",
+    "admin-wait-modal-desc": "Nos équipes sont en train de vérifier vos pièces justificatives. Vous recevrez une notification par mail quand vous pourrez accéder à cet écran.",
     "unlock-full-account": "Débloquer le compte complet",
     "explore-first": "Laissez-moi explorer d'abord",
     "complete-your-account": "Complétez votre compte",
@@ -995,7 +1004,7 @@
     "reassurance-origin-funds": "Nous visons à vous fournir la solution la plus pratique et la plus économique pour changer votre argent entre différentes devises. Si vous pensez que nous n'avons pas atteint cet objectif, vous pouvez discuter avec notre équipe en bas à droite de votre écran pour nous expliquer votre situation.\nC'est aussi l'une des informations que nous devons demander pour être conformes aux réglementations bancaires internationales.",
     "reassurance-review": "Ces informations sont utilisées pour générer votre contrat. Veuillez vous assurer qu'elles sont correctement remplies.",
     "reassurance-contract": "Notre contrat explique les conditions dans lesquelles nous acceptons de traiter vos transactions. Si vous avez des questions lors de l'utilisation de nos services, n'hésitez pas à nous contacter et nous ferons de notre mieux pour l'expliquer.",
-    "reassurance-identity": "Avant votre toute première opération et pour protéger vos intérêts, nous nous assurons que personne ne tente de vous usurper.\nC'est aussi l'une des informations que nous devons demander et conserver pour être conformes aux réglementations bancaires internationales.",    
+    "reassurance-identity": "Avant votre toute première opération et pour protéger vos intérêts, nous nous assurons que personne ne tente de vous usurper.\nC'est aussi l'une des informations que nous devons demander et conserver pour être conformes aux réglementations bancaires internationales.",
     "all-done": "Tout est fait !",
     "date-format-invalid": "Le format de la date doit être DD-MM-YYYY",
     "under-18-restricted": "b-sharpe n'est pas disponible pour les moins de 18 ans",
@@ -1023,13 +1032,13 @@
     "email-verification": "Vérification E-mail",
     "address-verification": "Vérification d’adresse",
     "usage": "Votre usage",
-    "beneficiary":"Bénéficiaire des fonds",
-    "accept-contract-tooltip":"Vous devez compléter les autres sections avant de pouvoir signer votre contrat",
+    "beneficiary": "Bénéficiaire des fonds",
+    "accept-contract-tooltip": "Vous devez compléter les autres sections avant de pouvoir signer votre contrat",
     "invalid-date": "Date invalide",
     "min-date-1900": "La date doit être supérieure à 1900",
     "min-age-18": "Vous devez avoir au moins 18 ans pour vous inscrire"
   },
-  "registration-corporate":{
+  "registration-corporate": {
     "title": "Création de votre compte entreprise",
     "description": "Informations concernant l'entreprise",
     "form-legal": "Forme légale",
@@ -1065,10 +1074,10 @@
     "todo": "À faire",
     "in-review": "Validation en cours",
     "completed": "Complet",
-    "alert-box-title-info-required":"Information importante",
-    "alert-box-desc-info-required":"Bienvenue chez b-sharpe ! Pour pouvoir commencer à échanger vos fonds et respecter la réglementation bancaire, nous avons besoin que vous complétiez quelques informations en plus. En attendant, vous pouvez toujours explorer notre application, créer des alertes de taux, inviter vos amis, etc.",
-    "alert-box-title-waiting":"Votre profil est en cours de vérification",
-    "alert-box-btn":"Finaliser mon inscription"
+    "alert-box-title-info-required": "Information importante",
+    "alert-box-desc-info-required": "Bienvenue chez b-sharpe ! Pour pouvoir commencer à échanger vos fonds et respecter la réglementation bancaire, nous avons besoin que vous complétiez quelques informations en plus. En attendant, vous pouvez toujours explorer notre application, créer des alertes de taux, inviter vos amis, etc.",
+    "alert-box-title-waiting": "Votre profil est en cours de vérification",
+    "alert-box-btn": "Finaliser mon inscription"
   },
   "links": {
     "terms-conditions": "https://www.b-sharpe.com/conditions-generales/",
@@ -1086,14 +1095,14 @@
       "subtitle": "Nous n'acceptons pas les photos d'écran ni de photocopie.",
       "title": "Choisissez le document que vous souhaitez utiliser pour vérifier votre identité",
       "button_passport_detail": "Page avec photo",
-      "button_id_detail":"Recto et verso"      
+      "button_id_detail": "Recto et verso"
     },
     "welcome": {
       "list_header_webcam": "Utilisez votre téléphone pour prendre une photo de : "
     }
   },
-  "alerts":{
-    "hollidays":{
+  "alerts": {
+    "hollidays": {
       "banner": {
         "notice": "Horaires exceptionnels pour les fêtes de fin d'année",
         "cta": "Voir les horaires"
@@ -1106,12 +1115,12 @@
           "dec_25_26": "Le mercredi 25 et jeudi 26 Décembre 2024 toute la journée",
           "dec_31_jan_1": "Le mardi 31 Décembre et le mercredi 1er Janvier 2025 toute la journée"
         },
-        "alert":"Nous vous souhaitons d'excellentes fêtes de fin d'année !\nL'équipe b-sharpe\nVous pouvez nous joindre au <strong>+41 22 311 11 82</strong> du lundi au vendredi de 9h à 18h"
-     },
-     "close": "Fermer"
+        "alert": "Nous vous souhaitons d'excellentes fêtes de fin d'année !\nL'équipe b-sharpe\nVous pouvez nous joindre au <strong>+41 22 311 11 82</strong> du lundi au vendredi de 9h à 18h"
+      },
+      "close": "Fermer"
     }
   },
-  "preference":{
+  "preference": {
     "title": "Préférences",
     "subtitle": "Personnalisez votre expérience b-sharpe",
     "notification": "Notifications",
@@ -1119,11 +1128,11 @@
     "newsletter": "Newsletters",
     "newsletter-description": "Je souhaite recevoir des informations sur les taux de change, les promotions et les nouveautés b-sharpe.",
     "trackers": "Collecte de données",
-    "trackers-description":"Je permets la collecte de certaines informations de navigation pour améliorer mon expérience d'utilisation.",
+    "trackers-description": "Je permets la collecte de certaines informations de navigation pour améliorer mon expérience d'utilisation.",
     "biometrie": "Biométrie",
     "biometrie-description": "Je souhaite me connecter rapidement et en toute sécurité avec mon empreinte digitale ou ma reconnaissance faciale."
   },
-  "error":{
+  "error": {
     "error-required": "Requis",
     "error-min8Letters": "8 caractères minimum",
     "error-matchPassword": "Les mots de passe doivent correspondre",
@@ -1174,7 +1183,7 @@
     "max-length-exceeded": "Ce champ ne peut pas dépasser {{max}} caractères.",
     "forbidden-characters": "Ce champ contient des caractères non valides : {{characters}}."
   },
-  "currencies":{
+  "currencies": {
     "EUR": "Euro",
     "CHF": "Franc suisse",
     "USD": "Dollar américain",
@@ -1203,15 +1212,15 @@
     "TND": "Dinar tunisien",
     "RUB": "Rouble russe"
   },
-  "mobile":{
-    "consent-modal-title":"Nous prenons votre vie privée au sérieux",
-    "consent-modal-content":"Pour vous offrir la meilleure expérience d'utilisation possible, nous avons besoin de collecter certaines informations de navigation.",
-    "consent-modal-disagree":"Je ne suis pas d'accord",
-    "consent-modal-tell-me-more":"En savoir plus",
-    "consent-modal-agree":"D'accord !",
-    "consent-modal-url":"https://www.b-sharpe.com/protection-des-donnees/",
+  "mobile": {
+    "consent-modal-title": "Nous prenons votre vie privée au sérieux",
+    "consent-modal-content": "Pour vous offrir la meilleure expérience d'utilisation possible, nous avons besoin de collecter certaines informations de navigation.",
+    "consent-modal-disagree": "Je ne suis pas d'accord",
+    "consent-modal-tell-me-more": "En savoir plus",
+    "consent-modal-agree": "D'accord !",
+    "consent-modal-url": "https://www.b-sharpe.com/protection-des-donnees/",
     "use-password-title": "Utiliser votre mot de passe",
-    "document-selector":{
+    "document-selector": {
       "title": "Sélectionnez un document dans",
       "gallery": "Galerie",
       "camera": "Caméra",
@@ -1221,7 +1230,7 @@
       "alert-permission-blocked-storage": "b-sharpe a besoin d'accéder à votre stockage pour sélectionner un fichier. Modifier ce réglage maintenant ?",
       "alert-permission-blocked-Camera": "b-sharpe a besoin d'accéder à votre appareil photo pour prendre une photo. Modifier ce réglage maintenant ?"
     },
-    "app-compatibility":{
+    "app-compatibility": {
       "update-available": "Mise à jour disponible",
       "update-available-description": "Pour une meilleure expérience, il est recommandé de télécharger la dernière version de l'application.",
       "update-needs": "Votre application b-sharpe a besoin d'être mise à jour",
@@ -1235,13 +1244,13 @@
       "action-continue": "Continuer",
       "action-close-app": "Fermer l'application"
     },
-    "biometry":{
+    "biometry": {
       "description": "Utiliser {{biometry}} pour vous connecter à votre compte b-sharpe ?",
       "enable": "Utiliser {{biometry}}",
       "disable": "Pas maintenant",
       "enable-biometry": "Utiliser la biométrie"
     },
-    "intro-screen":{
+    "intro-screen": {
       "button-label": "Je m’inscris gratuitement",
       "screen-1-title": "Changez vos devises",
       "screen-1-description": "Profitez d’un service simple, rapide et efficace",
@@ -1252,18 +1261,18 @@
       "screen-4-title": "4,8/5 sur Trustpilot",
       "screen-4-description": "Rejoignez notre communauté de clients satisfaits"
     },
-    "pair-currency":{
+    "pair-currency": {
       "empty": "Aucune comparaison de devises n'a été ajoutée",
       "delete-modal-title": "Êtes-vous sûr de vouloir supprimer cette paire de devises ?",
       "description": "Suivez l'évolution de vos devises préférées !\nLe taux affiché est le taux interbancaire, il n'inclut pas la marge de b-sharpe",
       "editor-title": "Ajouter une paire de devises"
     },
-    "currency-selector":{
+    "currency-selector": {
       "modal-title": "Sélectionnez une devise",
       "modal-empty": "Aucune devise trouvée"
     },
     "language-selector-modal-title": "Sélectionnez une langue",
-    "app-lock":{
+    "app-lock": {
       "sign-in-return": "Je ne suis pas",
       "sign-in-title": "Ravi de vous revoir, "
     }

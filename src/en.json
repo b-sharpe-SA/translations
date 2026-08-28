@@ -428,6 +428,7 @@
     "savings-reception-amount-sell-label": "I should receive",
     "savings-reception-amount-buy-label": "I want to receive",
     "simulator-bsp-rate": "b-sharpe rate",
+    "simulator-exchange-rate": "Exchange rate",
     "simulator-operation-fees": "Operation fees",
     "simulator-tooltip-rate": "Exchange rate subject to market variations and conditions",
     "simulator-tooltip-rate-link": "More information about b-sharpe rate",
@@ -655,6 +656,15 @@
     "good-morning": "Good morning",
     "good-afternoon": "Good afternoon",
     "good-evening": "Good evening"
+  },
+  "sidebar": {
+    "home": "Home",
+    "history": "History",
+    "ratesAndAlerts": "Rates and alerts",
+    "beneficiaries": "Your beneficiaries",
+    "iban": "IBAN B-Sharpe",
+    "referral": "Invite your friends",
+    "settings": "Settings"
   },
   "search-address-field": {
     "search-btn": "Or search for an address",

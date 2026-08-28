@@ -428,6 +428,7 @@
     "savings-reception-amount-sell-label": "Dovrei ricevere",
     "savings-reception-amount-buy-label": "Voglio ricevere",
     "simulator-bsp-rate": "Tasso b-sharpe",
+    "simulator-exchange-rate": "Tasso di cambio",
     "simulator-operation-fees": "Commissioni di funzionamento",
     "simulator-tooltip-rate": "Tasso di cambio soggetto a variazioni di mercato e condizioni",
     "simulator-tooltip-rate-link": "Maggiori informazioni sul tasso b-sharpe",
@@ -653,6 +654,15 @@
     "good-afternoon": "Buon pomeriggio",
     "good-evening": "Buonasera"
   },
+  "sidebar": {
+    "home": "Home",
+    "history": "Cronologia",
+    "ratesAndAlerts": "Tassi e avvisi",
+    "beneficiaries": "I tuoi beneficiari",
+    "iban": "IBAN B-Sharpe",
+    "referral": "Invita i tuoi amici",
+    "settings": "Impostazioni"
+    },
   "search-address-field": {
     "search-btn": "O cerca un indirizzo",
     "manually-btn": "O inseriscilo manualmente",
