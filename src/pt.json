@@ -1261,6 +1261,11 @@
          "title": "Legal",
          "description": "Informações legais"
       },
+      "logout": {
+         "title": "Sair",
+         "description": "Saia da sua conta neste dispositivo.",
+         "button": "Sair"
+      },
       "delete-account": {
          "title": "Eliminar a sua conta",
          "description": "Esta ação eliminará permanentemente a sua conta pessoal."

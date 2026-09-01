@@ -1287,6 +1287,11 @@
       "title": "Legal",
       "description": "Legal information"
     },
+    "logout": {
+      "title": "Logout",
+      "description": "Sign out of your account on this device.",
+      "button": "Logout"
+    },
     "delete-account": {
       "title": "Delete your account",
       "description": "This action will permanently delete your personal account."

@@ -1296,6 +1296,11 @@
       "title": "Mentions légales",
       "description": "Informations legales"
     },
+    "logout": {
+      "title": "Déconnexion",
+      "description": "Déconnectez-vous de votre compte sur cet appareil.",
+      "button": "Déconnexion"
+    },
     "delete-account": {
       "title": "Supprimer votre compte",
       "description": "Cette action supprimera définitivement votre compte personnel."

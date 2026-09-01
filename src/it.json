@@ -1294,6 +1294,11 @@
       "title": "Note legali",
       "description": "Informazioni legali"
     },
+    "logout": {
+      "title": "Disconnettersi",
+      "description": "Disconnettiti dal tuo account su questo dispositivo.",
+      "button": "Disconnettersi"
+    },
     "delete-account": {
       "title": "Elimina il tuo account",
       "description": "Questa azione eliminerà definitivamente il tuo account personale."

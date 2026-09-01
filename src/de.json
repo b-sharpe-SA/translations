@@ -1294,6 +1294,11 @@
       "title": "Rechtliches",
       "description": "Rechtliche Informationen"
     },
+    "logout": {
+      "title": "Ausloggen",
+      "description": "Melden Sie sich auf diesem Gerät von Ihrem Konto ab.",
+      "button": "Ausloggen"
+    },
     "delete-account": {
       "title": "Konto löschen",
       "description": "Diese Aktion löscht Ihr persönliches Konto dauerhaft."
