@@ -187,6 +187,7 @@
     "Promo code": "Aktionscode",
     "Didn't receive the sms? Resend": "Haben Sie die SMS nicht erhalten? Erneut senden.",
     "select-currency-see-all": "Alle Währungen anzeigen",
+    "select-currency-go-back": "Zurück",
     "common-back": "Zurück",
     "common-password": "Passwort",
     "common-first-name": "Vorname",
@@ -1078,9 +1079,9 @@
     "alert-box-btn": "Meine Registrierung abschließen"
   },
   "links": {
-    "terms-conditions": "https://www.b-sharpe.com/de/allgemeine-geschaftsbedingungen/",
-    "amla-protection": "https://www.b-sharpe.com/de/geldwaschereibekampfung/",
-    "data-protection": "https://www.b-sharpe.com/de/datenschutz-richtlinien/",
+    "terms-conditions": "https://www.b-sharpe.com/de/allgemeine-geschaeftsbedingungen/",
+    "amla-protection": "https://www.b-sharpe.com/de/bestimmungen-des-geldwaeschereigesetzes-gwg/",
+    "data-protection": "https://www.b-sharpe.com/de/datenschutz-und-datennutzung/",
     "legal-notice": "https://www.b-sharpe.com/de/impressum/",
     "customer-service": "https://www.b-sharpe.com/de/kontakt/",
     "services": "https://www.b-sharpe.com/de/prozess/",
@@ -1285,10 +1286,30 @@
       "last-name-field-label": "Nachname",
       "email-field-label": "E-Mail"
     },
+    "update-password": {
+      "title": "Passwort aktualisieren",
+      "description": "Aktualisieren Sie Ihr Passwort, um Ihr Konto zu sichern.",
+      "button": "Passwort aktualisieren"
+    },
     "language": {
       "title": "Sprache",
       "description": "Ändern Sie die Anzeige- und Korrespondenzsprache",
       "language-field-label": "Ihre Sprache"
+    },
+    "passkey": {
+      "title": "Biometrie (Passkey)",
+      "description": "Melden Sie sich schnell mit Face ID, Fingerabdruck oder Bildschirmsperre an.",
+      "button": "Biometrie hinzufügen (Passkey)"
+    },
+    "account-security": {
+      "title": "Kontosicherheit",
+      "description": "Aktualisieren Sie Ihr Passwort, die Zwei-Faktor-Authentifizierung und die Wiederherstellungsoptionen.",
+      "button": "Kontosicherheit"
+    },
+    "device-activity": {
+      "title": "Geräteaktivität",
+      "description": "Sehen Sie, wo Sie derzeit angemeldet sind, und verwalten Sie verbundene Geräte",
+      "button": "Geräteaktivität"
     },
     "legal": {
       "title": "Rechtliches",
