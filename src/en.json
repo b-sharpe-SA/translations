@@ -187,6 +187,7 @@
     "Promo code": "Promo code",
     "Didn't receive the sms? Resend": "Didn't receive the SMS? Resend.",
     "select-currency-see-all": "View all currencies",
+    "select-currency-go-back": "Go back",
     "common-back": "Back",
     "common-password": "Password",
     "common-first-name": "First Name",
@@ -1071,9 +1072,9 @@
     "alert-box-btn": "Complete my registration"
   },
   "links": {
-    "terms-conditions": "https://www.b-sharpe.com/en/general-terms-and-conditions/",
-    "amla-protection": "https://www.b-sharpe.com/en/amla-provisions/",
-    "data-protection": "https://www.b-sharpe.com/en/data-protection-and-confidentiality/",
+    "terms-conditions": "https://www.b-sharpe.com/en/terms-and-conditions/",
+    "amla-protection": "https://www.b-sharpe.com/en/provisions-of-the-anti-money-laundering-act/",
+    "data-protection": "https://www.b-sharpe.com/en/data-protection-and-use/",
     "legal-notice": "https://www.b-sharpe.com/en/legal-notice/",
     "customer-service": "https://www.b-sharpe.com/en/customer-service/",
     "services": "https://www.b-sharpe.com/en/how-it-works/",
@@ -1278,14 +1279,40 @@
       "last-name-field-label": "Last name",
       "email-field-label": "Email"
     },
+    "update-password": {
+      "title": "Update password",
+      "description": "Update your password to secure your account.",
+      "button": "Update password"
+    },
     "language": {
       "title": "Language",
       "description": "Change the display and correspondence language",
       "language-field-label": "Your language"
     },
+    "passkey": {
+      "title": "Biometrics (Passkey)",
+      "description": "Sign in fast using your Face ID, Fingerprint or screen lock.",
+      "button": "Add Biometrics (Passkey)"
+    },
+    "account-security": {
+      "title": "Account security",
+      "description": "Update your password, two-factor authentication, and recovery options.",
+      "button": "Account security"
+    },
+    "device-activity": {
+      "title": "Device activity",
+      "description": "See where you’re currently logged in and manage connected devices",
+      "button": "Device activity"
+    },
+
     "legal": {
       "title": "Legal",
       "description": "Legal information"
+    },
+    "logout": {
+      "title": "Logout",
+      "description": "Sign out of your account on this device.",
+      "button": "Logout"
     },
     "delete-account": {
       "title": "Delete your account",

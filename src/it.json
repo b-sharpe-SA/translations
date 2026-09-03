@@ -187,6 +187,7 @@
     "Promo code": "Codice promozionale",
     "Didn't receive the sms? Resend": "Non hai ricevuto l'SMS? Rinvia.",
     "select-currency-see-all": "Vedi tutte le valute",
+    "select-currency-go-back": "Indietro",
     "common-back": "Indietro",
     "common-password": "Password",
     "common-first-name": "Nome",
@@ -323,7 +324,7 @@
     "you-receive": "Ricevi",
     "you-should-receive": "Dovresti ricevere",
     "you-should-send": "Dovresti inviare",
-    "receive-expected-amount":"Devono inviare esattamente",
+    "receive-expected-amount": "Devono inviare esattamente",
     "btn-change-amount-label": "Cambia importo",
     "btn-change-recipient-label": "Cambia beneficiario",
     "in-account": "Nel conto",
@@ -367,7 +368,7 @@
     "pay-by-manual-bank-transfer": "Pagare tramite bonifico bancario",
     "send-flow-send-money-vban": "Accedi al tuo e-banking o contatta la tua banca. Assicurati di pagare in {{currency}} e trasferisci <strong>esattamente {{amount}}</strong> sul tuo <strong>nuovo IBAN svizzero nominativo in {{currency}}</strong> indicato qui sotto.",
     "send-flow-send-money": "Accedi al tuo e-banking o contatta la tua banca. Assicurati di pagare in {{currency}} e trasferisci <strong>esattamente {{amount}}</strong> sul conto {{currency}} di b-sharpe.",
-    "add-beneficiary-type-title":"Chi riceverà il denaro?"
+    "add-beneficiary-type-title": "Chi riceverà il denaro?"
   },
   "rib-updated": {
     "alert": "Per continuare a godere dei nostri servizi, si prega di aggiornare il nostro IBAN.",
@@ -379,7 +380,7 @@
     "modal-text-3": "Ora puoi inviarci i tuoi fondi e li convertiremo come al solito!",
     "modal-alert": "Puoi raggiungerci al <strong>+41 22 311 11 82</strong> dal lunedì al venerdì, dalle 9:00 alle 18:00.",
     "modal-cta": "Vedi il nuovo IBAN"
-  },  
+  },
   "account": {
     "finish-setup": "{{firstName}}, Completa la configurazione del tuo account per sbloccare tutte le funzionalità.",
     "personal-information": "Informazioni personali",
@@ -662,7 +663,7 @@
     "iban": "IBAN B-Sharpe",
     "referral": "Invita i tuoi amici",
     "settings": "Impostazioni"
-    },
+  },
   "search-address-field": {
     "search-btn": "O cerca un indirizzo",
     "manually-btn": "O inseriscilo manualmente",
@@ -683,7 +684,7 @@
     "your-reward": "Le tue ricompense",
     "referral": "Riferimento",
     "rate-referral": "Sconto sul tasso",
-    "complimentary-fees":"Commissioni gratuite",
+    "complimentary-fees": "Commissioni gratuite",
     "referral-details-receive": "🎉 Grazie ai tuoi premi, riceverai {{amount}} in più sul tuo account.",
     "referral-details-send": "🎉 Grazie ai tuoi premi, invierai {{amount}} in meno dal tuo conto.",
     "referral-details-2": "🏦 Con il nostro tasso preferenziale, risparmierai circa {{amount}} rispetto a una banca tradizionale."
@@ -896,12 +897,12 @@
     "password-requirements": "Utilizza almeno 8 caratteri, inclusi almeno un numero e un carattere speciale (@$!%* #?&.,-)",
     "password-step-btn": "Imposta una nuova password"
   },
-  "forgot-password":{
+  "forgot-password": {
     "title": "Password dimenticata? Puoi crearne una nuova qui",
     "description": "Inserisci l'indirizzo email associato al tuo account b-sharpe.",
     "email-label": "Il tuo indirizzo email",
     "submit-button-label": "Avanti",
-    "email-hint": "Se il tuo indirizzo email è registrato nel nostro sistema, verrà inviato un codice nella tua casella di posta elettronica nel passaggio successivo." 
+    "email-hint": "Se il tuo indirizzo email è registrato nel nostro sistema, verrà inviato un codice nella tua casella di posta elettronica nel passaggio successivo."
   },
   "registration": {
     "create-account": "Crea un account",
@@ -1030,8 +1031,8 @@
     "email-verification": "Verifica email",
     "address-verification": "Verifica indirizzo",
     "usage": "Il tuo utilizzo",
-    "beneficiary":"Beneficiario",
-    "accept-contract-tooltip":"Devi completare le altre sezioni prima di poter firmare il tuo contratto",
+    "beneficiary": "Beneficiario",
+    "accept-contract-tooltip": "Devi completare le altre sezioni prima di poter firmare il tuo contratto",
     "invalid-date": "Data non valida",
     "min-date-1900": "La data deve essere successiva al 01/01/1900",
     "min-age-18": "Devi avere almeno 18 anni per creare un account"
@@ -1072,15 +1073,15 @@
     "todo": "Da fare",
     "in-review": "Verifica in corso",
     "completed": "Completato",
-    "alert-box-title-info-required":"Informazione importante",
-    "alert-box-desc-info-required":"Benvenuto su b-sharpe! Per iniziare a scambiare i tuoi fondi e rispettare le normative bancarie, abbiamo bisogno che tu completi alcune informazioni aggiuntive. Nel frattempo, puoi comunque esplorare la nostra app, impostare avvisi sui tassi, invitare i tuoi amici e altro ancora.",
-    "alert-box-title-waiting":"Stiamo verificando le tue informazioni",
-    "alert-box-btn":"Completa la mia registrazione"
+    "alert-box-title-info-required": "Informazione importante",
+    "alert-box-desc-info-required": "Benvenuto su b-sharpe! Per iniziare a scambiare i tuoi fondi e rispettare le normative bancarie, abbiamo bisogno che tu completi alcune informazioni aggiuntive. Nel frattempo, puoi comunque esplorare la nostra app, impostare avvisi sui tassi, invitare i tuoi amici e altro ancora.",
+    "alert-box-title-waiting": "Stiamo verificando le tue informazioni",
+    "alert-box-btn": "Completa la mia registrazione"
   },
   "links": {
-    "terms-conditions": "https://www.b-sharpe.com/it/termini-e-condizioni/",
-    "amla-protection": "https://www.b-sharpe.com/it/lege-lrd/",
-    "data-protection": "https://www.b-sharpe.com/it/protezione-dei-dati/",
+    "terms-conditions": "https://www.b-sharpe.com/it/condizioni-generali/",
+    "amla-protection": "https://www.b-sharpe.com/it/disposizioni-della-lrd/",
+    "data-protection": "https://www.b-sharpe.com/it/protezione-e-trattamento-dei-dati/",
     "legal-notice": "https://www.b-sharpe.com/it/note-legali/",
     "customer-service": "https://www.b-sharpe.com/it/contatti/",
     "rate": "https://www.b-sharpe.com/it/tasso/",
@@ -1093,14 +1094,14 @@
       "subtitle": "Non possiamo accettare foto di schermi (screenshot) e fotocopie.",
       "title": "Scegliere il documento che si desidera utilizzare per verificare la propria identità",
       "button_passport_detail": "Pagina con foto",
-      "button_id_detail":"Davanti e dietro"      
+      "button_id_detail": "Davanti e dietro"
     },
     "welcome": {
       "list_header_webcam": "Utilizza il telefono per catturare un'immagine di:"
     }
   },
-  "alerts":{
-    "hollidays":{
+  "alerts": {
+    "hollidays": {
       "banner": {
         "notice": "Orari speciali per le festività",
         "cta": "Visualizza orari"
@@ -1113,9 +1114,9 @@
           "dec_25_26": "Mercoledì 25 e Giovedì 26 Dicembre 2024 tutto il giorno",
           "dec_31_jan_1": "Martedì 31 Dicembre e Mercoledì 1 Gennaio 2025 tutto il giorno"
         },
-      "alert":"Vi auguriamo buone feste!\nLa squadra B-sharpe\nPotete contattarci al <strong>+41 22 311 11 82</strong> dal lunedì al venerdì dalle 9 alle 18"
-     },
-     "close": "Chiudi"
+        "alert": "Vi auguriamo buone feste!\nLa squadra B-sharpe\nPotete contattarci al <strong>+41 22 311 11 82</strong> dal lunedì al venerdì dalle 9 alle 18"
+      },
+      "close": "Chiudi"
     }
   },
   "preference": {
@@ -1129,8 +1130,8 @@
     "trackers-description": "Consento la raccolta di alcune informazioni di navigazione per migliorare la mia esperienza utente.",
     "biometrie": "Biometria",
     "biometrie-description": "Desidero accedere rapidamente e in sicurezza utilizzando la mia impronta digitale o il riconoscimento facciale."
-},
-  "error":{
+  },
+  "error": {
     "error-required": "Obbligatorio",
     "error-min8Letters": "8 caratteri minimo",
     "error-matchPassword": "Le password devono corrispondere",
@@ -1181,7 +1182,7 @@
     "max-length-exceeded": "Questo campo non può superare i {{max}} caratteri.",
     "forbidden-characters": "Questo campo contiene caratteri non validi: {{characters}}."
   },
-  "currencies":{
+  "currencies": {
     "EUR": "Euro",
     "CHF": "Franco svizzero",
     "USD": "Dollaro statunitense",
@@ -1210,13 +1211,13 @@
     "TND": "Dinaro tunisino",
     "RUB": "Rublo russo"
   },
-  "mobile":{
-    "consent-modal-title":"Prendiamo seriamente la tua privacy",
-    "consent-modal-content":"Per fornire la migliore esperienza utilizzando la nostra app, dobbiamo raccogliere alcune informazioni di navigazione.",
-    "consent-modal-disagree":"Non sono d'accordo",
-    "consent-modal-tell-me-more":"Dimmi di più",
-    "consent-modal-agree":"Va bene!",
-    "consent-modal-url":"https://www.b-sharpe.com/it/protezione-dei-dati/",
+  "mobile": {
+    "consent-modal-title": "Prendiamo seriamente la tua privacy",
+    "consent-modal-content": "Per fornire la migliore esperienza utilizzando la nostra app, dobbiamo raccogliere alcune informazioni di navigazione.",
+    "consent-modal-disagree": "Non sono d'accordo",
+    "consent-modal-tell-me-more": "Dimmi di più",
+    "consent-modal-agree": "Va bene!",
+    "consent-modal-url": "https://www.b-sharpe.com/it/protezione-dei-dati/",
     "use-password-title": "Usa la tua password",
     "document-selector": {
       "title": "Seleziona un documento da",
@@ -1285,14 +1286,40 @@
       "last-name-field-label": "Cognome",
       "email-field-label": "Email"
     },
+    "update-password": {
+      "title": "Aggiorna password",
+      "description": "Aggiorna la tua password per proteggere il tuo account.",
+      "button": "Aggiorna password"
+    },
     "language": {
       "title": "Lingua",
       "description": "Cambia la lingua di visualizzazione e corrispondenza",
       "language-field-label": "La tua lingua"
     },
+    "passkey": {
+      "title": "Biometria (Passkey)",
+      "description": "Accedi rapidamente usando Face ID, impronta digitale o blocco schermo.",
+      "button": "Aggiungi biometria (Passkey)"
+    },
+    "account-security": {
+      "title": "Sicurezza dell'account",
+      "description": "Aggiorna la password, l'autenticazione a due fattori e le opzioni di recupero.",
+      "button": "Sicurezza dell'account"
+    },
+    "device-activity": {
+      "title": "Attività dei dispositivi",
+      "description": "Scopri dove hai effettuato l'accesso e gestisci i dispositivi connessi",
+      "button": "Attività dei dispositivi"
+    },
+
     "legal": {
       "title": "Note legali",
       "description": "Informazioni legali"
+    },
+    "logout": {
+      "title": "Disconnettersi",
+      "description": "Disconnettiti dal tuo account su questo dispositivo.",
+      "button": "Disconnettersi"
     },
     "delete-account": {
       "title": "Elimina il tuo account",

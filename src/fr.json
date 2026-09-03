@@ -187,6 +187,7 @@
     "Promo code": "Code promotionnel",
     "Didn't receive the sms? Resend": "Vous n'avez pas reçu le SMS ? Renvoyer un nouveau.",
     "select-currency-see-all": "Voir toutes les devises",
+    "select-currency-go-back": "Retour",
     "common-back": "Retour",
     "common-password": "Mot de passe",
     "common-first-name": "Prénom",
@@ -1287,14 +1288,40 @@
       "last-name-field-label": "Nom",
       "email-field-label": "E-mail"
     },
+    "update-password": {
+      "title": "Mettre à jour le mot de passe",
+      "description": "Mettez à jour votre mot de passe pour sécuriser votre compte.",
+      "button": "Mettre à jour le mot de passe"
+    },
     "language": {
       "title": "Langue",
       "description": "Changez la langue d'affichage et correspondance",
       "language-field-label": "Votre langue"
     },
+    "passkey": {
+      "title": "Biométrie (Passkey)",
+      "description": "Connectez-vous rapidement à l’aide de Face ID, de votre empreinte digitale ou du verrouillage de l’écran.",
+      "button": "Ajouter Biométrie (Passkey)"
+    },
+    "account-security": {
+      "title": "Sécurité du compte",
+      "description": "Mettez à jour votre mot de passe, l’authentification à deux facteurs et les options de récupération.",
+      "button": "Sécurité du compte"
+    },
+    "device-activity": {
+      "title": "Activité des appareils",
+      "description": "Consultez vos sessions actives et gérez les appareils connectés",
+      "button": "Activité des appareils"
+    },
+
     "legal": {
       "title": "Mentions légales",
       "description": "Informations legales"
+    },
+    "logout": {
+      "title": "Déconnexion",
+      "description": "Déconnectez-vous de votre compte sur cet appareil.",
+      "button": "Déconnexion"
     },
     "delete-account": {
       "title": "Supprimer votre compte",
