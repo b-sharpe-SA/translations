@@ -352,7 +352,7 @@
     "btn-sent-funds-label": "J'ai envoyé l'argent",
     "btn-do-later-label": "Je le ferai plus tard",
     "thank-modal-title": "Merci d'utiliser b-sharpe",
-    "thank-modal-subtitle-success": "Votre argent est en chemin ! 💸",
+    "thank-modal-subtitle-success": "Votre argent est en chemin !",
     "thank-modal-subtitle-later": "N'oubliez pas de nous envoyer l'argent !",
     "thank-modal-subtitle-later-rate-locked": "N'oubliez pas de nous envoyer l'argent sous 48 heures !",
     "thank-modal-receive-title": "Nous attendons votre argent !",
