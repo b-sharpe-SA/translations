@@ -1050,11 +1050,11 @@
     "amla-protection": "https://www.b-sharpe.com/en/amla-provisions/",
     "data-protection": "https://www.b-sharpe.com/en/data-protection-and-confidentiality/",
     "legal-notice": "https://www.b-sharpe.com/en/legal-notice/",
-    "customer-service": "https://www.b-sharpe.com/en/customer-service/",
+    "customer-service": "https://www.b-sharpe.com/en/help-and-support-centre/",
     "services": "https://www.b-sharpe.com/en/how-it-works/",
-    "rate": "https://www.b-sharpe.com/en/rate/",
-    "pricing": "https://www.b-sharpe.com/en/pricing/",
-    "about-us": "https://www.b-sharpe.com/en/about-us/"
+    "rate": "https://www.b-sharpe.com/en/how-it-works/",
+    "pricing": "https://www.b-sharpe.com/en/how-it-works/",
+    "about-us": "https://www.b-sharpe.com/en/our-mission/"
   },
   "onfido-sdk": {
     "doc_select": {

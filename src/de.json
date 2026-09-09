@@ -1084,10 +1084,10 @@
     "data-protection": "https://www.b-sharpe.com/de/datenschutz-und-datennutzung/",
     "legal-notice": "https://www.b-sharpe.com/de/impressum/",
     "customer-service": "https://www.b-sharpe.com/de/kontakt/",
-    "services": "https://www.b-sharpe.com/de/prozess/",
-    "rate": "https://www.b-sharpe.com/de/kurse/",
-    "pricing": "https://www.b-sharpe.com/de/preise/",
-    "about-us": "https://www.b-sharpe.com/de/uber-uns/"
+    "services": "https://www.b-sharpe.com/de/funktionsweise/",
+    "rate": "https://www.b-sharpe.com/de/funktionsweise/",
+    "pricing": "https://www.b-sharpe.com/de/funktionsweise/",
+    "about-us": "https://www.b-sharpe.com/de/unsere-mission/"
   },
   "onfido-sdk": {
     "doc_select": {
