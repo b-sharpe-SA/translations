@@ -1279,6 +1279,11 @@
       "last-name-field-label": "Last name",
       "email-field-label": "Email"
     },
+    "switch-account": {
+      "title": "Switch account",
+      "description": "Switch to another b-sharpe account.",
+      "button": "Switch account"
+    },
     "update-password": {
       "title": "Update password",
       "description": "Update your password to secure your account.",

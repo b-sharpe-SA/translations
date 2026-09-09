@@ -1288,6 +1288,11 @@
       "last-name-field-label": "Nom",
       "email-field-label": "E-mail"
     },
+    "switch-account": {
+      "title": "Changer de compte",
+      "description": "Passer à un autre compte b-sharpe.",
+      "button": "Changer de compte"
+    },
     "update-password": {
       "title": "Mettre à jour le mot de passe",
       "description": "Mettez à jour votre mot de passe pour sécuriser votre compte.",
