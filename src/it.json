@@ -1324,7 +1324,8 @@
     "your-preferences": {
       "title": "Le tue preferenze",
       "description": "Gestisci le tue preferenze",
-      "referral-switch": "Visibilità della carta di riferimento"
+      "referral-switch": "Visibilità della carta di riferimento",
+      "promo-steps-switch": "Visibilità dei passaggi di riferimento"
     },
     "logout": {
       "title": "Disconnettersi",

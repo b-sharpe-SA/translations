@@ -1317,7 +1317,8 @@
     "your-preferences": {
       "title": "Your preferences",
       "description": "Manage your preferences",
-      "referral-switch": "Referral card visibility"
+      "referral-switch": "Referral card visibility",
+      "promo-steps-switch": "Referral steps visibility"
     },
     "logout": {
       "title": "Logout",

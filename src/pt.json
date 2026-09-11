@@ -1290,7 +1290,8 @@
     "your-preferences": {
       "title": "As suas preferências",
       "description": "Faça a gestão das suas preferências",
-      "referral-switch": "Visibilidade do cartão de indicação"
+      "referral-switch": "Visibilidade do cartão de indicação",
+      "promo-steps-switch": "Visibilidade dos passos de indicação"
     },
     "logout": {
       "title": "Sair",

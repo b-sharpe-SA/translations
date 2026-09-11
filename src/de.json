@@ -1323,7 +1323,8 @@
     "your-preferences": {
       "title": "Ihre Einstellungen",
       "description": "Verwalten Sie Ihre Einstellungen",
-      "referral-switch": "Sichtbarkeit der Empfehlungskarte"
+      "referral-switch": "Sichtbarkeit der Empfehlungskarte",
+      "promo-steps-switch": "Sichtbarkeit der Empfehlungsschritte"
     },
     "logout": {
       "title": "Ausloggen",

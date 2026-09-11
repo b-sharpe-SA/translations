@@ -1326,7 +1326,8 @@
     "your-preferences": {
       "title": "Vos préférences",
       "description": "Gérez vos préférences",
-      "referral-switch": "Visibilité de la carte de parrainage"
+      "referral-switch": "Visibilité de la carte de parrainage",
+      "promo-steps-switch": "Visibilité des étapes de parrainage"
     },
     "logout": {
       "title": "Déconnexion",
