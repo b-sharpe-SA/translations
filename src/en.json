@@ -1314,6 +1314,11 @@
       "title": "Legal",
       "description": "Legal information"
     },
+    "your-preferences": {
+      "title": "Your preferences",
+      "description": "Manage your preferences",
+      "referral-switch": "Referral card visibility"
+    },
     "logout": {
       "title": "Logout",
       "description": "Sign out of your account on this device.",

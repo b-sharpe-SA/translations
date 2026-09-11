@@ -1287,6 +1287,11 @@
       "title": "Legal",
       "description": "Informações legais"
     },
+    "your-preferences": {
+      "title": "As suas preferências",
+      "description": "Faça a gestão das suas preferências",
+      "referral-switch": "Visibilidade do cartão de indicação"
+    },
     "logout": {
       "title": "Sair",
       "description": "Saia da sua conta neste dispositivo.",

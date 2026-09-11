@@ -1323,6 +1323,11 @@
       "title": "Mentions légales",
       "description": "Informations legales"
     },
+    "your-preferences": {
+      "title": "Vos préférences",
+      "description": "Gérez vos préférences",
+      "referral-switch": "Visibilité de la carte de parrainage"
+    },
     "logout": {
       "title": "Déconnexion",
       "description": "Déconnectez-vous de votre compte sur cet appareil.",

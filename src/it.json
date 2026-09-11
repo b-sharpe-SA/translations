@@ -1321,6 +1321,11 @@
       "title": "Note legali",
       "description": "Informazioni legali"
     },
+    "your-preferences": {
+      "title": "Le tue preferenze",
+      "description": "Gestisci le tue preferenze",
+      "referral-switch": "Visibilità della carta di riferimento"
+    },
     "logout": {
       "title": "Disconnettersi",
       "description": "Disconnettiti dal tuo account su questo dispositivo.",

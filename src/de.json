@@ -1320,6 +1320,11 @@
       "title": "Rechtliches",
       "description": "Rechtliche Informationen"
     },
+    "your-preferences": {
+      "title": "Ihre Einstellungen",
+      "description": "Verwalten Sie Ihre Einstellungen",
+      "referral-switch": "Sichtbarkeit der Empfehlungskarte"
+    },
     "logout": {
       "title": "Ausloggen",
       "description": "Melden Sie sich auf diesem Gerät von Ihrem Konto ab.",
