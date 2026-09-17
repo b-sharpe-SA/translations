@@ -1031,7 +1031,7 @@
     "terms-conditions-label": "Ao se registar, você concorda com nossos",
     "terms-conditions-label-2": "e reconhece a veracidade das informações fornecidas.",
     "success-title": "Solicitação confirmada",
-    "success-description": "{{name}}, recebemos o seu registo.\nEm breve nosso atendimento entrará em contacto para finalizar o seu registo."
+    "success-description": "Recebemos o seu registo.\nEm breve nosso atendimento entrará em contacto para finalizar o seu registo."
   },
   "registration-remaining-steps": {
     "page-title-not-completed": "Ativação da conta",

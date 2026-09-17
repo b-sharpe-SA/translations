@@ -1057,7 +1057,7 @@
     "terms-conditions-label": "By registering, you agree to our",
     "terms-conditions-label-2": "and acknowledge the accuracy of the information provided.",
     "success-title": "Confirmed request",
-    "success-description": "{{name}}, we have received your registration.\nYou will soon be contacted by our customer service to finalize your registration."
+    "success-description": "We have received your registration.\nYou will soon be contacted by our customer service to finalize your registration."
   },
   "registration-remaining-steps": {
     "page-title-not-completed": "Account activation",

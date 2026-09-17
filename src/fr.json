@@ -1066,7 +1066,7 @@
     "terms-conditions-label": "En vous inscrivant, vous acceptez nos",
     "terms-conditions-label-2": "et reconnaissez l'exactitude des informations fournies.",
     "success-title": "Demande confirmée",
-    "success-description": "{{name}}, nous avons reçu votre inscription.\nVous serez bientôt contacté par notre service client pour finaliser votre inscription."
+    "success-description": "Nous avons reçu votre inscription.\nVous serez bientôt contacté par notre service client pour finaliser votre inscription."
   },
   "registration-remaining-steps": {
     "page-title-not-completed": "Activation du compte",

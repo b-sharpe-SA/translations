@@ -1064,7 +1064,7 @@
     "terms-conditions-label": "Registrandoti, accetti i nostri",
     "terms-conditions-label-2": "e riconosci l'accuratezza delle informazioni fornite.",
     "success-title": "Richiesta confermata",
-    "success-description": "{{name}}, abbiamo ricevuto la tua registrazione.\nSarai presto contattato dal nostro servizio clienti per finalizzare la tua registrazione."
+    "success-description": "Abbiamo ricevuto la tua registrazione.\nSarai presto contattato dal nostro servizio clienti per finalizzare la tua registrazione."
   },
   "registration-remaining-steps": {
     "page-title-not-completed": "Attivazione account",
