@@ -768,7 +768,9 @@
     "search-empty": "No beneficiaries",
     "swift": "SWIFT/BIC",
     "delete-beneficiary-modal-title": "Are you sure you want to delete this beneficiary?",
-    "see-more-beneficiaries": "See more beneficiaries"
+    "see-more-beneficiaries": "See more beneficiaries",
+    "update-needed": "Update needed",
+    "update-address-modal-title": "Please update your address"
   },
   "vban": {
     "claim-info-box-title": "Get even faster CHF transfers with a FREE nominative Swiss IBAN!",

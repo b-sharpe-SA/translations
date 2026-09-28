@@ -765,7 +765,9 @@
     "search-empty": "Keine Begünstigten",
     "swift": "SWIFT/BIC",
     "delete-beneficiary-modal-title": "Sind Sie sicher, dass Sie diesen Begünstigten löschen möchten?",
-    "see-more-beneficiaries": "Weitere Begünstigte anzeigen"
+    "see-more-beneficiaries": "Weitere Begünstigte anzeigen",
+    "update-needed": "Aktualisierung erforderlich",
+    "update-address-modal-title": "Bitte aktualisieren Sie Ihre Adresse"
   },
   "vban": {
     "claim-info-box-title": "Schnellere CHF-Überweisungen mit kostenloser, auf Ihren Namen lautender Schweizer IBAN!",

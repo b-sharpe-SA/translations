@@ -765,7 +765,9 @@
     "search-empty": "Nessun beneficiario",
     "swift": "SWIFT/BIC",
     "delete-beneficiary-modal-title": "Sei sicuro di voler eliminare questo beneficiario?",
-    "see-more-beneficiaries": "Vedi altri beneficiari"
+    "see-more-beneficiaries": "Vedi altri beneficiari",
+    "update-needed": "Aggiornamento necessario",
+    "update-address-modal-title": "Aggiorna il tuo indirizzo"
   },
   "vban": {
     "claim-info-box-title": "Velocizza i trasferimenti in CHF con un IBAN svizzero personale GRATUITO!",

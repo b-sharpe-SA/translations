@@ -767,7 +767,9 @@
     "search-empty": "Aucun bénéficiaire",
     "swift": "SWIFT/BIC",
     "delete-beneficiary-modal-title": "Êtes-vous sûr de vouloir supprimer ce bénéficiaire ?",
-    "see-more-beneficiaries": "Voir plus de bénéficiaires"
+    "see-more-beneficiaries": "Voir plus de bénéficiaires",
+    "update-needed": "Mise à jour requise",
+    "update-address-modal-title": "Veuillez mettre à jour votre adresse"
   },
   "vban": {
     "claim-info-box-title": "Accélérez vos transferts en CHF avec un IBAN suisse nominatif GRATUIT !",
