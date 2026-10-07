@@ -658,7 +658,8 @@
     "welcome": "Bienvenue",
     "good-morning": "Bonjour",
     "good-afternoon": "Bon après-midi",
-    "good-evening": "Bonsoir"
+    "good-evening": "Bonsoir",
+    "enabled": "Activé"
   },
   "sidebar": {
     "home": "Accueil",

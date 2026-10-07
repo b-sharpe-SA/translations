@@ -633,7 +633,8 @@
     "welcome": "Bem-vindo",
     "good-morning": "Bom dia",
     "good-afternoon": "Boa tarde",
-    "good-evening": "Boa noite"
+    "good-evening": "Boa noite",
+    "enabled": "Ativado"
   },
   "sidebar": {
     "home": "Início",

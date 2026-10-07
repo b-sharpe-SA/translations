@@ -659,7 +659,8 @@
     "welcome": "Welcome",
     "good-morning": "Good morning",
     "good-afternoon": "Good afternoon",
-    "good-evening": "Good evening"
+    "good-evening": "Good evening",
+    "enabled": "Enabled"
   },
   "sidebar": {
     "home": "Home",

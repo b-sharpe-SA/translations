@@ -656,7 +656,8 @@
     "welcome": "Willkommen",
     "good-morning": "Guten Morgen",
     "good-afternoon": "Guten Tag",
-    "good-evening": "Guten Abend"
+    "good-evening": "Guten Abend",
+    "enabled": "Aktiviert"
   },
   "sidebar": {
     "home": "Startseite",
