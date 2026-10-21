@@ -492,7 +492,18 @@
     "new-operation-button-label": "Neue Operation erstellen",
     "transaction-details-empty": "Keine Details",
     "beneficiary-received": "Ihr Begünstigter hat erhalten",
-    "see-more-operations": "Weitere Operationen anzeigen"
+    "see-more-operations": "Weitere Operationen anzeigen",
+    "timeline-created": "Sie haben Ihre Überweisung erstellt",
+    "timeline-awaiting-funds": "Wir warten auf Ihre Geldmittel",
+    "timeline-funds-received": "Gelder erhalten",
+    "timeline-funds-sent": "Gelder gesendet",
+    "timeline-transfer-in-progress": "Überweisung läuft",
+    "timeline-transfer-processed": "Überweisung bearbeitet",
+    "timeline-in-progress": "läuft",
+    "download-change-confirmation": "Wechselbestätigung herunterladen",
+    "download-payment-confirmation": "Zahlungsbestätigung herunterladen",
+    "amount-available-info": "Der Betrag wird verfügbar sein, sobald wir Ihre Gelder erhalten haben.",
+    "exchange-rate-available-info": "Der Wechselkurs wird verfügbar sein, sobald wir Ihre Gelder erhalten haben."
   },
   "iban-documents": {
     "title": "IBAN und Dokumente",

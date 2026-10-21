@@ -466,7 +466,18 @@
     "new-operation-button-label": "Criar nova operação",
     "transaction-details-empty": "Sem detalhes",
     "beneficiary-received": "O seu beneficiário recebeu",
-    "see-more-operations": "Ver mais operações"
+    "see-more-operations": "Ver mais operações",
+    "timeline-created": "Criou a sua transferência",
+    "timeline-awaiting-funds": "À espera dos seus fundos",
+    "timeline-funds-received": "Fundos recebidos",
+    "timeline-funds-sent": "Fundos enviados",
+    "timeline-transfer-in-progress": "Transferência em curso",
+    "timeline-transfer-processed": "Transferência processada",
+    "timeline-in-progress": "em curso",
+    "download-change-confirmation": "Transferir aviso de câmbio",
+    "download-payment-confirmation": "Transferir aviso de pagamento",
+    "amount-available-info": "O montante estará disponível assim que recebermos os seus fundos.",
+    "exchange-rate-available-info": "A taxa de câmbio estará disponível assim que recebermos os seus fundos."
   },
   "iban-documents": {
     "title": "IBAN e Documentos",

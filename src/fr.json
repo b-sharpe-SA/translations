@@ -494,7 +494,18 @@
     "new-operation-button-label": "Créer une nouvelle opération",
     "transaction-details-empty": "Pas de détail",
     "beneficiary-received": "Votre bénéficiaire a reçu",
-    "see-more-operations": "Voir plus d'opérations"
+    "see-more-operations": "Voir plus d'opérations",
+    "timeline-created": "Vous avez créé votre transfert",
+    "timeline-awaiting-funds": "En attente de vos fonds",
+    "timeline-funds-received": "Fonds reçus",
+    "timeline-funds-sent": "Fonds envoyés",
+    "timeline-transfer-in-progress": "Transfert en cours",
+    "timeline-transfer-processed": "Transfert traité",
+    "timeline-in-progress": "en cours",
+    "download-change-confirmation": "Avis de change",
+    "download-payment-confirmation": "Avis de paiement",
+    "amount-available-info": "Le montant sera disponible dès réception de vos fonds.",
+    "exchange-rate-available-info": "Le taux de change sera disponible dès réception de vos fonds."
   },
   "iban-documents": {
     "title": "IBAN et documents",
