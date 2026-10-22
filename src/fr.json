@@ -505,6 +505,7 @@
     "download-change-confirmation": "Avis de change",
     "download-payment-confirmation": "Avis de paiement",
     "amount-available-info": "Le montant sera disponible dès réception de vos fonds.",
+    "amount-to-send-info": "Le montant sera disponible dès réception des fonds qui vous sont destinés.",
     "exchange-rate-available-info": "Le taux de change sera disponible dès réception de vos fonds."
   },
   "iban-documents": {

@@ -503,6 +503,7 @@
     "download-change-confirmation": "Download exchange confirmation",
     "download-payment-confirmation": "Download payment confirmation",
     "amount-available-info": "The amount will be available once we receive your funds.",
+    "amount-to-send-info": "The amount will be available once we receive the funds intended for you.",
     "exchange-rate-available-info": "The exchange rate will be available once we receive your funds."
   },
   "iban-documents": {

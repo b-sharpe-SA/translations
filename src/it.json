@@ -503,6 +503,7 @@
     "download-change-confirmation": "Scarica l'avviso di cambio",
     "download-payment-confirmation": "Scarica l'avviso di pagamento",
     "amount-available-info": "L'importo sarà disponibile non appena riceveremo i tuoi fondi.",
+    "amount-to-send-info": "L'importo sarà disponibile non appena riceveremo i fondi a te destinati.",
     "exchange-rate-available-info": "Il tasso di cambio sarà disponibile non appena riceveremo i tuoi fondi."
   },
   "iban-documents": {

@@ -477,6 +477,7 @@
     "download-change-confirmation": "Transferir aviso de câmbio",
     "download-payment-confirmation": "Transferir aviso de pagamento",
     "amount-available-info": "O montante estará disponível assim que recebermos os seus fundos.",
+    "amount-to-send-info": "O montante estará disponível assim que recebermos os fundos que lhe são destinados.",
     "exchange-rate-available-info": "A taxa de câmbio estará disponível assim que recebermos os seus fundos."
   },
   "iban-documents": {
