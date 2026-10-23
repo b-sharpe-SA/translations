@@ -570,6 +570,7 @@
     "data-protection": "Protezione dei dati",
     "legal-notice": "Avviso legale",
     "cookies": "Cookie",
+    "price-comparison": "Metodologia di confronto dei prezzi",
     "switch-account": "Cambia account",
     "no": "No",
     "yes": "Sì",
@@ -1118,7 +1119,8 @@
     "rate": "https://www.b-sharpe.com/it/funzionamento/",
     "services": "https://www.b-sharpe.com/it/funzionamento/",
     "pricing": "https://www.b-sharpe.com/it/funzionamento/",
-    "about-us": "https://www.b-sharpe.com/it/la-nostra-missione/"
+    "about-us": "https://www.b-sharpe.com/it/la-nostra-missione/",
+    "price-comparison": "https://www.b-sharpe.com/comparatif/"
   },
   "onfido-sdk": {
     "doc_select": {
