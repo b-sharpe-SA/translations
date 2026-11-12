@@ -1362,6 +1362,13 @@
       "referral-switch": "Visibilité de la carte de parrainage",
       "promo-steps-switch": "Visibilité des étapes de parrainage"
     },
+    "marketing": {
+      "title": "Communications marketing",
+      "description": "Choisissez comment vous souhaitez recevoir nos actualités, offres et mises à jour. Vous pouvez modifier ce choix à tout moment.",
+      "email": "E-mail",
+      "sms": "SMS",
+      "whatsapp": "WhatsApp"
+    },
     "logout": {
       "title": "Déconnexion",
       "description": "Déconnectez-vous de votre compte sur cet appareil.",

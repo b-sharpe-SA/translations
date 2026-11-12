@@ -1353,6 +1353,13 @@
       "referral-switch": "Referral card visibility",
       "promo-steps-switch": "Referral steps visibility"
     },
+    "marketing": {
+      "title": "Marketing communications",
+      "description": "Choose how you'd like to receive news, offers and updates from us. You can change this at any time.",
+      "email": "Email",
+      "sms": "SMS",
+      "whatsapp": "WhatsApp"
+    },
     "logout": {
       "title": "Logout",
       "description": "Sign out of your account on this device.",

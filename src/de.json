@@ -1359,6 +1359,13 @@
       "referral-switch": "Sichtbarkeit der Empfehlungskarte",
       "promo-steps-switch": "Sichtbarkeit der Empfehlungsschritte"
     },
+    "marketing": {
+      "title": "Marketing-Kommunikation",
+      "description": "Wählen Sie, wie Sie Neuigkeiten, Angebote und Updates von uns erhalten möchten. Sie können dies jederzeit ändern.",
+      "email": "E-Mail",
+      "sms": "SMS",
+      "whatsapp": "WhatsApp"
+    },
     "logout": {
       "title": "Ausloggen",
       "description": "Melden Sie sich auf diesem Gerät von Ihrem Konto ab.",

@@ -1360,6 +1360,13 @@
       "referral-switch": "Visibilità della carta di riferimento",
       "promo-steps-switch": "Visibilità dei passaggi di riferimento"
     },
+    "marketing": {
+      "title": "Comunicazioni di marketing",
+      "description": "Scegli come desideri ricevere novità, offerte e aggiornamenti da parte nostra. Puoi modificare questa scelta in qualsiasi momento.",
+      "email": "Email",
+      "sms": "SMS",
+      "whatsapp": "WhatsApp"
+    },
     "logout": {
       "title": "Disconnettersi",
       "description": "Disconnettiti dal tuo account su questo dispositivo.",
