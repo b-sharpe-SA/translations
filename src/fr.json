@@ -772,6 +772,7 @@
     "tooltip-pending": "Ce compte bancaire est en cours de validation. Nous vous informerons dès que vous pourrez l'utiliser.",
     "add-beneficiary-success-message": "Votre compte bancaire a été ajouté avec succès. Vous pouvez l'utiliser dès maintenant.",
     "add-beneficiary-not-myself-success-message": "Votre compte bancaire a bien été ajouté et est en cours de validation. Nous vous informerons dès que vous pouvez l'utiliser",
+    "delete-beneficiary-success-message": "Votre compte bancaire a été supprimé avec succès.",
     "details-modal-title": "Détails du compte bancaire",
     "delete-beneficiary-btn": "Supprimer ce compte bancaire",
     "pending-tooltip": "Ce compte bancaire est en cours de validation. Nous vous informerons dès que vous pourrez l'utiliser.",
@@ -1367,7 +1368,9 @@
       "description": "Choisissez comment vous souhaitez recevoir nos actualités, offres et mises à jour. Vous pouvez modifier ce choix à tout moment.",
       "email": "E-mail",
       "sms": "SMS",
-      "whatsapp": "WhatsApp"
+      "whatsapp": "WhatsApp",
+      "button": "Gérer les préférences",
+      "rate-limit-error": "Vous pouvez mettre à jour vos préférences marketing une fois par minute. Veuillez réessayer dans quelques instants."
     },
     "logout": {
       "title": "Déconnexion",

@@ -773,6 +773,7 @@
     "tooltip-pending": "This bank account is pending validation. We will inform you as soon as you can use it.",
     "add-beneficiary-success-message": "Your bank account has been successfully added. You can use it now.",
     "add-beneficiary-not-myself-success-message": "Your bank account has been successfully added and is pending validation. We will inform you as soon as you can use it.",
+    "delete-beneficiary-success-message": "Your bank account has been successfully deleted.",
     "details-modal-title": "Bank Account Details",
     "delete-beneficiary-btn": "Delete this bank account",
     "pending-tooltip": "This bank account is pending validation. We will inform you as soon as you can use it.",
@@ -1358,7 +1359,9 @@
       "description": "Choose how you'd like to receive news, offers and updates from us. You can change this at any time.",
       "email": "Email",
       "sms": "SMS",
-      "whatsapp": "WhatsApp"
+      "whatsapp": "WhatsApp",
+      "button": "Manage preferences",
+      "rate-limit-error": "You can update your marketing preferences once per minute. Please try again shortly."
     },
     "logout": {
       "title": "Logout",

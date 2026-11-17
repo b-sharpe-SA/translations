@@ -747,6 +747,7 @@
     "tooltip-pending": "Esta conta bancária está pendente de validação. Informaremos assim que você puder usá-la.",
     "add-beneficiary-success-message": "A sua conta bancária foi adicionada com sucesso. Você já pode usá-la.",
     "add-beneficiary-not-myself-success-message": "A sua conta bancária foi adicionada com sucesso e está pendente de validação. Informaremos assim que você puder usá-la.",
+    "delete-beneficiary-success-message": "A sua conta bancária foi eliminada com sucesso.",
     "details-modal-title": "Detalhes da Conta Bancária",
     "delete-beneficiary-btn": "Eliminar esta conta bancária",
     "pending-tooltip": "Esta conta bancária está pendente de validação. Informaremos assim que você puder usá-la.",
@@ -1331,7 +1332,9 @@
       "description": "Escolha como pretende receber novidades, ofertas e atualizações da nossa parte. Pode alterar esta opção a qualquer momento.",
       "email": "Email",
       "sms": "SMS",
-      "whatsapp": "WhatsApp"
+      "whatsapp": "WhatsApp",
+      "button": "Gerir preferências",
+      "rate-limit-error": "Pode atualizar as suas preferências de marketing uma vez por minuto. Tente novamente dentro de instantes."
     },
     "logout": {
       "title": "Sair",
