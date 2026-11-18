@@ -345,6 +345,8 @@
     "disclaimer-ask-funds": "Vergessen Sie nicht, Ihren {{sourceFunds}} darum zu bitten, Ihre Referenz als \"Zahlungsgrund\"/\"Nachricht an den Begünstigten\" hinzuzufügen. Andernfalls kann dies zu erheblichen Verzögerungen bei der Bearbeitung führen.",
     "make-transfer": "Öffnen Sie Ihr E-Banking und tätigen Sie eine Überweisung von <strong>genau {{amount}} {{currency}}</strong> auf das Konto von b-sharpe unten",
     "within-48-hours": "innerhalb von 48 Arbeitsstunden.",
+    "rate-confirmation-pending-title": "Kursbestätigung ausstehend",
+    "rate-confirmation-pending-description": "Unser Handelsteam wird sich in Kürze bei Ihnen melden, um Ihren Kurs zu fixieren.",
     "ask-transfer": "Bitten Sie Ihren {{sourceFunds}}, den Betrag von <strong>{{amount}} {{currency}}</strong> auf das Konto von b-sharpe unten zu überweisen.",
     "no-forget-reference": "Vergessen Sie nicht, Ihre Referenz als \"Zahlungsgrund\"/\"Nachricht an den Begünstigten\" hinzuzufügen. Andernfalls kann dies zu erheblichen Verzögerungen bei der Bearbeitung führen.",
     "btn-sent-funds-label": "Ich habe das Geld gesendet",
@@ -526,6 +528,9 @@
     "warning-credit-swiss-customer": "Wenn Sie Kunde der Credit Suisse sind, vergessen Sie nicht, das Kästchen 'Ich zahle im Namen einer anderen Person' zu deaktivieren"
   },
   "common": {
+    "transaction-type": "Transaktionsart",
+    "buy": "Kauf",
+    "sell": "Verkauf",
     "email": "Email",
     "password": "Passwort",
     "beneficiaries": "Begünstigte",

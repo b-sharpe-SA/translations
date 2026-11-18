@@ -319,6 +319,8 @@
     "disclaimer-ask-funds": "Não se esqueça de pedir ao seu {{sourceFunds}} para adicionar a sua referência como 'Motivo do pagamento'/'Mensagem ao beneficiário'. Caso contrário, isso pode causar atrasos significativos no processamento.",
     "make-transfer": "Aceda ao seu e-banking e faça uma transferência de <strong>exatamente {{amount}} {{currency}}</strong> para a conta {{currency}} da b-sharpe abaixo",
     "within-48-hours": "em até 48 horas úteis.",
+    "rate-confirmation-pending-title": "Confirmação da taxa pendente",
+    "rate-confirmation-pending-description": "A nossa equipa de trading entrará em contacto consigo em breve para fixar a sua taxa.",
     "ask-transfer": "Peça ao seu {{sourceFunds}} para transferir o <strong>{{amount}} {{currency}}</strong> para a conta {{currency}} da b-sharpe abaixo.",
     "no-forget-reference": "Não se esqueça de incluir a sua referência como 'Motivo do pagamento'/'Mensagem para o beneficiário'. Não incluir isso causará atrasos importantes.",
     "btn-sent-funds-label": "Enviei o dinheiro",
@@ -503,6 +505,9 @@
     "reminder-credit-suisse": "Se você é cliente do Credit Suisse, não se esqueça de desmarcar a caixa 'Estou a pagar em nome de outra pessoa'"
   },
   "common": {
+    "transaction-type": "Tipo de transação",
+    "buy": "Compra",
+    "sell": "Venda",
     "email": "E-mail",
     "password": "Palavra-passe",
     "beneficiaries": "Beneficiários",

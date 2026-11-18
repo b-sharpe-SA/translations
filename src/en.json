@@ -345,6 +345,8 @@
     "disclaimer-ask-funds": "Don't forget to ask your {{sourceFunds}} to add your reference as \"Payment Reason\"/\"Message to the beneficiary\". Otherwise, this can cause significant processing delays.",
     "make-transfer": "Open your e-banking and make a transfer of <strong>exactly {{amount}} {{currency}}</strong> to b-sharpe's {{currency}} account below",
     "within-48-hours": "within 48 working hours.",
+    "rate-confirmation-pending-title": "Rate Confirmation Pending",
+    "rate-confirmation-pending-description": "Our trading team will reach out shortly to lock in your rate.",
     "ask-transfer": "Ask your {{sourceFunds}} to transfer the <strong>{{amount}} {{currency}}</strong> on b-sharpe {{currency}} account below.",
     "no-forget-reference": "Don’t forget to include your reference as \"Reason for payment\"/\"Message for the beneficiary\". Not including those will cause important delays.",
     "btn-sent-funds-label": "I’ve sent the money",
@@ -529,6 +531,9 @@
     "reminder-credit-suisse": "If you are a Credit Suisse customer, don't forget to uncheck the box 'I am paying on behalf of someone else'"
   },
   "common": {
+    "transaction-type": "Transaction type",
+    "buy": "Buy",
+    "sell": "Sell",
     "email": "Email",
     "password": "Password",
     "beneficiaries": "Beneficiaries",

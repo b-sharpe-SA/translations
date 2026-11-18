@@ -347,6 +347,8 @@
     "disclaimer-ask-funds": "N'oubliez pas de demander à votre {{sourceFunds}} d'ajouter votre référence en tant que \"Raison du paiement\"/\"Message pour le bénéficiaire\". Dans le cas contraire, cela peut entraîner des retards de traitement importants.",
     "make-transfer": "Ouvrez votre e-banking et faites un virement d'<strong>exactement {{amount}} {{currency}}</strong> vers le compte {{currency}} de b-sharpe ci-dessous",
     "within-48-hours": "sous 48 heures ouvrées.",
+    "rate-confirmation-pending-title": "Confirmation du taux en attente",
+    "rate-confirmation-pending-description": "Notre équipe de trading vous contactera sous peu pour bloquer votre taux.",
     "ask-transfer": "Demander à votre {{sourceFunds}} de transférer le montant de <strong>{{amount}} {{currency}}</strong> sur le compte {{currency}} de b-sharpe ci-dessous.",
     "no-forget-reference": "N'oubliez pas d'ajouter votre référence en tant que \"Raison du paiement\"/\"Message pour le bénéficiaire\". Dans le cas contraire, cela peut entraîner des retards de traitement importants.",
     "btn-sent-funds-label": "J'ai envoyé l'argent",
@@ -528,6 +530,9 @@
     "warning-credit-swiss-customer": "Si vous êtes un client Credit Suisse, n'oubliez pas de décocher la case 'Je paie pour le compte de quelqu'un d'autre'"
   },
   "common": {
+    "transaction-type": "Type de transaction",
+    "buy": "Achat",
+    "sell": "Vente",
     "email": "Email",
     "password": "Mot de passe",
     "beneficiaries": "Bénéficiaires",
